@@ -4,7 +4,6 @@ import sys
 from operator import add
 from pyspark import SparkContext
 from csv import reader
-import re
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
