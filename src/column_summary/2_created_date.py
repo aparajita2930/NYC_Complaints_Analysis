@@ -1,19 +1,27 @@
 from __future__ import print_function
 
-import sys
+import sys, os
 from operator import add
 from pyspark import SparkContext
 from csv import reader
-from helper/assign_basetype import assign_basetype
-
+from datetime import datetime
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'helper'))
+from assign_basetype import *
+from date_common import *
+#from assign_basetype import assign_basetype
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
 def get_label(value, basetype):
-	if basetype == "str":
-		return "NULL"
-	elif basetype == "DATETIME":
-		dt = datetime.datetime.strptime(value, "%m/%d/%Y %I:%M:%S %p")
+	if basetype == "TEXT":
+		if not value:
+			return "NULL"
+		else:
+			return "INVALID"
+	elif (basetype == "DATETIME" and date_in_valid_time_range(value)):
+		return "VALID"
+	else:
+		return "INVALID"
 
 
 def create_labels(value):
@@ -30,6 +38,6 @@ if __name__ == "__main__":
     lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
     #lines = lines.map(lambda x: x.split(","))
     lines = lines.mapPartitions(lambda x: reader(x)) 
-    summary_count = lines.map(lambda line : (line[7].encode('utf-8').strip(), 1))
-    summary_count.saveAsTextFile("2_created_date_summary.out")
+    details_created_date = lines.map(lambda line : ("%s\t%s" % (line[2].encode('utf-8').strip(), create_labels(line[2].encode('utf-8').strip()))))
+    details_created_date.saveAsTextFile("2_created_date_summary.out")
     sc.stop()
