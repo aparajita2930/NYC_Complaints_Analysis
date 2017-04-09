@@ -34,6 +34,6 @@ if __name__ == "__main__":
 	from geo_common import *
 	lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 	lines = lines.mapPartitions(lambda x: reader(x)) 
-	details_lng = lines.map(lambda line : ("%s\t%s" % (line[51].encode('utf-8').strip(), create_labels(line[51].encode('utf-8').strip()))))
+	details_lng = lines.map(lambda line : ("%s\t%s" % (line[50].encode('utf-8').strip(), create_labels(line[50].encode('utf-8').strip()))))
 	details_lng.saveAsTextFile("51_longitude_details.out")
 	sc.stop()
