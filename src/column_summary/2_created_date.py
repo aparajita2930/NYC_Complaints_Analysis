@@ -4,13 +4,6 @@ import sys, os
 from operator import add
 from pyspark import SparkContext
 from csv import reader
-from datetime import datetime
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'helper'))
-from assign_basetype import *
-from date_common import *
-#from assign_basetype import assign_basetype
-reload(sys)
-sys.setdefaultencoding('utf-8')
 
 def get_label(value, basetype):
 	if basetype == "TEXT":
@@ -35,6 +28,10 @@ if __name__ == "__main__":
         print("Usage: 2_created_date.py <file>",  file=sys.stderr)
         exit(-1)
     sc = SparkContext()
+    sc.addFile("src/helper/assign_basetype.py")
+	sc.addFile("src/helper/date_common.py")
+	from assign_basetype import *
+	from date_common import *
     lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
     #lines = lines.map(lambda x: x.split(","))
     lines = lines.mapPartitions(lambda x: reader(x)) 
