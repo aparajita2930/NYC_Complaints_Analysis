@@ -10,7 +10,7 @@ import re
 sc = SparkContext()
 sc.addFile("src/helper/assign_basetype.py")
 from assign_basetype import *
-zip_lines = sc.textFile("zip.csv",1)
+zip_lines = sc.textFile("/user/ac5901/zip.csv",1)
 zips = dict(zip_lines.mapPartitions(lambda x: reader(x)).collect())
 
 def check_zip(val):

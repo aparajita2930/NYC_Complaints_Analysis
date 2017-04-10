@@ -9,7 +9,7 @@ from csv import reader
 sc = SparkContext()
 sc.addFile("src/helper/assign_basetype.py")
 from assign_basetype import *
-city_lines = sc.textFile("city.csv",1)
+city_lines = sc.textFile("/user/ac5901/city.csv",1)
 cities = city_lines.map(lambda x: x).collect()
 
 def check_city(val):
