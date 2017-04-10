@@ -12,17 +12,17 @@ sc.addFile("src/helper/assign_basetype.py")
 from assign_basetype import *
 
 def check_phone(val):
-        basetype = get_basetype(val)
+	basetype = get_basetype(val)
 	pattern=re.compile('^\(*(\-?[\d+]{3}(\)*-*\s*[\d+]{3}(-*[\d]{4}))?)$')
 	if basetype == 'TEXT' or basetype == 'INT':
-                if val is None or len(str(val).strip()) == 0 or str(val) in ['Unspecified', 'NA', 'N/A', 'NA 0/0']:
-                        return 'NULL'
-                elif pattern.match(val):
+		if val is None or len(str(val).strip()) == 0 or str(val) in ['Unspecified', 'NA', 'N/A', 'NA 0/0']:
+			return 'NULL'
+		elif pattern.match(val):
 			return 'VALID'
 		else:
 			return 'INVALID'
-        else:
-                return 'INVALID'
+	else:
+		return 'INVALID'
 
 def get_semantictype(val0, val1, basetype):
 	chk = check_phone(val0)

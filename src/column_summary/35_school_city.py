@@ -13,16 +13,16 @@ city_lines = sc.textFile("/user/ac5901/city.csv",1)
 cities = city_lines.map(lambda x: x).collect()
 
 def check_city(val):
-        basetype = get_basetype(val)
+	basetype = get_basetype(val)
 	if basetype == 'TEXT':
-                if val is None or len(val.strip()) == 0 or val in ['Unspecified', 'NA', 'N/A', 'N?A', 'NA/']:
-                        return 'NULL'
-                elif val.upper() in cities:
+		if val is None or len(val.strip()) == 0 or val in ['Unspecified', 'NA', 'N/A', 'N?A', 'NA/']:
+			return 'NULL'
+		elif val.upper() in cities:
 			return 'VALID'
 		else:
 			return 'INVALID'
-        else:
-                return 'INVALID'
+	else:
+		return 'INVALID'
 
 def get_semantictype(val0, val1, basetype):
 	chk = check_city(val0)

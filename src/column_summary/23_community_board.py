@@ -13,16 +13,16 @@ cb_lines = sc.textFile("/user/ac5901/community_board.csv",1)
 cb = cb_lines.map(lambda x: x).collect()
 
 def check_cb(val):
-        basetype = get_basetype(val)
+	basetype = get_basetype(val)
 	if basetype == 'TEXT':
-                if val is None or len(val.strip()) == 0 or val in ['Unspecified', 'NA', 'N/A', 'N?A', 'NA/'] or val.find('Unspecified') <> -1:
-                        return 'NULL'
-                elif val.upper() in cb:
+		if val is None or len(val.strip()) == 0 or val in ['Unspecified', 'NA', 'N/A', 'N?A', 'NA/'] or val.find('Unspecified') <> -1:
+			return 'NULL'
+		elif val.upper() in cb:
 			return 'VALID'
 		else:
 			return 'INVALID'
-        else:
-                return 'INVALID'
+	else:
+		return 'INVALID'
 
 def get_semantictype(val0, val1, basetype):
 	chk = check_cb(val0)

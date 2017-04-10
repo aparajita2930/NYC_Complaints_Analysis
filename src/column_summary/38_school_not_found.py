@@ -13,16 +13,16 @@ from assign_basetype import *
 
 
 def check_entry(val):
-        basetype = get_basetype(val)
-        if basetype == 'TEXT':
-                if val is None or len(val.strip()) == 0 or val in ['Unspecified', 'NA', 'N/A']:
-                        return 'NULL'
-                elif val.strip().upper() in ['N', 'Y', 'NO', 'YES']:
-                        return 'VALID'
-                else:
-                        return 'INVALID'
-        else:
-                return 'INVALID'
+	basetype = get_basetype(val)
+	if basetype == 'TEXT':
+		if val is None or len(val.strip()) == 0 or val in ['Unspecified', 'NA', 'N/A']:
+			return 'NULL'
+		elif val.strip().upper() in ['N', 'Y', 'NO', 'YES']:
+			return 'VALID'
+		else:
+			return 'INVALID'
+	else:
+		return 'INVALID'
 
 def get_semantictype(val0, val1, basetype):
 	chk = check_entry(val0)

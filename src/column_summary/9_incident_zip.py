@@ -14,25 +14,25 @@ zip_lines = sc.textFile("/user/ac5901/zip.csv",1)
 zips = dict(zip_lines.mapPartitions(lambda x: reader(x)).collect())
 
 def check_zip(val):
-        basetype = get_basetype(val)
+	basetype = get_basetype(val)
 	pattern=re.compile('^(\-?[\d+]{5}(-[\d+]{4})?)$')
-        if basetype == 'INT':
-                if val in zips.keys():
-                        return 'VALID'
-                else:
-                        return 'INVALID'
-        elif basetype == 'TEXT':
-                if val is None or len(val.strip()) == 0 or val == 'Unspecified':
-                        return 'NULL'
-                elif pattern.match(val):
+	if basetype == 'INT':
+		if val in zips.keys():
+			return 'VALID'
+		else:
+			return 'INVALID'
+	elif basetype == 'TEXT':
+		if val is None or len(val.strip()) == 0 or val == 'Unspecified':
+			return 'NULL'
+		elif pattern.match(val):
 			if val.strip()[0:val.strip().find('-')] in zips.keys():
 				return 'VALID'
 			else:
-	                        return 'INVALID'
+				return 'INVALID'
 		else:
 			return 'INVALID'
-        else:
-                return 'INVALID'
+	else:
+		return 'INVALID'
 
 def get_semantictype(val0, val1, basetype):
 	pattern=re.compile('^(\-?[\d+]{5}(-[\d+]{4})?)$')

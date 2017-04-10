@@ -19,16 +19,16 @@ from assign_basetype import *
 
 
 def check_region(val):
-        basetype = get_basetype(val)
-        if basetype == 'TEXT':
-                if val is None or len(val.strip()) == 0 or val in ['Unspecified', 'NA', 'N/A']:
-                        return 'NULL'
-                elif val.strip().upper() in ['REGION 1', 'REGION 2', 'REGION 3', 'REGION 4', 'REGION 5', 'REGION 6', 'REGION 7', 'REGION 8', 'REGION 9', 'REGION 10', 'DISTRICT 75', 'DISTRICT 79']:
-                        return 'VALID'
-                else:
-                        return 'INVALID'
-        else:
-                return 'INVALID'
+	basetype = get_basetype(val)
+	if basetype == 'TEXT':
+		if val is None or len(val.strip()) == 0 or val in ['Unspecified', 'NA', 'N/A']:
+			return 'NULL'
+		elif val.strip().upper() in ['REGION 1', 'REGION 2', 'REGION 3', 'REGION 4', 'REGION 5', 'REGION 6', 'REGION 7', 'REGION 8', 'REGION 9', 'REGION 10', 'DISTRICT 75', 'DISTRICT 79']:
+			return 'VALID'
+		else:
+			return 'INVALID'
+	else:
+		return 'INVALID'
 
 def get_semantictype(val0, val1, basetype):
 	chk = check_region(val0)
