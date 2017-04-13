@@ -59,6 +59,6 @@ details = lines.map(lambda line : (line[36].encode('utf-8').strip(), 1)) \
  			.reduceByKey(add) \
 			.map(lambda x: col_details(x[0], x[1]))
 
-details.map(lambda x: "%s\t%s %s %s" % (x[0], x[1], x[2], x[3])).saveAsTextFile("37_school_zip.out")
+details.map(lambda x: "%s\t%s %s %s" % (x[0], x[1], x[2], x[3])).saveAsTextFile("37_details.out")
 
 sc.stop()

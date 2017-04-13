@@ -39,5 +39,5 @@ if __name__ == "__main__":
 	lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 	lines = lines.mapPartitions(lambda x: reader(x)) 
 	details_due_date = lines.map(lambda line : ("%s\t%s" % (line[20].encode('utf-8').strip(), create_labels(line[20].encode('utf-8').strip(),line[1].encode('utf-8').strip(),line[2].encode('utf-8').strip(),line[21].encode('utf-8').strip()))))
-	details_due_date.saveAsTextFile("21_due_date_details.out")
+	details_due_date.saveAsTextFile("21_details.out")
 	sc.stop()

@@ -39,5 +39,5 @@ if __name__ == "__main__":
 	lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 	lines = lines.mapPartitions(lambda x: reader(x)) 
 	details_resolution_action_date = lines.map(lambda line : ("%s\t%s" % (line[21].encode('utf-8').strip(), create_labels(line[21].encode('utf-8').strip(),line[1].encode('utf-8').strip(),line[2].encode('utf-8').strip(),line[20].encode('utf-8').strip()))))
-	details_resolution_action_date.saveAsTextFile("22_resolution_action_date_details.out")
+	details_resolution_action_date.saveAsTextFile("22_details.out")
 	sc.stop()

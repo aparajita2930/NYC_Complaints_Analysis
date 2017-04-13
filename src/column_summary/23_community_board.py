@@ -47,6 +47,6 @@ details = lines.map(lambda line : (line[22].encode('utf-8').strip(), 1)) \
  			.reduceByKey(add) \
 			.map(lambda x: col_details(x[0], x[1]))
 
-details.map(lambda x: "%s\t%s %s %s" % (x[0], x[1], x[2], x[3])).saveAsTextFile("23_community_board.out")
+details.map(lambda x: "%s\t%s %s %s" % (x[0], x[1], x[2], x[3])).saveAsTextFile("23_details.out")
 
 sc.stop()

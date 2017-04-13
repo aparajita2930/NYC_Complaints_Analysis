@@ -35,5 +35,5 @@ if __name__ == "__main__":
 	lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 	lines = lines.mapPartitions(lambda x: reader(x)) 
 	details_lat = lines.map(lambda line : ("%s\t%s" % (line[49].encode('utf-8').strip(), create_labels(line[49].encode('utf-8').strip()))))
-	details_lat.saveAsTextFile("50_latitude_details.out")
+	details_lat.saveAsTextFile("50_details.out")
 	sc.stop()

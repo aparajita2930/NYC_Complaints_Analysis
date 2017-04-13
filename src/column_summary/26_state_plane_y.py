@@ -39,5 +39,5 @@ if __name__ == "__main__":
 	lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 	lines = lines.mapPartitions(lambda x: reader(x)) 
 	details_loc = lines.map(lambda line : ("%s\t%s" % (line[25].encode('utf-8').strip(), create_labels(line[25].replace(',','').encode('utf-8').strip()))))
-	details_loc.saveAsTextFile("26_state_plane_y_details.out")
+	details_loc.saveAsTextFile("26_details.out")
 	sc.stop()

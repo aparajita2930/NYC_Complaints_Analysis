@@ -41,5 +41,5 @@ if __name__ == "__main__":
 	lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 	lines = lines.mapPartitions(lambda x: reader(x)) 
 	details = lines.map(lambda line : ("%s\t%s" % (line[41].encode('utf-8').strip(), create_labels(line[41].encode('utf-8').strip()))))
-	details.saveAsTextFile("42_taxi_pickup_location_details.out")
+	details.saveAsTextFile("42_details.out")
 	sc.stop()

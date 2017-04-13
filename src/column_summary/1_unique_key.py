@@ -51,6 +51,6 @@ details_unique_key = lines.map(lambda line : (line[0].encode('utf-8').strip(), 1
  			.reduceByKey(add) \
 			.map(lambda x: col_details(x[0], x[1]))
 
-details_unique_key.map(lambda x: "%s\t%s %s %s" % (x[0], x[1], x[2], x[3])).saveAsTextFile("1_unique_key.out")
+details_unique_key.map(lambda x: "%s\t%s %s %s" % (x[0], x[1], x[2], x[3])).saveAsTextFile("1_details.out")
 
 sc.stop()

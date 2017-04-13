@@ -41,5 +41,5 @@ if len(sys.argv) != 2:
 lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 lines = lines.mapPartitions(lambda x: reader(x))
 details = lines.map(lambda line : ("%s\t%s" % (line[3].encode('utf-8').strip(), create_labels(line[3].encode('utf-8').strip()))))
-details.saveAsTextFile("4_agency_summary.out")
+details.saveAsTextFile("4_details.out")
 sc.stop()
