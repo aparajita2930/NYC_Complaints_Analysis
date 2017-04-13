@@ -13,10 +13,11 @@ all_lines = sc.textFile("/user/ac5901/complaint_type.csv",1)
 valid_types = all_lines.map(lambda x: x).collect()
 
 def get_label(val, basetype):
+	val = val.upper()
 	if basetype == 'TEXT':
-		if val is None or len(val.strip()) == 0 or val in ['Unspecified', 'NA', 'N/A', 'N?A', 'NA/']:
+		if val is None or len(val.strip()) == 0 or val in ['UNSPECIFIED', 'NA', 'N/A', 'N?A', 'NA/']:
 			return 'NULL'
-		elif val.upper() in valid_types:
+		elif val in valid_types:
 			return 'VALID'
 		else:
 			return 'INVALID'
