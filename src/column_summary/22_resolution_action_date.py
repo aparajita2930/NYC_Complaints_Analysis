@@ -16,11 +16,15 @@ def get_label(value, basetype, before_date_range, after_date_range):
 	else:
 		return "INVALID"
 
+def get_semantics(basetype, label):
+	if basetype == "DATETIME" and label == "VALID":
+		return "RES_DATE"
+	return "TEXT"
 
 def create_labels(value, created_date, closed_date, due_date):
 	basetype = get_basetype(value)
-	semantictype = None
 	label = get_label(value, basetype,[created_date],[due_date, closed_date])
+	semantictype = get_semantics(basetype,label)
 	return "%s %s %s" % (basetype, semantictype, label)
 
 if __name__ == "__main__":
