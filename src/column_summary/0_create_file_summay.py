@@ -6,7 +6,7 @@ from csv import reader
 from pyspark import SparkContext
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
+	if len(sys.argv) != 2:
 		print("Usage: 0_create_file_summary.py <file>", file=sys.stderr)
 		exit(-1)
 	sc = SparkContext()

@@ -6,7 +6,7 @@ from csv import reader
 from pyspark import SparkContext
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
+	if len(sys.argv) != 3:
 		print("Usage: 0_column_count <file> <column_number>", file=sys.stderr)
 		exit(-1)
 	sc = SparkContext()
@@ -21,6 +21,3 @@ if __name__ == "__main__":
 	filename = sys.argv[2] + "_column_count.out"
 	counts.saveAsTextFile(filename)
 	sc.stop()
-	print "-" * 20
-	print "File saved : " + filename
-	print "-" * 20
