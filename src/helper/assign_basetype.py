@@ -20,4 +20,3 @@ def get_basetype(val):
     except ValueError:
       continue
   return 'TEXT'
-

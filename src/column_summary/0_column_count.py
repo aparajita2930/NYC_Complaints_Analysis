@@ -10,13 +10,13 @@ if __name__ == "__main__":
 		print("Usage: 0_column_count <file> <column_number>", file=sys.stderr)
 		exit(-1)
 	sc = SparkContext()
-	lines = sc.textFile(sys.argv[1], 1)
+	lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 	lines = lines.mapPartitions(lambda x: reader(x))
 	column_number = int(sys.argv[2])
 	counts = lines \
-	     .map(lambda x: (int(x[column_number]),1)) \
+	     .map(lambda x: (x[column_number].encode('utf-8').strip(),1)) \
 	     .reduceByKey(lambda x,y: x + y) \
-	     .sortBy(lambda x:x[0]) \
+	     .sortBy(lambda x:x[1]) \
 	     .map(lambda (x,y): "%s\t%s" % (x,y))
 	filename = sys.argv[2] + "_column_count.out"
 	counts.saveAsTextFile(filename)
