@@ -14,7 +14,7 @@ if __name__ == "__main__":
 	lines = sc.textFile(filename + "/part*", 1)
 	lines = lines.mapPartitions(lambda x: reader(x, delimiter='\t'))
 	counts = lines \
-	     .map(lambda x: ("%s, %s" % (x[1],1))) \
+	     .map(lambda x: (x[1],1)) \
 	     .reduceByKey(lambda x,y: x + y) \
 	     .map(lambda (x,y): "%s\t%s" % (x,y))
 	saveFileName = filename.replace("_details.out","_summary.out")
