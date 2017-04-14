@@ -1,0 +1,5754 @@
+12AM, HEATING	994768
+12AM, GENERAL CONSTRUCTION	533272
+12AM, PLUMBING	516235
+12AM, PAINT - PLASTER	383124
+12AM, HEAT/HOT WATER	283530
+12AM, NONCONST	276295
+12AM, ELECTRIC	200270
+12AM, Rodent	171451
+11PM, Noise - Residential	147199
+10PM, Noise - Residential	129333
+11AM, Street Light Condition	121081
+12AM, Noise - Residential	120990
+10AM, Street Light Condition	105118
+01AM, Noise - Residential	95552
+12AM, PAINT/PLASTER	92910
+09PM, Noise - Residential	92062
+12AM, UNSANITARY CONDITION	90030
+02PM, Street Condition	76292
+02PM, Street Light Condition	72136
+08PM, Noise - Residential	71844
+01PM, Street Light Condition	66862
+02AM, Noise - Residential	61970
+12AM, APPLIANCE	57976
+03PM, Street Condition	57179
+01PM, Street Condition	56850
+07PM, Noise - Residential	56638
+03PM, Street Light Condition	56597
+09AM, Street Light Condition	55092
+09AM, Street Condition	51603
+10AM, Street Condition	51555
+07AM, Street Condition	51051
+06PM, Noise - Residential	46215
+12AM, DOOR/WINDOW	46143
+11AM, Street Condition	46141
+08AM, Street Condition	44682
+12AM, WATER LEAK	44499
+02PM, Traffic Signal Condition	44484
+12PM, Street Light Condition	43412
+12PM, Street Condition	42156
+03AM, Noise - Residential	40298
+04PM, Street Condition	38939
+12AM, Noise - Commercial	38119
+05PM, Noise - Residential	38056
+12AM, Street Light Condition	37807
+12AM, Street Condition	37735
+07PM, Street Condition	37681
+06PM, Street Condition	37678
+12AM, GENERAL	37474
+11PM, Noise - Commercial	36191
+04PM, Street Light Condition	35022
+09AM, Blocked Driveway	33567
+08AM, Blocked Driveway	33287
+09PM, Blocked Driveway	33244
+08PM, Blocked Driveway	32504
+04PM, Noise - Residential	32451
+04PM, Water System	31959
+12AM, FLOORING/STAIRS	31819
+03PM, Water System	31170
+11AM, Water System	31079
+08AM, Missed Collection (All Materials)	31069
+01PM, Dirty Conditions	30916
+10AM, Water System	30907
+12PM, Water System	30770
+05PM, Water System	30625
+11PM, Noise - Street/Sidewalk	30422
+09AM, Illegal Parking	30063
+07PM, Blocked Driveway	30058
+02PM, Water System	30039
+10PM, Blocked Driveway	30037
+10AM, Blocked Driveway	30036
+09AM, Water System	29783
+12AM, Blocked Driveway	29775
+01PM, Water System	29060
+03PM, Noise - Residential	29059
+05PM, Street Condition	28595
+12AM, Traffic Signal Condition	28324
+06PM, Blocked Driveway	28114
+09PM, Illegal Parking	28095
+11AM, Blocked Driveway	27937
+11AM, Illegal Parking	27360
+12PM, Illegal Parking	27346
+08AM, Illegal Parking	27335
+10AM, Illegal Parking	27286
+04AM, Noise - Residential	27279
+06PM, Water System	27230
+10PM, Noise - Street/Sidewalk	26924
+10PM, Noise - Commercial	26535
+02PM, Noise - Residential	26527
+01AM, Noise - Commercial	26409
+07AM, Blocked Driveway	26226
+12PM, Blocked Driveway	26210
+12AM, Noise - Street/Sidewalk	26072
+03PM, Traffic Signal Condition	25857
+01PM, Noise - Residential	24796
+05PM, Blocked Driveway	24735
+12AM, Water System	24673
+09AM, Missed Collection (All Materials)	24593
+07PM, Water System	24266
+09AM, HEAT/HOT WATER	24195
+11PM, Blocked Driveway	24082
+01PM, Blocked Driveway	23897
+08AM, Water System	23558
+10AM, HEAT/HOT WATER	23281
+11AM, General Construction/Plumbing	23219
+04PM, Blocked Driveway	22959
+10PM, Illegal Parking	22904
+12PM, Noise - Residential	22771
+01PM, Illegal Parking	22762
+02PM, Blocked Driveway	22748
+10AM, Sewer	22560
+11AM, HEAT/HOT WATER	22307
+03PM, Blocked Driveway	22282
+11AM, Sewer	22279
+12AM, Noise	22252
+08AM, HEAT/HOT WATER	22172
+02PM, Illegal Parking	21726
+12PM, HEAT/HOT WATER	21710
+10AM, General Construction/Plumbing	21679
+08PM, HEAT/HOT WATER	21576
+08PM, Illegal Parking	21547
+11AM, DOF Literature Request	21473
+01PM, Traffic Signal Condition	21384
+07PM, HEAT/HOT WATER	21105
+09AM, Noise	21081
+09AM, Sewer	21050
+10PM, Noise	21020
+12PM, General Construction/Plumbing	20980
+08PM, Water System	20798
+11AM, Noise - Residential	20739
+09PM, HEAT/HOT WATER	20664
+10AM, DOF Literature Request	20605
+07AM, HEAT/HOT WATER	20586
+11PM, Noise	20562
+05PM, HEAT/HOT WATER	20412
+07PM, Illegal Parking	20339
+06PM, HEAT/HOT WATER	20245
+09AM, Sanitation Condition	20183
+12PM, Sewer	20182
+09PM, Street Light Condition	20177
+06PM, Illegal Parking	20140
+05PM, Illegal Parking	20133
+03PM, Illegal Parking	20021
+09PM, Noise - Street/Sidewalk	19950
+04PM, Illegal Parking	19803
+08AM, Traffic Signal Condition	19799
+04PM, HEAT/HOT WATER	19740
+10AM, Dirty Conditions	19694
+12PM, DOF Literature Request	19551
+07AM, Illegal Parking	19510
+03PM, General Construction/Plumbing	19471
+10AM, Noise - Residential	19367
+10AM, Damaged Tree	19131
+02PM, DOF Literature Request	19076
+02PM, General Construction/Plumbing	19061
+09AM, General Construction/Plumbing	19031
+08AM, Street Light Condition	18986
+01PM, Sewer	18978
+01PM, General Construction/Plumbing	18931
+09AM, Traffic Signal Condition	18891
+11PM, Illegal Parking	18888
+11AM, Dirty Conditions	18857
+10AM, Sanitation Condition	18849
+01PM, HEAT/HOT WATER	18838
+09AM, Dirty Conditions	18695
+05AM, Noise - Residential	18693
+02PM, Sewer	18600
+01PM, DOF Literature Request	18559
+10AM, Missed Collection (All Materials)	18369
+03PM, DOF Literature Request	18360
+10AM, Noise	18339
+08PM, Street Light Condition	18198
+08AM, Noise	18109
+01PM, Graffiti	18094
+03PM, Sewer	18054
+04PM, Traffic Signal Condition	18007
+11AM, Damaged Tree	17905
+02PM, HEAT/HOT WATER	17878
+03PM, HEAT/HOT WATER	17853
+10PM, HEAT/HOT WATER	17828
+10AM, Traffic Signal Condition	17797
+09AM, Damaged Tree	17732
+09PM, Noise	17704
+08AM, Sanitation Condition	17608
+11AM, Building/Use	17532
+09PM, Water System	17427
+12PM, Dirty Conditions	17354
+01AM, Noise - Street/Sidewalk	17233
+09AM, Noise - Residential	17118
+12PM, Building/Use	17080
+03PM, Building/Use	17020
+11AM, Traffic Signal Condition	16945
+02PM, Dirty Conditions	16873
+02AM, Noise - Commercial	16844
+06PM, Dirty Conditions	16775
+11AM, Sanitation Condition	16775
+10AM, Building/Use	16613
+12PM, Damaged Tree	16560
+12AM, General Construction/Plumbing	16475
+04PM, General Construction/Plumbing	16353
+01PM, Building/Use	16252
+12PM, Broken Muni Meter	16180
+05PM, Street Light Condition	16149
+02PM, Building/Use	16126
+09AM, DOF Literature Request	16093
+04PM, Sewer	15980
+11AM, Noise	15953
+04PM, Building/Use	15768
+01PM, Broken Muni Meter	15727
+08PM, Street Condition	15695
+06AM, Blocked Driveway	15690
+03PM, Dirty Conditions	15679
+12AM, Sewer	15583
+09PM, Noise - Commercial	15525
+07PM, Street Light Condition	15521
+02PM, Broken Muni Meter	15489
+01PM, Damaged Tree	15449
+11AM, Broken Muni Meter	15377
+06PM, Street Light Condition	15257
+12PM, Traffic Signal Condition	15194
+02PM, Damaged Tree	15189
+03PM, Damaged Tree	15178
+08PM, Noise - Street/Sidewalk	15165
+07AM, Water System	15008
+11PM, HEAT/HOT WATER	14988
+12PM, Sanitation Condition	14885
+08PM, Noise	14859
+04PM, DOF Literature Request	14734
+05PM, Traffic Signal Condition	14645
+08AM, Noise - Residential	14624
+09AM, Building/Use	14619
+06AM, HEAT/HOT WATER	14569
+10PM, Street Light Condition	14540
+03PM, Broken Muni Meter	14528
+04PM, Dirty Conditions	14409
+07AM, Noise	14267
+01PM, Sanitation Condition	14208
+08AM, Sewer	14139
+04PM, Damaged Tree	14053
+08AM, Dirty Conditions	13967
+11AM, UNSANITARY CONDITION	13923
+05PM, Broken Muni Meter	13905
+04PM, Broken Muni Meter	13900
+06PM, Graffiti	13860
+11AM, Missed Collection (All Materials)	13857
+12PM, UNSANITARY CONDITION	13786
+10PM, Water System	13705
+10AM, Broken Muni Meter	13636
+06AM, Noise - Residential	13612
+07PM, Dirty Conditions	13578
+07AM, Noise - Residential	13388
+02PM, Sanitation Condition	13336
+09PM, Street Condition	13258
+12AM, Dirty Conditions	13224
+09AM, Broken Muni Meter	13012
+01PM, UNSANITARY CONDITION	13002
+06AM, Sewer	12946
+07PM, Sewer	12929
+10AM, UNSANITARY CONDITION	12889
+12PM, Noise	12889
+03PM, Sanitation Condition	12882
+07PM, Noise	12826
+07AM, Traffic Signal Condition	12782
+01PM, Noise	12739
+05PM, Sewer	12647
+06PM, Broken Muni Meter	12613
+01AM, Noise	12478
+02PM, Noise	12462
+05PM, Dirty Conditions	12361
+11AM, PAINT/PLASTER	12228
+06PM, Noise	12187
+03PM, Noise	12170
+06AM, Street Condition	12035
+08AM, General Construction/Plumbing	12019
+12PM, PAINT/PLASTER	12004
+06PM, Traffic Signal Condition	11952
+10AM, Overgrown Tree/Branches	11925
+12PM, Consumer Complaint	11879
+02PM, UNSANITARY CONDITION	11871
+12AM, Illegal Parking	11839
+11AM, Consumer Complaint	11754
+08AM, Damaged Tree	11748
+12AM, SAFETY	11722
+01PM, Consumer Complaint	11680
+01AM, Blocked Driveway	11655
+05PM, Damaged Tree	11650
+11AM, Overgrown Tree/Branches	11637
+07PM, Noise - Street/Sidewalk	11602
+04PM, Sanitation Condition	11599
+10PM, Street Condition	11585
+03PM, Consumer Complaint	11520
+03PM, UNSANITARY CONDITION	11480
+02PM, Consumer Complaint	11452
+12AM, Unsanitary Animal Pvt Property	11330
+10AM, PAINT/PLASTER	11280
+02AM, Noise - Street/Sidewalk	11236
+05PM, Building/Use	11201
+04PM, Noise	11155
+12AM, Noise - Vehicle	11096
+04PM, UNSANITARY CONDITION	11059
+11PM, Noise - Vehicle	10979
+12PM, Missed Collection (All Materials)	10881
+07AM, Sanitation Condition	10779
+04PM, Consumer Complaint	10718
+01PM, PAINT/PLASTER	10676
+11AM, SCRIE	10653
+04PM, Taxi Complaint	10555
+10AM, Derelict Vehicle	10534
+09AM, Derelict Vehicle	10513
+05PM, General Construction/Plumbing	10495
+11AM, DOF Property - Reduction Issue	10482
+09AM, UNSANITARY CONDITION	10445
+11PM, Street Condition	10431
+07PM, Traffic Signal Condition	10419
+10AM, DOF Property - Reduction Issue	10418
+06PM, Damaged Tree	10375
+11AM, Derelict Vehicle	10274
+10AM, Consumer Complaint	10247
+06PM, Sewer	10234
+10AM, SCRIE	10206
+10PM, Noise - Vehicle	10153
+12PM, Overgrown Tree/Branches	10145
+12PM, Derelict Vehicle	10122
+08PM, Noise - Commercial	10109
+05PM, Sanitation Condition	10108
+05PM, Noise	9881
+09AM, Overgrown Tree/Branches	9867
+06AM, Illegal Parking	9804
+08AM, Building/Use	9733
+09AM, Derelict Vehicles	9687
+11AM, Graffiti	9623
+12AM, Building/Use	9609
+08PM, Traffic Signal Condition	9608
+11PM, Street Light Condition	9604
+02PM, PAINT/PLASTER	9514
+12AM, Taxi Complaint	9496
+11PM, Water System	9477
+06PM, Noise - Street/Sidewalk	9428
+01PM, Overgrown Tree/Branches	9359
+11AM, New Tree Request	9252
+02PM, DOF Property - Reduction Issue	9247
+03PM, PAINT/PLASTER	9220
+08AM, Homeless Person Assistance	9191
+05PM, UNSANITARY CONDITION	9182
+12PM, Graffiti	9168
+06AM, Water System	9145
+10AM, Derelict Vehicles	9127
+03PM, Taxi Complaint	9116
+01PM, Derelict Vehicle	9062
+11AM, PLUMBING	9047
+12PM, DOF Property - Reduction Issue	9024
+03PM, Graffiti	9011
+10AM, New Tree Request	9009
+03PM, DOF Property - Reduction Issue	8965
+11AM, Derelict Vehicles	8905
+12PM, PLUMBING	8905
+03AM, Noise - Commercial	8880
+06PM, Sanitation Condition	8867
+06AM, Noise	8834
+03PM, Derelict Vehicle	8830
+11AM, Special Enforcement	8827
+12PM, New Tree Request	8819
+12PM, SCRIE	8816
+10AM, Graffiti	8796
+09AM, Homeless Person Assistance	8787
+02PM, Derelict Vehicle	8757
+02PM, Overgrown Tree/Branches	8735
+01PM, DOF Property - Reduction Issue	8728
+03PM, New Tree Request	8716
+10PM, Traffic Signal Condition	8671
+02PM, SCRIE	8632
+11PM, Traffic Signal Condition	8575
+05PM, Taxi Complaint	8548
+09PM, Noise - Vehicle	8523
+01PM, New Tree Request	8520
+04PM, Derelict Vehicle	8506
+01PM, Missed Collection (All Materials)	8505
+05AM, Blocked Driveway	8479
+03PM, SCRIE	8458
+04PM, PAINT/PLASTER	8448
+10AM, PLUMBING	8444
+01PM, SCRIE	8442
+09AM, PAINT/PLASTER	8440
+08AM, Derelict Vehicles	8431
+09AM, DOF Property - Reduction Issue	8407
+02PM, New Tree Request	8397
+05AM, HEAT/HOT WATER	8380
+11AM, DOF Property - Owner Issue	8371
+12AM, Snow	8334
+01PM, PLUMBING	8330
+07PM, Damaged Tree	8296
+10AM, DOF Property - Owner Issue	8243
+05PM, Consumer Complaint	8235
+12PM, Derelict Vehicles	8193
+02PM, Graffiti	8175
+08PM, Sewer	8100
+12AM, Sanitation Condition	8086
+03PM, Overgrown Tree/Branches	8040
+08AM, Derelict Vehicle	8005
+11AM, DOF Parking - Payment Issue	7985
+09PM, Traffic Signal Condition	7984
+06PM, Building/Use	7887
+05PM, Noise - Street/Sidewalk	7871
+10AM, DOF Parking - Payment Issue	7858
+11AM, Benefit Card Replacement	7808
+12PM, Benefit Card Replacement	7741
+11AM, Root/Sewer/Sidewalk Condition	7714
+01AM, HEAT/HOT WATER	7700
+04PM, Graffiti	7678
+02PM, PLUMBING	7671
+04PM, New Tree Request	7633
+03PM, DOF Parking - Payment Issue	7627
+10AM, Root/Sewer/Sidewalk Condition	7590
+12PM, DOF Parking - Payment Issue	7578
+02PM, Missed Collection (All Materials)	7572
+01AM, Illegal Parking	7563
+02PM, Taxi Complaint	7563
+02PM, DOF Parking - Payment Issue	7554
+01PM, Benefit Card Replacement	7547
+02PM, Derelict Vehicles	7540
+10AM, Homeless Person Assistance	7520
+01PM, Derelict Vehicles	7512
+02AM, Blocked Driveway	7473
+09AM, Consumer Complaint	7440
+02PM, Benefit Card Replacement	7434
+05PM, Derelict Vehicle	7430
+07AM, Dirty Conditions	7390
+02AM, Noise	7387
+09AM, SCRIE	7322
+03PM, Derelict Vehicles	7321
+08PM, Noise - Vehicle	7288
+07AM, Sewer	7285
+11AM, Taxi Complaint	7267
+06PM, General Construction/Plumbing	7236
+03PM, PLUMBING	7232
+03AM, Noise - Street/Sidewalk	7202
+12PM, DOF Property - Owner Issue	7199
+01PM, DOF Parking - Payment Issue	7192
+10AM, Taxi Complaint	7189
+04PM, DOF Parking - Payment Issue	7142
+06PM, Taxi Complaint	7139
+10AM, Benefit Card Replacement	7077
+01AM, Traffic Signal Condition	7051
+12PM, Root/Sewer/Sidewalk Condition	7020
+03PM, Benefit Card Replacement	7005
+01PM, Taxi Complaint	7002
+06PM, UNSANITARY CONDITION	6975
+09AM, DOF Property - Owner Issue	6966
+07PM, Sanitation Condition	6955
+04PM, PLUMBING	6934
+12PM, Taxi Complaint	6927
+04PM, Overgrown Tree/Branches	6901
+04PM, DOF Property - Reduction Issue	6897
+09AM, DOF Parking - Payment Issue	6886
+04PM, Derelict Vehicles	6875
+07PM, Noise - Commercial	6866
+09PM, Sewer	6864
+09AM, New Tree Request	6831
+08PM, Dirty Conditions	6812
+03PM, DOF Property - Owner Issue	6798
+06AM, Traffic Signal Condition	6795
+02PM, DOF Property - Owner Issue	6780
+11AM, DOOR/WINDOW	6765
+04PM, Noise - Street/Sidewalk	6747
+03PM, Missed Collection (All Materials)	6698
+01PM, Root/Sewer/Sidewalk Condition	6654
+09AM, PLUMBING	6615
+10AM, Maintenance or Facility	6596
+05PM, PAINT/PLASTER	6585
+06PM, Consumer Complaint	6577
+10AM, Dead Tree	6549
+01AM, Noise - Vehicle	6544
+11AM, Maintenance or Facility	6544
+08AM, Broken Muni Meter	6527
+12PM, DOOR/WINDOW	6483
+08PM, Damaged Tree	6444
+01PM, DOF Property - Owner Issue	6441
+06PM, Derelict Vehicle	6410
+10PM, Taxi Complaint	6390
+03PM, Noise - Street/Sidewalk	6381
+10AM, DOF Property - Request Copy	6369
+02AM, Sewer	6278
+02PM, Root/Sewer/Sidewalk Condition	6266
+07PM, Taxi Complaint	6263
+11AM, Dead Tree	6254
+01PM, DOOR/WINDOW	6229
+05PM, Derelict Vehicles	6218
+09AM, DHS Advantage - Tenant	6214
+04PM, Missed Collection (All Materials)	6186
+07PM, Noise - Vehicle	6183
+07PM, Building/Use	6145
+04PM, SCRIE	6141
+07PM, UNSANITARY CONDITION	6111
+11AM, DOF Property - Request Copy	6105
+09AM, Taxi Complaint	6079
+10AM, DOOR/WINDOW	6062
+07AM, Damaged Tree	6056
+09AM, Graffiti	6043
+09PM, Taxi Complaint	6042
+10AM, DHS Advantage - Tenant	6041
+08PM, Taxi Complaint	6033
+12PM, Maintenance or Facility	5952
+11AM, DHS Advantage - Tenant	5948
+03PM, Root/Sewer/Sidewalk Condition	5946
+11AM, Snow	5934
+02PM, Noise - Street/Sidewalk	5926
+04PM, Benefit Card Replacement	5925
+09AM, Root/Sewer/Sidewalk Condition	5915
+09AM, Snow	5900
+08PM, Sanitation Condition	5898
+05PM, PLUMBING	5879
+11PM, Taxi Complaint	5879
+02PM, Special Enforcement	5834
+03AM, Blocked Driveway	5834
+08PM, Building/Use	5816
+12AM, Consumer Complaint	5811
+08AM, UNSANITARY CONDITION	5809
+04AM, Noise - Street/Sidewalk	5801
+04AM, Blocked Driveway	5797
+12PM, DOF Property - Request Copy	5721
+11AM, Homeless Person Assistance	5716
+12PM, Dead Tree	5708
+04AM, HEAT/HOT WATER	5691
+02PM, DOOR/WINDOW	5677
+01PM, Special Enforcement	5661
+03PM, Maintenance or Facility	5656
+02AM, HEAT/HOT WATER	5646
+03PM, DOOR/WINDOW	5598
+04PM, DOF Property - Owner Issue	5596
+05PM, New Tree Request	5587
+09AM, Maintenance or Facility	5584
+01PM, Noise - Street/Sidewalk	5570
+01PM, Maintenance or Facility	5547
+12PM, DHS Advantage - Tenant	5528
+11AM, WATER LEAK	5505
+10PM, Sewer	5495
+09PM, Dirty Conditions	5485
+09AM, DOF Property - Request Copy	5470
+12AM, CONSTRUCTION	5417
+02PM, Maintenance or Facility	5416
+12PM, Snow	5413
+06PM, Noise - Vehicle	5407
+09AM, Dead Tree	5396
+08PM, UNSANITARY CONDITION	5395
+03PM, DOF Property - Request Copy	5392
+10AM, Snow	5387
+07PM, General Construction/Plumbing	5374
+12AM, Missed Collection (All Materials)	5336
+05AM, Illegal Parking	5329
+08AM, DOF Literature Request	5313
+05PM, DOF Literature Request	5306
+06PM, Noise - Commercial	5290
+10AM, Elevator	5260
+07PM, Derelict Vehicle	5248
+09PM, Building/Use	5245
+12PM, WATER LEAK	5238
+11AM, Elevator	5233
+04AM, Traffic Signal Condition	5224
+08AM, Snow	5219
+08AM, Overgrown Tree/Branches	5214
+04PM, Maintenance or Facility	5213
+06PM, Derelict Vehicles	5197
+01PM, Dead Tree	5174
+10AM, WATER LEAK	5163
+02PM, Dead Tree	5127
+01PM, Snow	5109
+04PM, DOOR/WINDOW	5090
+02PM, DOF Property - Request Copy	5075
+01PM, DOF Property - Request Copy	5070
+07PM, Consumer Complaint	5063
+12PM, FLOORING/STAIRS	5060
+11AM, FLOORING/STAIRS	5054
+03PM, Snow	5034
+11AM, Housing - Low Income Senior	5000
+03PM, Elevator	4976
+09AM, Benefit Card Replacement	4965
+03AM, Noise	4956
+01PM, WATER LEAK	4952
+01PM, DHS Advantage - Tenant	4937
+06PM, PAINT/PLASTER	4937
+05PM, Missed Collection (All Materials)	4923
+12PM, Noise - Street/Sidewalk	4914
+02AM, Water System	4905
+02PM, Elevator	4894
+03AM, HEAT/HOT WATER	4893
+02PM, Snow	4882
+07PM, Broken Muni Meter	4879
+03AM, Traffic Signal Condition	4877
+03PM, Special Enforcement	4877
+01PM, Elevator	4843
+12PM, Elevator	4823
+02AM, Illegal Parking	4822
+12PM, GENERAL	4814
+01PM, Food Establishment	4806
+12AM, Derelict Vehicle	4803
+09AM, Elevator	4774
+09AM, DOOR/WINDOW	4771
+11AM, DOF Property - Payment Issue	4770
+02PM, Food Establishment	4757
+10AM, Housing - Low Income Senior	4757
+05PM, Overgrown Tree/Branches	4754
+04AM, Noise	4750
+09PM, Damaged Tree	4744
+10AM, Sidewalk Condition	4738
+04PM, Root/Sewer/Sidewalk Condition	4737
+09PM, Sanitation Condition	4722
+07AM, Derelict Vehicles	4720
+10AM, DOF Property - Payment Issue	4716
+03PM, Food Establishment	4714
+02PM, DHS Advantage - Tenant	4695
+11AM, Sidewalk Condition	4691
+01PM, FLOORING/STAIRS	4676
+05PM, Noise - Commercial	4673
+12PM, Housing - Low Income Senior	4667
+03PM, Dead Tree	4664
+10PM, Dirty Conditions	4658
+02PM, WATER LEAK	4647
+02AM, Traffic Signal Condition	4637
+11AM, Air Quality	4630
+10AM, FLOORING/STAIRS	4621
+12PM, ELECTRIC	4616
+11AM, GENERAL	4597
+05AM, Noise	4595
+02AM, Noise - Vehicle	4584
+07AM, Street Light Condition	4576
+06PM, PLUMBING	4573
+08PM, General Construction/Plumbing	4564
+05PM, Noise - Vehicle	4558
+01AM, Street Condition	4549
+05PM, Maintenance or Facility	4543
+04PM, Elevator	4538
+11AM, DHS Advantage -Landlord/Broker	4538
+12PM, Food Establishment	4504
+05AM, Traffic Signal Condition	4490
+11AM, ELECTRIC	4459
+09AM, Sidewalk Condition	4458
+09PM, UNSANITARY CONDITION	4456
+10AM, Special Enforcement	4445
+04PM, DOF Property - Request Copy	4439
+03PM, WATER LEAK	4433
+06AM, Sanitation Condition	4433
+04PM, Snow	4400
+01PM, Housing - Low Income Senior	4391
+05PM, Benefit Card Replacement	4379
+10AM, Air Quality	4371
+02PM, Housing - Low Income Senior	4356
+12PM, Air Quality	4343
+05PM, Snow	4327
+07AM, General Construction/Plumbing	4318
+10AM, GENERAL	4315
+05PM, DOOR/WINDOW	4307
+12PM, DOF Property - Payment Issue	4301
+12PM, Sidewalk Condition	4290
+01PM, GENERAL	4270
+04PM, Food Establishment	4262
+03PM, DHS Advantage - Tenant	4261
+12PM, DHS Advantage -Landlord/Broker	4247
+07AM, Derelict Vehicle	4244
+02PM, Air Quality	4232
+01PM, Air Quality	4227
+10PM, Building/Use	4221
+07PM, Derelict Vehicles	4219
+09AM, WATER LEAK	4216
+01PM, Sidewalk Condition	4212
+06PM, New Tree Request	4208
+10AM, DHS Advantage -Landlord/Broker	4208
+01PM, ELECTRIC	4194
+04PM, WATER LEAK	4171
+10AM, ELECTRIC	4149
+03PM, Housing - Low Income Senior	4134
+11AM, Food Establishment	4130
+04PM, Noise - Vehicle	4129
+04PM, Dead Tree	4108
+07PM, PLUMBING	4108
+04PM, Noise - Commercial	4101
+04AM, Noise - Commercial	4096
+03PM, Air Quality	4095
+02PM, GENERAL	4082
+08AM, PAINT/PLASTER	4071
+02PM, FLOORING/STAIRS	4058
+02PM, Sidewalk Condition	4050
+03PM, FLOORING/STAIRS	4029
+10PM, UNSANITARY CONDITION	4020
+10PM, Damaged Tree	4011
+07PM, PAINT/PLASTER	3997
+12AM, Derelict Vehicles	3986
+02PM, DOF Property - Payment Issue	3984
+03PM, DOF Property - Payment Issue	3971
+11PM, Sewer	3966
+05PM, Elevator	3953
+08PM, Derelict Vehicle	3948
+06PM, Missed Collection (All Materials)	3936
+01PM, DOF Property - Payment Issue	3924
+03PM, GENERAL	3895
+12AM, Damaged Tree	3893
+09AM, Air Quality	3886
+08AM, Maintenance or Facility	3880
+08PM, Consumer Complaint	3880
+01AM, Water System	3866
+03PM, ELECTRIC	3846
+12AM, Standing Water	3844
+07AM, Building/Use	3829
+03PM, Sidewalk Condition	3817
+02PM, ELECTRIC	3809
+08PM, New Tree Request	3809
+11AM, Noise - Street/Sidewalk	3804
+12PM, Special Enforcement	3800
+04AM, Noise - Vehicle	3790
+12AM, Food Poisoning	3777
+10PM, Sanitation Condition	3769
+02PM, DHS Advantage -Landlord/Broker	3767
+09AM, DOF Property - Payment Issue	3762
+08AM, Taxi Complaint	3757
+04PM, GENERAL	3733
+02AM, Street Condition	3726
+09AM, DHS Advantage -Landlord/Broker	3725
+04PM, ELECTRIC	3713
+11AM, Other Enforcement	3712
+12PM, Homeless Person Assistance	3698
+08AM, New Tree Request	3696
+06PM, Overgrown Tree/Branches	3681
+03PM, Noise - Vehicle	3677
+09PM, General Construction/Plumbing	3657
+06PM, Benefit Card Replacement	3656
+04PM, FLOORING/STAIRS	3655
+03PM, DHS Advantage -Landlord/Broker	3645
+06PM, Maintenance or Facility	3644
+12AM, Graffiti	3637
+01PM, DHS Advantage -Landlord/Broker	3634
+04AM, Illegal Parking	3632
+07AM, Homeless Person Assistance	3618
+10AM, Other Enforcement	3612
+04PM, Air Quality	3601
+05PM, WATER LEAK	3599
+10AM, Food Establishment	3598
+04PM, Street Sign - Damaged	3574
+03PM, Noise - Commercial	3571
+12PM, Other Enforcement	3569
+08PM, Derelict Vehicles	3567
+05AM, Street Condition	3561
+06PM, Elevator	3553
+03AM, Illegal Parking	3531
+01AM, Taxi Complaint	3522
+05PM, Graffiti	3519
+07PM, New Tree Request	3515
+06AM, Dirty Conditions	3479
+08AM, PLUMBING	3473
+08PM, Broken Muni Meter	3464
+09PM, New Tree Request	3463
+06PM, Snow	3459
+08PM, PLUMBING	3435
+09AM, ELECTRIC	3435
+02PM, Noise - Commercial	3431
+12PM, Vending	3425
+09AM, Other Enforcement	3424
+09AM, FLOORING/STAIRS	3401
+03AM, Noise - Vehicle	3388
+08AM, Graffiti	3380
+11PM, Dirty Conditions	3370
+02PM, Other Enforcement	3366
+01PM, Vending	3344
+08PM, PAINT/PLASTER	3342
+01PM, Other Enforcement	3325
+02PM, Noise - Vehicle	3324
+08AM, Consumer Complaint	3322
+07PM, Benefit Card Replacement	3312
+11AM, Construction	3302
+09AM, GENERAL	3298
+04PM, DHS Advantage - Tenant	3280
+05PM, Food Establishment	3276
+04PM, Sidewalk Condition	3269
+09AM, Housing - Low Income Senior	3266
+05PM, Street Sign - Damaged	3251
+10AM, Plumbing	3245
+03PM, Construction	3200
+08AM, Elevator	3192
+12PM, Noise - Commercial	3191
+05PM, ELECTRIC	3189
+01PM, Noise - Commercial	3188
+11AM, Noise - Commercial	3188
+03PM, Other Enforcement	3185
+11AM, Lead	3181
+08PM, Benefit Card Replacement	3168
+11PM, UNSANITARY CONDITION	3163
+01AM, Street Light Condition	3159
+03PM, Lead	3152
+10AM, Lead	3152
+07AM, UNSANITARY CONDITION	3140
+12AM, Unsanitary Pigeon Condition	3136
+04PM, DOF Property - Payment Issue	3112
+04PM, Non-Emergency Police Matter	3109
+03PM, Street Sign - Damaged	3074
+07PM, Elevator	3068
+02PM, Non-Emergency Police Matter	3056
+10AM, Construction	3046
+09PM, Street Sign - Damaged	3031
+03PM, Non-Emergency Police Matter	3029
+12PM, Lead	3027
+02PM, Lead	3025
+07PM, Snow	3018
+11AM, Plumbing	3016
+06PM, DOOR/WINDOW	3015
+09PM, Derelict Vehicle	3009
+01PM, Noise - Vehicle	3003
+11AM, Indoor Air Quality	3000
+12PM, Non-Emergency Police Matter	2993
+08PM, Street Sign - Damaged	2991
+05PM, GENERAL	2988
+06AM, Street Light Condition	2986
+05AM, Noise - Street/Sidewalk	2975
+10AM, Noise - Commercial	2975
+10PM, General Construction/Plumbing	2970
+09PM, Consumer Complaint	2965
+09AM, Food Establishment	2963
+04PM, Housing - Low Income Senior	2945
+02PM, Street Sign - Damaged	2935
+11AM, Non-Emergency Police Matter	2935
+05PM, Dead Tree	2934
+05PM, Non-Emergency Police Matter	2934
+06PM, Food Establishment	2932
+07PM, Missed Collection (All Materials)	2932
+01PM, Lead	2925
+02PM, Vending	2925
+04PM, DHS Advantage -Landlord/Broker	2923
+08AM, Noise - Vehicle	2922
+01PM, Non-Emergency Police Matter	2915
+11AM, Street Sign - Damaged	2915
+10AM, Noise - Street/Sidewalk	2910
+05AM, Water System	2909
+09PM, Benefit Card Replacement	2897
+10AM, Indoor Air Quality	2885
+06PM, WATER LEAK	2879
+02PM, Plumbing	2877
+11PM, Building/Use	2870
+11AM, Fire Safety Director - F58	2859
+12PM, Noise - Vehicle	2854
+08AM, DOF Property - Reduction Issue	2850
+05PM, FLOORING/STAIRS	2847
+05AM, Noise - Vehicle	2845
+06PM, DOF Literature Request	2840
+11AM, Vending	2839
+07PM, Maintenance or Facility	2837
+08AM, Air Quality	2830
+05PM, Root/Sewer/Sidewalk Condition	2828
+10AM, Water Conservation	2825
+08AM, Dead Tree	2820
+10AM, Non-Emergency Police Matter	2818
+12PM, Street Sign - Damaged	2814
+12AM, Broken Muni Meter	2811
+12AM, Elevator	2807
+02PM, Electrical	2797
+04PM, Lead	2796
+12PM, Plumbing	2793
+02PM, Construction	2792
+05PM, Air Quality	2792
+04PM, Construction	2791
+07PM, Street Sign - Damaged	2791
+09PM, Derelict Vehicles	2784
+09PM, PLUMBING	2784
+01PM, Homeless Person Assistance	2774
+10AM, Street Sign - Damaged	2764
+01PM, Street Sign - Damaged	2763
+11PM, Sanitation Condition	2757
+07PM, Overgrown Tree/Branches	2744
+06PM, Non-Emergency Police Matter	2740
+12PM, Indoor Air Quality	2739
+10AM, Fire Safety Director - F58	2732
+08AM, DOF Parking - Payment Issue	2723
+06PM, Street Sign - Damaged	2721
+02PM, Indoor Air Quality	2702
+08PM, Elevator	2698
+09AM, Non-Emergency Police Matter	2695
+11AM, Electrical	2695
+12PM, Electrical	2695
+06PM, ELECTRIC	2688
+07PM, DOOR/WINDOW	2684
+12AM, Air Quality	2677
+10AM, Electrical	2670
+03PM, Vending	2668
+09AM, Plumbing	2660
+11AM, Water Conservation	2655
+09AM, Street Sign - Damaged	2654
+03PM, Electrical	2653
+10PM, New Tree Request	2651
+07PM, Food Establishment	2647
+03PM, Plumbing	2643
+09PM, PAINT/PLASTER	2638
+12PM, Construction	2638
+04PM, Fire Safety Director - F58	2630
+11PM, Damaged Tree	2628
+12PM, Water Conservation	2624
+03PM, Indoor Air Quality	2615
+08AM, Sidewalk Condition	2605
+11AM, Noise - Vehicle	2601
+02AM, Taxi Complaint	2596
+07AM, Snow	2584
+08PM, Snow	2584
+04PM, Other Enforcement	2582
+07PM, WATER LEAK	2578
+09AM, Noise - Vehicle	2572
+08AM, Root/Sewer/Sidewalk Condition	2568
+09AM, Noise - Street/Sidewalk	2561
+01PM, Indoor Air Quality	2560
+09AM, Water Conservation	2550
+12PM, Fire Safety Director - F58	2545
+10PM, Benefit Card Replacement	2535
+03PM, Fire Safety Director - F58	2527
+02PM, Fire Safety Director - F58	2523
+01PM, Plumbing	2506
+08AM, Other Enforcement	2503
+08AM, Benefit Card Replacement	2495
+11AM, DCA / DOH New License Application Request	2488
+01PM, Construction	2444
+07AM, Noise - Vehicle	2444
+08PM, Missed Collection (All Materials)	2441
+02PM, Water Conservation	2436
+08PM, Food Establishment	2436
+12AM, Food Establishment	2434
+01PM, Water Conservation	2424
+10AM, Noise - Vehicle	2423
+11AM, Street Sign - Missing	2418
+02PM, DCA / DOH New License Application Request	2408
+09AM, Electrical	2403
+10PM, Noise - Park	2403
+06AM, Noise - Vehicle	2396
+07PM, Non-Emergency Police Matter	2395
+09AM, Noise - Commercial	2393
+06PM, GENERAL	2388
+08AM, DOOR/WINDOW	2387
+11PM, Noise Survey	2385
+01PM, DCA / DOH New License Application Request	2384
+12PM, Street Sign - Missing	2384
+09AM, Lead	2376
+10AM, Street Sign - Missing	2375
+09AM, Highway Condition	2368
+10AM, Highway Condition	2365
+10PM, Derelict Vehicle	2357
+10AM, Vending	2351
+09PM, Broken Muni Meter	2345
+09AM, Indoor Air Quality	2334
+04PM, Traffic	2333
+10PM, Derelict Vehicles	2328
+12PM, DCA / DOH New License Application Request	2324
+08AM, Noise - Street/Sidewalk	2322
+01PM, Animal Abuse	2318
+03PM, Water Conservation	2317
+04PM, Indoor Air Quality	2309
+07PM, ELECTRIC	2309
+10PM, PLUMBING	2307
+05AM, Street Light Condition	2296
+08PM, Maintenance or Facility	2288
+08PM, WATER LEAK	2288
+01PM, Electrical	2285
+05PM, Lead	2277
+04PM, Animal Abuse	2275
+12AM, Street Sign - Damaged	2274
+08AM, WATER LEAK	2267
+12AM, Noise Survey	2266
+08PM, DOOR/WINDOW	2263
+07AM, Missed Collection (All Materials)	2261
+09AM, Street Sign - Missing	2257
+06AM, Derelict Vehicles	2256
+11AM, APPLIANCE	2252
+05PM, Traffic	2250
+06AM, Damaged Tree	2249
+12PM, Animal Abuse	2248
+08AM, Traffic	2247
+11AM, Highway Condition	2245
+08AM, Highway Condition	2234
+10PM, Consumer Complaint	2231
+11PM, Noise - Park	2231
+09AM, Special Enforcement	2225
+01PM, Fire Safety Director - F58	2220
+01PM, Street Sign - Missing	2207
+03PM, Highway Condition	2200
+02PM, Animal Abuse	2199
+12AM, DCA / DOH New License Application Request	2199
+03PM, Animal Abuse	2197
+05PM, Sidewalk Condition	2196
+10AM, APPLIANCE	2192
+09AM, Construction	2190
+02PM, Homeless Person Assistance	2189
+07AM, Maintenance or Facility	2187
+06PM, Dead Tree	2183
+12PM, APPLIANCE	2183
+03PM, DCA / DOH New License Application Request	2177
+09PM, Snow	2177
+09PM, Noise - Park	2175
+12AM, OUTSIDE BUILDING	2167
+12PM, Special Projects Inspection Team (SPIT)	2166
+03PM, Special Projects Inspection Team (SPIT)	2155
+09AM, Fire Safety Director - F58	2152
+11PM, New Tree Request	2151
+07AM, PLUMBING	2143
+08PM, ELECTRIC	2140
+09PM, Food Establishment	2134
+04PM, Water Conservation	2130
+04AM, Taxi Complaint	2125
+09PM, Elevator	2125
+02PM, Street Sign - Missing	2124
+10AM, DCA / DOH New License Application Request	2123
+05PM, Animal Abuse	2122
+12PM, Highway Condition	2119
+06AM, Noise - Commercial	2118
+03PM, Street Sign - Missing	2111
+04PM, Highway Condition	2105
+01PM, Highway Condition	2102
+02AM, Street Light Condition	2086
+02PM, Highway Condition	2081
+05PM, Highway Condition	2077
+08AM, Street Sign - Damaged	2076
+10PM, PAINT/PLASTER	2075
+04PM, Vending	2071
+11AM, Special Projects Inspection Team (SPIT)	2062
+06PM, Air Quality	2060
+04PM, Plumbing	2059
+11AM, Animal Abuse	2059
+12AM, Indoor Air Quality	2054
+06AM, Graffiti	2046
+04PM, Special Projects Inspection Team (SPIT)	2044
+03PM, Traffic	2043
+04PM, Street Sign - Missing	2040
+07PM, GENERAL	2038
+01PM, APPLIANCE	2025
+07PM, Graffiti	2018
+11AM, Litter Basket / Request	2018
+04PM, DCA / DOH New License Application Request	2008
+06PM, Animal Abuse	2004
+07AM, PAINT/PLASTER	2003
+10AM, Litter Basket / Request	2001
+06PM, FLOORING/STAIRS	1987
+05PM, Other Enforcement	1984
+10AM, Animal Abuse	1973
+08PM, Overgrown Tree/Branches	1966
+09PM, ELECTRIC	1959
+03AM, Street Condition	1956
+08AM, DOF Property - Owner Issue	1949
+06PM, Root/Sewer/Sidewalk Condition	1945
+06AM, Building/Use	1931
+07AM, New Tree Request	1923
+07AM, Noise - Commercial	1923
+09PM, Maintenance or Facility	1920
+05PM, SCRIE	1917
+11PM, General Construction/Plumbing	1913
+03AM, Taxi Complaint	1910
+05AM, Noise - Commercial	1909
+02PM, APPLIANCE	1908
+07PM, DOF Literature Request	1907
+01PM, Special Projects Inspection Team (SPIT)	1906
+07AM, Overgrown Tree/Branches	1905
+10PM, Street Sign - Damaged	1895
+08AM, ELECTRIC	1892
+08AM, Non-Emergency Police Matter	1892
+11PM, Benefit Card Replacement	1890
+08PM, Noise - Park	1886
+09PM, WATER LEAK	1884
+08PM, Non-Emergency Police Matter	1876
+10AM, Special Projects Inspection Team (SPIT)	1864
+02PM, Broken Parking Meter	1863
+03PM, APPLIANCE	1861
+07AM, Taxi Complaint	1859
+06PM, Highway Condition	1853
+07PM, Air Quality	1850
+10PM, Snow	1847
+09AM, Traffic	1836
+06PM, Traffic	1835
+04AM, Water System	1831
+11AM, Housing Options	1825
+08AM, Noise - Commercial	1824
+08AM, SCRIE	1824
+07AM, Noise - Street/Sidewalk	1822
+03AM, Water System	1821
+02PM, Special Projects Inspection Team (SPIT)	1815
+09PM, DOOR/WINDOW	1815
+04PM, APPLIANCE	1813
+10PM, Noise Survey	1810
+01PM, Broken Parking Meter	1807
+09AM, Animal Abuse	1806
+06AM, Noise - Street/Sidewalk	1798
+10PM, Food Establishment	1796
+07PM, Animal Abuse	1790
+09AM, Litter Basket / Request	1785
+05PM, Indoor Air Quality	1774
+02PM, Traffic	1771
+11PM, PLUMBING	1761
+08PM, Air Quality	1760
+05PM, Construction	1755
+06PM, Sidewalk Condition	1751
+04PM, For Hire Vehicle Complaint	1735
+01AM, UNSANITARY CONDITION	1728
+07AM, Elevator	1728
+09PM, Missed Collection (All Materials)	1721
+08PM, GENERAL	1716
+12PM, Litter Basket / Request	1711
+01AM, Sewer	1706
+07AM, Air Quality	1705
+12AM, Maintenance or Facility	1703
+11PM, PAINT/PLASTER	1702
+05AM, Sewer	1701
+09AM, APPLIANCE	1700
+08AM, GENERAL	1692
+06PM, Homeless Person Assistance	1691
+03PM, For Hire Vehicle Complaint	1689
+08PM, Animal Abuse	1688
+12AM, Overgrown Tree/Branches	1687
+08AM, Food Establishment	1686
+09AM, Homeless Encampment	1683
+11PM, Derelict Vehicles	1680
+10AM, Agency Issues	1678
+05PM, Homeless Person Assistance	1675
+02PM, For Hire Vehicle Complaint	1671
+10PM, Elevator	1671
+08AM, DOF Property - Request Copy	1663
+11PM, Derelict Vehicle	1659
+05PM, Street Sign - Missing	1655
+10AM, Housing Options	1655
+01AM, Noise Survey	1654
+11AM, Agency Issues	1646
+11AM, Hazardous Materials	1643
+11AM, Asbestos	1641
+03PM, Homeless Person Assistance	1637
+02PM, Housing Options	1635
+06PM, Other Enforcement	1632
+09PM, Graffiti	1631
+01PM, HPD Literature Request	1628
+11AM, For Hire Vehicle Complaint	1626
+08PM, Graffiti	1620
+12PM, Traffic	1618
+10AM, Hazardous Materials	1614
+10AM, For Hire Vehicle Complaint	1612
+10PM, Homeless Person Assistance	1608
+12PM, Housing Options	1606
+12AM, Sidewalk Condition	1605
+12PM, Agency Issues	1605
+12PM, Broken Parking Meter	1604
+01PM, Food Poisoning	1603
+08AM, Homeless Encampment	1601
+10AM, Traffic	1601
+02PM, Food Poisoning	1597
+10AM, Asbestos	1595
+12AM, Water Conservation	1595
+11AM, Broken Parking Meter	1594
+03AM, Street Light Condition	1592
+03PM, Broken Parking Meter	1589
+10PM, WATER LEAK	1587
+06AM, Derelict Vehicle	1586
+10PM, DOOR/WINDOW	1586
+01PM, Traffic	1585
+10AM, Homeless Encampment	1585
+08AM, Street Sign - Missing	1583
+04AM, Street Light Condition	1581
+10PM, Maintenance or Facility	1578
+12PM, For Hire Vehicle Complaint	1577
+05PM, Vending	1574
+10PM, ELECTRIC	1574
+11AM, HPD Literature Request	1573
+04PM, Broken Parking Meter	1571
+12PM, Food Poisoning	1569
+06AM, General Construction/Plumbing	1564
+02PM, Litter Basket / Request	1563
+06PM, Lead	1563
+09PM, Animal Abuse	1560
+01PM, Litter Basket / Request	1558
+09AM, Vending	1558
+09PM, Air Quality	1557
+11AM, Traffic	1554
+07PM, Highway Condition	1548
+07PM, Dead Tree	1543
+11AM, SAFETY	1543
+01PM, Housing Options	1541
+06AM, UNSANITARY CONDITION	1539
+11AM, Food Poisoning	1539
+11PM, Consumer Complaint	1539
+08AM, Plumbing	1536
+07PM, FLOORING/STAIRS	1535
+07AM, Highway Condition	1530
+12PM, Hazardous Materials	1529
+10AM, Illegal Tree Damage	1523
+09AM, Vacant Lot	1522
+11AM, Illegal Tree Damage	1522
+08AM, FLOORING/STAIRS	1520
+06PM, Street Sign - Missing	1519
+01AM, Dirty Conditions	1515
+11AM, Vacant Lot	1515
+05PM, For Hire Vehicle Complaint	1513
+07PM, Noise - Park	1512
+01PM, For Hire Vehicle Complaint	1509
+09AM, For Hire Vehicle Complaint	1507
+10AM, Vacant Lot	1505
+05PM, Water Conservation	1504
+05PM, Special Projects Inspection Team (SPIT)	1503
+06PM, Indoor Air Quality	1503
+03PM, HPD Literature Request	1502
+09PM, Non-Emergency Police Matter	1502
+09AM, DCA / DOH New License Application Request	1499
+02PM, HPD Literature Request	1491
+01PM, Agency Issues	1481
+04PM, Electrical	1474
+09AM, Agency Issues	1471
+09AM, Asbestos	1470
+10PM, Lead	1470
+03PM, Litter Basket / Request	1466
+09PM, Lead	1464
+07AM, Broken Muni Meter	1461
+12PM, HPD Literature Request	1461
+08PM, Highway Condition	1460
+05PM, Plumbing	1458
+09AM, Special Projects Inspection Team (SPIT)	1456
+03PM, Food Poisoning	1455
+12AM, Other Enforcement	1452
+12PM, SAFETY	1452
+04PM, Special Enforcement	1451
+07PM, Homeless Person Assistance	1451
+09PM, Overgrown Tree/Branches	1448
+11PM, Food Establishment	1446
+10AM, Food Poisoning	1443
+10AM, Broken Parking Meter	1441
+07AM, WATER LEAK	1440
+05PM, APPLIANCE	1439
+03PM, Hazardous Materials	1437
+09AM, Hazardous Materials	1437
+12AM, Noise - Park	1436
+07PM, Root/Sewer/Sidewalk Condition	1433
+09PM, GENERAL	1429
+01PM, SAFETY	1426
+02PM, Hazardous Materials	1423
+12PM, Asbestos	1420
+03PM, Violation of Park Rules	1416
+03PM, Agency Issues	1415
+04AM, Street Condition	1413
+07AM, Graffiti	1412
+05PM, Housing - Low Income Senior	1405
+09PM, Homeless Person Assistance	1405
+10AM, HPD Literature Request	1403
+03PM, Housing Options	1397
+05PM, Fire Safety Director - F58	1395
+04PM, Homeless Person Assistance	1392
+02PM, Agency Issues	1391
+05AM, Dirty Conditions	1390
+12AM, Root/Sewer/Sidewalk Condition	1389
+11AM, Homeless Encampment	1385
+12PM, Vacant Lot	1385
+07PM, Lead	1381
+02PM, Violation of Park Rules	1379
+12AM, Street Sign - Missing	1378
+02PM, SAFETY	1364
+04PM, Food Poisoning	1354
+07AM, Traffic	1354
+08AM, Litter Basket / Request	1350
+12PM, Illegal Tree Damage	1348
+08PM, Lead	1346
+04PM, SAFETY	1345
+07PM, Indoor Air Quality	1332
+09AM, Broken Parking Meter	1332
+10PM, Animal Abuse	1331
+07AM, Consumer Complaint	1328
+08AM, Electrical	1328
+08AM, Vacant Lot	1327
+06PM, For Hire Vehicle Complaint	1319
+10AM, SAFETY	1318
+05PM, Broken Parking Meter	1316
+12AM, Benefit Card Replacement	1315
+07PM, Sidewalk Condition	1314
+01PM, Hazardous Materials	1313
+01PM, Vacant Lot	1309
+01PM, Asbestos	1304
+08PM, DOF Literature Request	1304
+01PM, Illegal Tree Damage	1303
+04PM, Litter Basket / Request	1303
+05AM, Taxi Complaint	1291
+08PM, FLOORING/STAIRS	1291
+02PM, Asbestos	1289
+09AM, Illegal Tree Damage	1288
+02PM, Illegal Tree Damage	1286
+02PM, Vacant Lot	1286
+10AM, DOT Literature Request	1285
+02AM, UNSANITARY CONDITION	1282
+10PM, GENERAL	1282
+09PM, For Hire Vehicle Complaint	1279
+10PM, Graffiti	1277
+12PM, Homeless Encampment	1274
+12AM, New Tree Request	1273
+05PM, DCA / DOH New License Application Request	1271
+11PM, ELECTRIC	1268
+08AM, DOF Property - Payment Issue	1264
+08PM, Homeless Person Assistance	1264
+11PM, Snow	1262
+11PM, WATER LEAK	1261
+03PM, SAFETY	1259
+10AM, Rodent	1257
+12AM, Electrical	1257
+04PM, Hazardous Materials	1249
+10PM, Air Quality	1248
+07PM, Other Enforcement	1244
+03PM, Homeless Encampment	1241
+04PM, Agency Issues	1241
+03PM, Illegal Tree Damage	1240
+12AM, Broken Parking Meter	1239
+01PM, Homeless Encampment	1238
+08AM, Animal Abuse	1237
+02PM, Homeless Encampment	1234
+07AM, Homeless Encampment	1231
+11AM, DOT Literature Request	1226
+08AM, Lead	1218
+07PM, Traffic	1213
+11AM, Dead/Dying Tree	1213
+08PM, Indoor Air Quality	1210
+11AM, Rodent	1206
+10PM, Missed Collection (All Materials)	1203
+07PM, For Hire Vehicle Complaint	1202
+10AM, Dead/Dying Tree	1197
+07AM, DOOR/WINDOW	1196
+02AM, Dirty Conditions	1192
+03PM, Asbestos	1182
+11AM, DOF Property - Update Account	1180
+07AM, Benefit Card Replacement	1178
+10PM, Non-Emergency Police Matter	1178
+12PM, DOT Literature Request	1177
+09AM, Food Poisoning	1172
+06PM, Noise - Park	1168
+11PM, DOOR/WINDOW	1166
+10PM, Broken Muni Meter	1157
+12AM, Lead	1157
+12PM, Dead/Dying Tree	1152
+08AM, Water Conservation	1144
+09AM, Housing Options	1143
+08PM, Dead Tree	1142
+07PM, Street Sign - Missing	1141
+07AM, Street Sign - Damaged	1139
+08PM, For Hire Vehicle Complaint	1139
+03PM, Vacant Lot	1136
+04PM, Homeless Encampment	1136
+04PM, Housing Options	1136
+10AM, DOF Property - Update Account	1134
+09AM, HPD Literature Request	1133
+02PM, DOF Parking - Request Status	1132
+01PM, Violation of Park Rules	1130
+06AM, Taxi Complaint	1128
+02PM, DOT Literature Request	1125
+11AM, DOF Parking - Request Status	1125
+01AM, Building/Use	1124
+09AM, DOT Literature Request	1124
+08PM, Other Enforcement	1123
+07AM, Other Enforcement	1122
+11PM, Maintenance or Facility	1122
+01PM, DOF Parking - Request Status	1120
+06PM, Vending	1119
+04PM, HPD Literature Request	1118
+08PM, Root/Sewer/Sidewalk Condition	1118
+10PM, For Hire Vehicle Complaint	1116
+12PM, DOF Parking - Request Status	1116
+09PM, Highway Condition	1114
+09PM, Noise Survey	1114
+12AM, Highway Condition	1113
+03PM, DOF Parking - Request Status	1109
+08AM, Indoor Air Quality	1105
+06AM, PLUMBING	1099
+07AM, Sidewalk Condition	1097
+09AM, Traffic/Illegal Parking	1097
+05PM, Homeless Encampment	1096
+06PM, SCRIE	1096
+10AM, Boilers	1093
+05AM, Sanitation Condition	1092
+06PM, Special Projects Inspection Team (SPIT)	1092
+04PM, DOF Parking - Request Status	1088
+09AM, Dead/Dying Tree	1086
+11AM, Traffic/Illegal Parking	1080
+12PM, Rodent	1080
+01PM, DOT Literature Request	1079
+05PM, Noise - Park	1077
+12AM, Dead Tree	1077
+03PM, DOT Literature Request	1075
+11AM, Boilers	1073
+11PM, Elevator	1071
+07AM, ELECTRIC	1067
+05PM, Food Poisoning	1064
+04PM, Violation of Park Rules	1062
+10PM, Overgrown Tree/Branches	1060
+05PM, DOF Property - Reduction Issue	1058
+02PM, DOF Property - Update Account	1053
+12AM, ELEVATOR	1053
+06PM, Water Conservation	1051
+09AM, SAFETY	1051
+09AM, Rodent	1048
+06PM, APPLIANCE	1040
+07AM, Non-Emergency Police Matter	1038
+04PM, Illegal Tree Damage	1035
+12PM, DOF Property - Update Account	1033
+06PM, Homeless Encampment	1030
+10AM, Traffic/Illegal Parking	1025
+01PM, Dead/Dying Tree	1024
+11PM, Animal Abuse	1024
+12PM, Traffic/Illegal Parking	1024
+01PM, Rodent	1023
+05PM, Agency Issues	1023
+09AM, School Maintenance	1023
+12AM, Boilers	1023
+11PM, Street Sign - Damaged	1021
+10AM, DOF Parking - Request Status	1020
+05PM, Violation of Park Rules	1019
+08AM, School Maintenance	1019
+03PM, Animal in a Park	1018
+04AM, Sewer	1018
+03PM, School Maintenance	1016
+04PM, Street Sign - Dangling	1016
+11PM, Homeless Person Assistance	1015
+03PM, DOF Parking - Request Copy	1014
+08PM, Sidewalk Condition	1014
+08AM, Hazardous Materials	1008
+11AM, School Maintenance	1007
+12AM, Smoking	1007
+09AM, Animal in a Park	1006
+11AM, Non-Residential Heat	1005
+01PM, Street Sign - Dangling	1003
+10AM, School Maintenance	1002
+11AM, Street Sign - Dangling	998
+05PM, Hazardous Materials	997
+10AM, Street Sign - Dangling	995
+08AM, For Hire Vehicle Complaint	991
+11AM, DOF Parking - Request Copy	991
+10AM, DOF Parking - Request Copy	986
+04PM, Noise - Park	984
+12PM, Street Sign - Dangling	984
+04PM, Asbestos	982
+03PM, DOF Property - Update Account	979
+07AM, Dead Tree	979
+09PM, DOF Literature Request	978
+02PM, Rodent	975
+06AM, New Tree Request	975
+02AM, Noise Survey	973
+08AM, Vending	973
+11AM, Industrial Waste	973
+02PM, Dead/Dying Tree	972
+10AM, Standing Water	972
+10PM, Highway Condition	972
+09PM, Indoor Air Quality	970
+06PM, Violation of Park Rules	969
+08AM, Housing - Low Income Senior	968
+12PM, DOF Parking - Request Copy	968
+04PM, Animal in a Park	967
+03PM, Noise - Park	966
+10PM, Indoor Air Quality	962
+06AM, PAINT/PLASTER	961
+07PM, Special Projects Inspection Team (SPIT)	961
+11AM, Animal in a Park	961
+07AM, GENERAL	960
+02PM, DOF Parking - Request Copy	959
+12PM, Industrial Waste	958
+01PM, DOF Property - Update Account	954
+06PM, Broken Parking Meter	953
+03PM, Street Sign - Dangling	951
+12PM, Standing Water	950
+05PM, SAFETY	949
+04PM, DOT Literature Request	948
+08AM, Fire Safety Director - F58	948
+12PM, Violation of Park Rules	946
+09AM, Boilers	942
+10AM, Animal in a Park	942
+04PM, Vacant Lot	941
+11AM, Standing Water	940
+06PM, Housing - Low Income Senior	937
+10AM, Non-Residential Heat	936
+12AM, For Hire Vehicle Complaint	933
+12PM, Boilers	933
+09PM, FLOORING/STAIRS	930
+05AM, UNSANITARY CONDITION	929
+12AM, Plumbing	929
+01AM, Benefit Card Replacement	928
+02AM, Damaged Tree	928
+09AM, Street Sign - Dangling	928
+08PM, Traffic	927
+01AM, Sanitation Condition	926
+05PM, Electrical	926
+06PM, Plumbing	926
+06PM, Food Poisoning	925
+01PM, DOF Parking - Request Copy	923
+06AM, Maintenance or Facility	923
+10AM, Industrial Waste	922
+04AM, Dirty Conditions	921
+02PM, Street Sign - Dangling	920
+06AM, Air Quality	920
+09AM, DOF Property - Update Account	919
+03PM, Dead/Dying Tree	917
+12AM, Emergency Response Team (ERT)	916
+05PM, Litter Basket / Request	914
+03PM, Industrial Waste	910
+05AM, Derelict Vehicles	906
+07PM, Homeless Encampment	905
+01PM, Industrial Waste	901
+11PM, Graffiti	900
+04PM, Smoking	898
+03AM, UNSANITARY CONDITION	896
+11AM, Violation of Park Rules	896
+12PM, School Maintenance	896
+01PM, Traffic/Illegal Parking	895
+03PM, Rodent	895
+06AM, Homeless Encampment	895
+11PM, Lead	894
+09AM, DOF Parking - Request Status	891
+01AM, Noise - Park	890
+09AM, Industrial Waste	888
+02PM, Animal in a Park	883
+05PM, Street Sign - Dangling	883
+06PM, DCA / DOH New License Application Request	883
+04AM, UNSANITARY CONDITION	881
+10PM, FLOORING/STAIRS	879
+12PM, Animal in a Park	878
+08PM, Street Sign - Missing	877
+11PM, GENERAL	875
+01AM, Damaged Tree	873
+10AM, Investigations and Discipline (IAD)	873
+04PM, DOF Parking - Request Copy	872
+10AM, Sweeping/Missed-Inadequate	872
+11PM, Air Quality	872
+03AM, Sewer	870
+03PM, Boilers	869
+10AM, Smoking	869
+08AM, Agency Issues	867
+02PM, School Maintenance	866
+02PM, Industrial Waste	864
+02PM, Standing Water	863
+02PM, Traffic/Illegal Parking	863
+05AM, Damaged Tree	863
+05PM, Illegal Tree Damage	863
+08AM, Traffic/Illegal Parking	863
+11AM, Smoking	863
+03AM, Dirty Conditions	862
+06PM, Construction	862
+09PM, Sidewalk Condition	862
+12PM, Smoking	862
+04PM, Dead/Dying Tree	860
+12AM, Special Projects Inspection Team (SPIT)	860
+02PM, Noise - Park	857
+08AM, Special Enforcement	857
+01AM, PAINT/PLASTER	855
+02PM, Smoking	855
+06AM, Snow	853
+03PM, Smoking	852
+04PM, DOF Property - Update Account	852
+11AM, Investigations and Discipline (IAD)	848
+12PM, Investigations and Discipline (IAD)	846
+01PM, Animal in a Park	845
+02PM, Boilers	844
+09AM, Overflowing Litter Baskets	843
+12PM, Sweeping/Missed-Inadequate	842
+07AM, Food Establishment	841
+10AM, Overflowing Litter Baskets	837
+12PM, Non-Residential Heat	837
+01AM, New Tree Request	832
+10AM, EAP Inspection - F59	831
+01AM, Derelict Vehicles	829
+01PM, Smoking	829
+07AM, Street Sign - Missing	829
+09PM, Other Enforcement	826
+09AM, Standing Water	824
+07AM, DOF Literature Request	822
+07PM, Food Poisoning	822
+08AM, Animal in a Park	822
+06AM, Highway Condition	819
+08AM, Illegal Tree Damage	819
+09AM, DOF Parking - Request Copy	819
+07PM, APPLIANCE	818
+05PM, DOF Property - Owner Issue	817
+05PM, HPD Literature Request	815
+08PM, Noise Survey	813
+08PM, Homeless Encampment	811
+09PM, Root/Sewer/Sidewalk Condition	811
+11AM, Sweeping/Missed-Inadequate	809
+01AM, PLUMBING	808
+01AM, General Construction/Plumbing	807
+12AM, Homeless Encampment	804
+08AM, Special Projects Inspection Team (SPIT)	803
+03PM, Standing Water	801
+07PM, Water Conservation	801
+09AM, Non-Residential Heat	800
+09PM, Dead Tree	800
+11PM, For Hire Vehicle Complaint	800
+06PM, Hazardous Materials	798
+05PM, Animal in a Park	796
+04PM, Rodent	794
+04PM, School Maintenance	794
+10AM, Water Quality	794
+01PM, Boilers	793
+05PM, DOF Parking - Payment Issue	793
+08PM, Noise - House of Worship	785
+09PM, Street Sign - Missing	783
+01PM, Standing Water	782
+11PM, Non-Emergency Police Matter	782
+07AM, Animal Abuse	780
+09AM, Investigations and Discipline (IAD)	779
+11AM, Water Quality	779
+04PM, Industrial Waste	778
+05PM, DOF Property - Request Copy	777
+12AM, Vending	777
+03PM, Traffic/Illegal Parking	776
+11PM, Missed Collection (All Materials)	775
+04PM, Boilers	765
+06PM, Agency Issues	763
+09PM, Special Projects Inspection Team (SPIT)	763
+11AM, Overflowing Litter Baskets	763
+08AM, Boilers	762
+01PM, School Maintenance	761
+12AM, Non-Residential Heat	761
+07PM, Vending	759
+08PM, Special Projects Inspection Team (SPIT)	758
+07AM, Root/Sewer/Sidewalk Condition	757
+05PM, School Maintenance	754
+06AM, WATER LEAK	754
+12AM, Hazardous Materials	754
+11AM, EAP Inspection - F59	753
+01PM, Non-Residential Heat	752
+10AM, Violation of Park Rules	751
+12AM, Drinking	750
+09AM, Sweeping/Missed-Inadequate	745
+02AM, Building/Use	744
+08AM, APPLIANCE	742
+06PM, Street Sign - Dangling	740
+04PM, Traffic/Illegal Parking	738
+05PM, Vacant Lot	738
+09PM, Noise - House of Worship	735
+05PM, DOT Literature Request	733
+05PM, Traffic/Illegal Parking	732
+10PM, Drinking	732
+04PM, EAP Inspection - F59	730
+01PM, Investigations and Discipline (IAD)	728
+12PM, Water Quality	725
+11PM, Indoor Air Quality	723
+08AM, Overflowing Litter Baskets	722
+08AM, Street Sign - Dangling	721
+04PM, Standing Water	720
+08AM, Asbestos	719
+05AM, Graffiti	718
+10PM, Homeless Encampment	717
+08AM, Construction	715
+08PM, Water Conservation	714
+06PM, SAFETY	712
+08PM, Food Poisoning	706
+10PM, Noise - House of Worship	706
+10PM, Other Enforcement	706
+02PM, Water Quality	703
+07PM, Hazardous Materials	702
+07PM, DCA / DOH New License Application Request	701
+07PM, SCRIE	701
+09PM, Homeless Encampment	700
+02PM, Investigations and Discipline (IAD)	698
+07PM, Agency Issues	694
+06PM, Litter Basket / Request	692
+11AM, Curb Condition	692
+09AM, Water Quality	690
+01PM, Water Quality	689
+06AM, Elevator	689
+02PM, Overflowing Litter Baskets	688
+03PM, Overflowing Litter Baskets	688
+06PM, Electrical	688
+10PM, Sidewalk Condition	686
+09PM, Traffic/Illegal Parking	685
+10AM, Indoor Sewage	685
+03PM, Water Quality	682
+01AM, Consumer Complaint	681
+06PM, HPD Literature Request	681
+01AM, DOOR/WINDOW	679
+02PM, Curb Condition	679
+12PM, Curb Condition	679
+07PM, Plumbing	678
+07AM, Lead	675
+09AM, Noise - Park	675
+08PM, Hazardous Materials	673
+06PM, Illegal Tree Damage	671
+03PM, Investigations and Discipline (IAD)	670
+10PM, Street Sign - Missing	670
+01PM, Noise - Park	667
+07AM, FLOORING/STAIRS	666
+11AM, BEST/Site Safety	666
+05PM, Smoking	664
+12PM, Overflowing Litter Baskets	664
+03PM, BEST/Site Safety	663
+01AM, ELECTRIC	658
+01PM, Sweeping/Missed-Inadequate	658
+03PM, Curb Condition	654
+05PM, Boilers	653
+06AM, Homeless Person Assistance	653
+07PM, SAFETY	652
+05PM, Standing Water	651
+08PM, APPLIANCE	651
+11PM, Highway Condition	651
+05PM, Rodent	650
+11PM, Posting Advertisement	650
+03PM, EAP Inspection - F59	647
+09AM, Smoking	647
+01PM, Overflowing Litter Baskets	646
+11AM, DOF Parking - Tax Exemption	643
+12AM, Homeless Person Assistance	641
+05AM, PLUMBING	640
+11AM, Electronics Waste	640
+07PM, Violation of Park Rules	639
+11AM, Indoor Sewage	638
+04PM, Overflowing Litter Baskets	637
+06PM, Smoking	637
+12AM, Animal Abuse	636
+09AM, Derelict Bicycle	634
+10PM, Dead Tree	634
+02PM, EAP Inspection - F59	633
+09PM, Food Poisoning	633
+10PM, Special Projects Inspection Team (SPIT)	633
+10PM, DOF Literature Request	632
+11PM, FLOORING/STAIRS	632
+11PM, Overgrown Tree/Branches	631
+01AM, Derelict Vehicle	630
+02AM, Graffiti	630
+10PM, Root/Sewer/Sidewalk Condition	630
+02PM, Non-Residential Heat	629
+10AM, DOF Parking - Tax Exemption	629
+01PM, EAP Inspection - F59	627
+08AM, Food Poisoning	627
+12PM, EAP Inspection - F59	625
+09PM, Traffic	618
+07PM, HPD Literature Request	615
+11PM, Homeless Encampment	614
+08PM, SAFETY	613
+07PM, Illegal Tree Damage	611
+09AM, EAP Inspection - F59	611
+01AM, Food Establishment	609
+06PM, Traffic/Illegal Parking	609
+09PM, Drinking	609
+08PM, Drinking	608
+05PM, Industrial Waste	606
+04PM, Taxi Report	605
+07PM, Housing - Low Income Senior	605
+10AM, Derelict Bicycle	605
+10AM, Sweeping/Missed	605
+02PM, BEST/Site Safety	604
+10AM, Curb Condition	604
+06AM, DOOR/WINDOW	601
+06PM, School Maintenance	601
+09PM, Smoking	600
+01AM, Graffiti	599
+06PM, Standing Water	599
+04PM, Water Quality	597
+08AM, DCA / DOH New License Application Request	597
+02AM, Sanitation Condition	596
+12PM, Derelict Bicycle	596
+07PM, Drinking	595
+08PM, Plumbing	594
+03PM, DPR Internal	593
+05PM, Asbestos	593
+11PM, Drinking	591
+07AM, Litter Basket / Request	589
+02AM, Benefit Card Replacement	587
+08AM, Industrial Waste	586
+11PM, Street Sign - Missing	585
+08AM, Broken Parking Meter	584
+10AM, Electronics Waste	584
+06PM, Animal in a Park	583
+10AM, BEST/Site Safety	581
+07PM, Disorderly Youth	579
+07PM, Smoking	579
+12PM, Indoor Sewage	579
+01PM, Electronics Waste	578
+07AM, Traffic/Illegal Parking	578
+03AM, Noise Survey	576
+07AM, Hazardous Materials	576
+08AM, Noise - Park	576
+11PM, Noise - House of Worship	576
+04PM, Investigations and Discipline (IAD)	575
+01PM, Indoor Sewage	573
+07PM, Traffic/Illegal Parking	573
+10AM, Noise - Park	573
+08AM, DOT Literature Request	572
+12PM, BEST/Site Safety	572
+08PM, Smoking	571
+08AM, Rodent	570
+02AM, General Construction/Plumbing	568
+03PM, Non-Residential Heat	567
+06PM, Drinking	567
+08PM, Traffic/Illegal Parking	566
+12PM, Electronics Waste	566
+06PM, Vacant Lot	565
+11AM, Derelict Bicycle	565
+06AM, ELECTRIC	563
+08AM, SAFETY	563
+08PM, Vending	563
+06AM, Consumer Complaint	562
+02PM, Indoor Sewage	560
+10PM, Food Poisoning	557
+09AM, Electronics Waste	552
+11AM, Sweeping/Missed	552
+06AM, Benefit Card Replacement	551
+08PM, HPD Literature Request	550
+02PM, Electronics Waste	549
+05PM, DOF Property - Payment Issue	548
+01PM, Sweeping/Missed	547
+10PM, Traffic/Illegal Parking	546
+02PM, Derelict Bicycle	544
+07AM, Indoor Air Quality	543
+12AM, Noise - House of Worship	543
+09PM, APPLIANCE	542
+02PM, DPR Internal	541
+06PM, DOT Literature Request	540
+12AM, Litter Basket / Request	540
+06PM, Disorderly Youth	538
+01AM, WATER LEAK	537
+01PM, Derelict Bicycle	537
+03AM, Graffiti	537
+10PM, Traffic	537
+12AM, BEST/Site Safety	536
+01PM, BEST/Site Safety	535
+02AM, PLUMBING	535
+07PM, Noise Survey	534
+08AM, Standing Water	534
+12PM, DOF Parking - Tax Exemption	534
+06AM, Noise - Helicopter	533
+09AM, Violation of Park Rules	533
+09PM, Hazardous Materials	533
+02AM, Derelict Vehicles	531
+03PM, DOF Parking - Tax Exemption	531
+07PM, Street Sign - Dangling	531
+11AM, Elder Abuse	531
+02AM, Noise - Park	530
+06PM, Boilers	530
+05PM, Dead/Dying Tree	529
+07PM, Noise - House of Worship	529
+09AM, Curb Condition	529
+12AM, Industrial Waste	529
+02PM, DOF Parking - Tax Exemption	528
+05AM, Derelict Vehicle	528
+05PM, Drinking	528
+02AM, PAINT/PLASTER	527
+10PM, Smoking	527
+01AM, Street Sign - Damaged	526
+05PM, Noise - Helicopter	524
+11AM, Unsanitary Animal Pvt Property	523
+07AM, Vending	522
+04AM, Damaged Tree	521
+07PM, Litter Basket / Request	521
+03PM, Indoor Sewage	518
+09AM, Indoor Sewage	518
+12AM, Asbestos	518
+10AM, Elder Abuse	517
+10PM, Posting Advertisement	516
+12AM, Violation of Park Rules	516
+09PM, Water Conservation	515
+01AM, Lead	514
+12AM, Vacant Lot	514
+03PM, Electronics Waste	513
+08AM, Dead/Dying Tree	513
+02PM, Elder Abuse	512
+04PM, BEST/Site Safety	512
+07PM, Standing Water	512
+08PM, DCA / DOH New License Application Request	512
+08PM, Agency Issues	511
+12AM, Street Sign - Dangling	511
+06PM, Fire Safety Director - F58	509
+07PM, School Maintenance	509
+01PM, DOF Parking - Tax Exemption	508
+06AM, Missed Collection (All Materials)	508
+06PM, Rodent	508
+11AM, Recycling Enforcement	508
+04PM, Curb Condition	507
+07PM, Construction	506
+09AM, DOF Parking - Tax Exemption	506
+12AM, Non-Emergency Police Matter	506
+07PM, Animal in a Park	505
+07PM, Electrical	505
+03AM, Building/Use	504
+11AM, Noise - Park	504
+08AM, HPD Literature Request	502
+10AM, Public Payphone Complaint	502
+01PM, Curb Condition	501
+12PM, Noise - Park	501
+02AM, Lead	500
+11PM, Broken Muni Meter	500
+09AM, BEST/Site Safety	499
+11PM, Smoking	499
+01PM, Elder Abuse	498
+08PM, Litter Basket / Request	498
+04AM, PAINT/PLASTER	497
+10AM, Unsanitary Animal Pvt Property	496
+05PM, Taxi Report	495
+07PM, Rodent	495
+10AM, Recycling Enforcement	495
+11PM, Special Projects Inspection Team (SPIT)	495
+07AM, Water Conservation	494
+10PM, Hazardous Materials	494
+11AM, Unleashed Dog	494
+01PM, Recycling Enforcement	493
+12PM, Recycling Enforcement	493
+06AM, Overgrown Tree/Branches	492
+05PM, Overflowing Litter Baskets	491
+05PM, Housing Options	490
+07AM, Electrical	489
+07AM, Special Projects Inspection Team (SPIT)	488
+01AM, Maintenance or Facility	487
+04AM, PLUMBING	487
+10AM, Unleashed Dog	486
+04PM, Indoor Sewage	485
+02AM, New Tree Request	482
+03PM, Derelict Bicycle	482
+12AM, Recycling Enforcement	482
+03PM, Recycling Enforcement	481
+09AM, Recycling Enforcement	480
+06PM, Industrial Waste	479
+07AM, Plumbing	479
+08PM, Boilers	479
+12PM, Unleashed Dog	479
+04PM, Drinking	477
+04PM, Electronics Waste	477
+08PM, Disorderly Youth	475
+02AM, Consumer Complaint	474
+02PM, Recycling Enforcement	474
+03PM, Elder Abuse	474
+04PM, Non-Residential Heat	473
+12PM, DPR Internal	473
+08PM, SCRIE	470
+05AM, PAINT/PLASTER	469
+09PM, SAFETY	468
+10PM, APPLIANCE	467
+05PM, Disorderly Youth	466
+11AM, Public Payphone Complaint	466
+03AM, Damaged Tree	465
+03PM, Public Payphone Complaint	465
+08PM, Housing - Low Income Senior	462
+12PM, Elder Abuse	460
+07AM, Animal in a Park	458
+01PM, DPR Internal	455
+02AM, ELECTRIC	455
+04AM, Sanitation Condition	455
+04PM, Derelict Bicycle	455
+01AM, Homeless Person Assistance	454
+06PM, Noise Survey	454
+08PM, Violation of Park Rules	454
+08PM, Rodent	452
+11PM, Other Enforcement	452
+04PM, Public Payphone Complaint	451
+07AM, APPLIANCE	451
+07AM, Boilers	451
+03PM, Taxi Report	450
+07AM, Fire Safety Director - F58	449
+09AM, Unleashed Dog	449
+09PM, Plumbing	449
+12PM, Public Payphone Complaint	449
+06AM, GENERAL	448
+06PM, Asbestos	448
+09PM, Boilers	448
+04PM, Recycling Enforcement	447
+08PM, Electrical	447
+03PM, Unsanitary Animal Pvt Property	444
+12PM, Sweeping/Missed	443
+01PM, Unleashed Dog	442
+03AM, PLUMBING	441
+04PM, DOF Parking - Tax Exemption	441
+08PM, Illegal Tree Damage	441
+11AM, Noise - Helicopter	441
+11AM, Home Repair	440
+11PM, Dead Tree	440
+03PM, Unleashed Dog	439
+07AM, For Hire Vehicle Complaint	439
+11PM, Root/Sewer/Sidewalk Condition	437
+04AM, Graffiti	436
+02AM, DOOR/WINDOW	435
+02PM, Unleashed Dog	435
+10AM, Window Guard	434
+10AM, Home Repair	432
+06AM, Street Sign - Damaged	431
+07AM, Vacant Lot	431
+09PM, Rodent	431
+11PM, Traffic/Illegal Parking	431
+12PM, Unsanitary Animal Pvt Property	431
+12AM, Safety	429
+01AM, GENERAL	428
+03AM, General Construction/Plumbing	427
+06AM, Lead	427
+08PM, School Maintenance	427
+12AM, Disorderly Youth	427
+04PM, Unleashed Dog	425
+07PM, Boilers	425
+05PM, Water Quality	424
+08AM, Non-Residential Heat	424
+12AM, Investigations and Discipline (IAD)	423
+12PM, Noise - Helicopter	422
+07PM, Industrial Waste	421
+07AM, Overflowing Litter Baskets	420
+01PM, Unsanitary Animal Pvt Property	418
+02AM, Food Establishment	417
+05AM, DOOR/WINDOW	415
+10PM, SAFETY	415
+05AM, Air Quality	414
+06PM, Noise - House of Worship	414
+03PM, Drinking	413
+07PM, Vacant Lot	412
+05PM, Non-Residential Heat	411
+06PM, Dead/Dying Tree	411
+06PM, Taxi Report	411
+04PM, DPR Internal	410
+06AM, Other Enforcement	409
+01AM, Drinking	408
+02PM, Drinking	407
+01PM, Taxi Report	406
+03AM, Benefit Card Replacement	406
+11PM, Sidewalk Condition	405
+04PM, Unsanitary Animal Pvt Property	404
+10PM, Boilers	404
+09AM, Ferry Inquiry	403
+07PM, DOT Literature Request	402
+09AM, Unsanitary Animal Pvt Property	402
+06PM, Overflowing Litter Baskets	401
+01AM, Animal Abuse	400
+05PM, Curb Condition	400
+01AM, Snow	399
+02PM, Taxi Report	399
+02PM, Unsanitary Animal Pvt Property	399
+10AM, Taxi Compliment	399
+03AM, Sanitation Condition	398
+04AM, DOOR/WINDOW	398
+09AM, Elder Abuse	398
+11AM, DPR Internal	398
+12AM, Animal in a Park	397
+12PM, Home Repair	397
+04PM, Noise - Helicopter	395
+08PM, Street Sign - Dangling	395
+12PM, Drinking	394
+03AM, Derelict Vehicles	393
+08AM, Smoking	393
+10PM, Noise - Helicopter	393
+01PM, Public Payphone Complaint	392
+09PM, Electrical	392
+09PM, Litter Basket / Request	392
+10PM, Water Conservation	390
+05PM, DPR Internal	388
+01PM, Home Repair	387
+05AM, Homeless Person Assistance	387
+12AM, DOE Complaint or Compliment	386
+01AM, Air Quality	385
+05PM, Noise Survey	385
+05AM, WATER LEAK	384
+08PM, Standing Water	384
+10PM, Rodent	384
+04AM, New Tree Request	383
+05AM, Building/Use	383
+07AM, Agency Issues	383
+01AM, For Hire Vehicle Complaint	382
+03AM, PAINT/PLASTER	382
+09PM, Vending	382
+04PM, Elder Abuse	381
+06PM, Housing Options	381
+02AM, Derelict Vehicle	380
+10PM, Construction	380
+09AM, Public Payphone Complaint	379
+01AM, Indoor Air Quality	377
+02PM, Sweeping/Missed-Inadequate	377
+05AM, Snow	377
+07AM, School Maintenance	376
+09PM, DCA / DOH New License Application Request	376
+01AM, Elevator	375
+05AM, ELECTRIC	375
+09PM, Disorderly Youth	375
+10AM, DOF Property - RPIE Issue	375
+04AM, ELECTRIC	373
+06AM, Food Establishment	372
+09PM, Agency Issues	372
+08AM, Recycling Enforcement	371
+08AM, Housing Options	370
+10AM, Noise - Helicopter	370
+07AM, Noise - Helicopter	369
+02PM, Home Repair	368
+04PM, Disorderly Youth	368
+04AM, Derelict Vehicles	367
+09PM, Construction	367
+05AM, General Construction/Plumbing	366
+05AM, Lead	366
+11AM, Taxi Report	366
+07AM, Illegal Tree Damage	365
+10AM, DPR Internal	365
+11AM, Drinking	365
+11AM, Ferry Inquiry	365
+02PM, Noise - Helicopter	364
+04AM, Building/Use	364
+05PM, Public Payphone Complaint	364
+07PM, Taxi Report	364
+09AM, Noise - Helicopter	364
+03AM, ELECTRIC	361
+11PM, Taxi Report	361
+02AM, WATER LEAK	360
+07PM, Asbestos	360
+08PM, Animal in a Park	359
+11PM, APPLIANCE	358
+05PM, Derelict Bicycle	357
+06AM, Non-Emergency Police Matter	357
+08PM, Vacant Lot	356
+09AM, Bridge Condition	356
+11AM, Taxi Compliment	356
+05AM, Homeless Encampment	355
+06AM, Animal Abuse	355
+08AM, Derelict Bicycle	354
+08AM, Electronics Waste	354
+08PM, Construction	354
+09PM, HPD Literature Request	352
+09PM, SCRIE	352
+11AM, DOF Property - RPIE Issue	351
+01AM, Non-Emergency Police Matter	350
+05AM, Benefit Card Replacement	350
+05PM, Electronics Waste	350
+06PM, DPR Internal	349
+08AM, Investigations and Discipline (IAD)	349
+06AM, FLOORING/STAIRS	348
+12PM, Taxi Compliment	348
+12PM, Taxi Report	348
+05PM, Recycling Enforcement	347
+05PM, EAP Inspection - F59	346
+07AM, Street Sign - Dangling	346
+11PM, DOF Literature Request	345
+11PM, Food Poisoning	345
+04AM, WATER LEAK	344
+06PM, Noise - Helicopter	344
+07PM, Broken Parking Meter	344
+08AM, BEST/Site Safety	344
+01PM, Drinking	343
+10AM, Taxi Report	343
+10PM, Electrical	343
+01PM, Noise - Helicopter	342
+02PM, Noise Survey	342
+02PM, Public Payphone Complaint	342
+01PM, Taxi Compliment	341
+11PM, Traffic	340
+12PM, Noise - House of Worship	340
+05PM, Special Enforcement	339
+11PM, Hazardous Materials	339
+03AM, DOOR/WINDOW	338
+12PM, Ferry Inquiry	336
+11PM, Noise - Helicopter	335
+06PM, Water Quality	334
+08AM, Sweeping/Missed-Inadequate	334
+10AM, Bridge Condition	334
+10PM, Taxi Report	334
+05PM, Indoor Sewage	333
+06PM, Curb Condition	333
+03AM, Consumer Complaint	331
+03PM, Home Repair	331
+03PM, Noise Survey	331
+05AM, Highway Condition	331
+08PM, DOT Literature Request	331
+10PM, Plumbing	331
+12AM, Water Quality	331
+01AM, FLOORING/STAIRS	330
+03PM, Noise - Helicopter	330
+03PM, Taxi Compliment	329
+06PM, Derelict Bicycle	328
+01PM, Noise Survey	327
+09AM, Taxi Report	327
+06AM, Broken Muni Meter	326
+06PM, Non-Residential Heat	326
+08PM, Asbestos	326
+09PM, Illegal Tree Damage	326
+09PM, Street Sign - Dangling	326
+02AM, Snow	325
+04PM, Noise Survey	325
+05PM, Unsanitary Animal Pvt Property	324
+06AM, Boilers	324
+10AM, Ferry Inquiry	323
+10PM, Disorderly Youth	323
+08AM, Water Quality	321
+05PM, Unleashed Dog	320
+12PM, DOF Property - RPIE Issue	320
+02AM, Animal Abuse	319
+04PM, Taxi Compliment	318
+05AM, Consumer Complaint	317
+03AM, Lead	316
+07AM, Food Poisoning	316
+03PM, Bridge Condition	315
+10PM, Litter Basket / Request	314
+11AM, Noise Survey	314
+09PM, Housing - Low Income Senior	313
+03PM, Sweeping/Missed-Inadequate	312
+05AM, Maintenance or Facility	312
+09PM, Noise - Helicopter	312
+12AM, School Maintenance	312
+02AM, Homeless Person Assistance	311
+07AM, Noise - Park	310
+08PM, Industrial Waste	310
+10AM, Noise Survey	310
+02AM, Maintenance or Facility	309
+03AM, New Tree Request	309
+07PM, Water Quality	309
+04AM, Consumer Complaint	308
+10PM, DCA / DOH New License Application Request	308
+05AM, New Tree Request	306
+08PM, Taxi Report	306
+09PM, School Maintenance	306
+06AM, Street Sign - Missing	305
+07AM, Industrial Waste	305
+10PM, Vending	305
+01PM, Noise - House of Worship	304
+02PM, Taxi Compliment	304
+06AM, Indoor Air Quality	304
+09AM, Taxi Compliment	304
+06PM, Indoor Sewage	302
+11AM, Window Guard	302
+11PM, Boilers	302
+02AM, Air Quality	301
+04AM, Benefit Card Replacement	301
+12AM, Discipline and Suspension	301
+02PM, Sweeping/Missed	299
+10AM, Drinking	298
+11AM, Bridge Condition	298
+11PM, SAFETY	298
+07PM, Fire Safety Director - F58	297
+02PM, DOF Property - RPIE Issue	295
+07PM, Curb Condition	295
+03AM, WATER LEAK	294
+07PM, Non-Residential Heat	294
+08AM, DOF Property - Update Account	294
+12PM, Noise Survey	294
+03PM, DOF Property - RPIE Issue	293
+06AM, Sidewalk Condition	293
+07PM, DPR Internal	293
+06PM, Recycling Enforcement	292
+07PM, Dead/Dying Tree	291
+07AM, SAFETY	290
+08AM, DOF Parking - Request Status	290
+01AM, Street Sign - Missing	288
+04PM, Bridge Condition	288
+10AM, Cranes and Derricks	288
+01PM, Request for Information	287
+09AM, Home Repair	287
+12AM, Public Payphone Complaint	287
+08AM, Violation of Park Rules	286
+10PM, Agency Issues	286
+03PM, Disorderly Youth	285
+06AM, Dead Tree	285
+09AM, Sweeping/Missed	285
+04PM, Noise - House of Worship	284
+09PM, Taxi Report	284
+02AM, For Hire Vehicle Complaint	283
+01PM, Bridge Condition	282
+02AM, GENERAL	281
+06AM, Traffic	281
+09AM, Cranes and Derricks	281
+09AM, Emergency Response Team (ERT)	281
+05PM, Noise - House of Worship	280
+07AM, Rodent	280
+10AM, Alzheimer's Care	280
+02PM, Noise - House of Worship	279
+06PM, Electronics Waste	279
+07AM, Asbestos	279
+07AM, DOT Literature Request	279
+08PM, Water Quality	279
+11PM, Construction	279
+01PM, DOF Property - RPIE Issue	277
+05PM, BEST/Site Safety	277
+06AM, Hazardous Materials	277
+08AM, Curb Condition	276
+08AM, Indoor Sewage	276
+02AM, Drinking	275
+09PM, Violation of Park Rules	274
+03AM, Food Establishment	273
+03PM, Window Guard	273
+07AM, SCRIE	273
+07PM, Indoor Sewage	273
+09AM, Window Guard	273
+10AM, DCA Literature Request	273
+11AM, Cranes and Derricks	273
+11PM, Water Conservation	273
+12AM, Cranes and Derricks	273
+01AM, Highway Condition	272
+09PM, DOT Literature Request	271
+04AM, Derelict Vehicle	270
+04AM, Noise Survey	270
+01AM, Homeless Encampment	268
+08AM, DOF Parking - Request Copy	268
+12PM, Bridge Condition	268
+06PM, Unleashed Dog	267
+11AM, DCA Literature Request	267
+11AM, Request for Information	267
+02PM, Bridge Condition	266
+03AM, Noise - Park	266
+05PM, Elder Abuse	266
+07PM, Recycling Enforcement	266
+09PM, Asbestos	266
+09PM, Industrial Waste	266
+11PM, Rodent	266
+12AM, Teaching/Learning/Instruction	266
+01PM, Ferry Inquiry	265
+04AM, General Construction/Plumbing	265
+07AM, Standing Water	265
+12PM, Window Guard	265
+01PM, Senior Center Complaint	264
+06PM, Unsanitary Animal Pvt Property	264
+07AM, Housing - Low Income Senior	264
+10PM, Illegal Tree Damage	264
+12PM, DCA Literature Request	264
+11AM, Alzheimer's Care	263
+02AM, Indoor Air Quality	260
+02PM, Request for Information	260
+07PM, Bike/Roller/Skate Chronic	260
+10PM, Street Sign - Dangling	260
+09AM, City Vehicle Placard Complaint	259
+12AM, Found Property	258
+05PM, Bridge Condition	257
+08AM, Public Payphone Complaint	257
+10PM, School Maintenance	257
+10PM, Violation of Park Rules	257
+12PM, OUTSIDE BUILDING	257
+05PM, Taxi Compliment	256
+08PM, Non-Residential Heat	256
+01AM, Noise - House of Worship	255
+03PM, Ferry Inquiry	255
+04AM, Air Quality	255
+04PM, Bike/Roller/Skate Chronic	255
+02PM, Window Guard	253
+04PM, Home Repair	252
+07PM, Overflowing Litter Baskets	252
+03PM, Noise - House of Worship	251
+08AM, Taxi Report	251
+09PM, Standing Water	251
+07PM, Derelict Bicycle	250
+09AM, DOF Property - RPIE Issue	250
+09AM, DPR Internal	250
+08AM, Ferry Inquiry	249
+01AM, Smoking	248
+09PM, Recycling Enforcement	248
+10AM, Senior Center Complaint	248
+11AM, Noise - House of Worship	248
+11PM, Recycling Enforcement	248
+06AM, Traffic/Illegal Parking	247
+11PM, Agency Issues	247
+01PM, DCA Literature Request	245
+04AM, Snow	245
+05AM, GENERAL	245
+06AM, For Hire Vehicle Complaint	245
+05AM, Food Establishment	244
+05PM, Investigations and Discipline (IAD)	244
+07PM, Electronics Waste	244
+08AM, Noise - Helicopter	244
+08PM, Fire Safety Director - F58	244
+10AM, Request for Information	244
+03AM, Derelict Vehicle	243
+04AM, Homeless Person Assistance	243
+05AM, For Hire Vehicle Complaint	243
+08PM, Indoor Sewage	243
+10PM, SCRIE	243
+06PM, Bike/Roller/Skate Chronic	242
+07PM, Housing Options	242
+10AM, Emergency Response Team (ERT)	242
+04AM, Lead	241
+10AM, Found Property	241
+10PM, HPD Literature Request	241
+02PM, DCA Literature Request	240
+02PM, Ferry Inquiry	240
+12PM, Cranes and Derricks	239
+08PM, Overflowing Litter Baskets	238
+12PM, Senior Center Complaint	238
+08AM, Unsanitary Animal Pvt Property	237
+04AM, GENERAL	236
+10PM, Taxi Compliment	236
+11AM, Found Property	236
+11AM, DOF Parking - DMV Clearance	235
+11PM, Litter Basket / Request	235
+12PM, DOF Parking - DMV Clearance	235
+02PM, Senior Center Complaint	234
+05AM, Overgrown Tree/Branches	234
+08PM, Taxi Compliment	234
+02AM, FLOORING/STAIRS	233
+02AM, Street Sign - Damaged	233
+05AM, Street Sign - Damaged	233
+05PM, Bike/Roller/Skate Chronic	233
+07AM, Smoking	233
+09AM, Noise Survey	233
+09PM, Posting Advertisement	233
+10PM, Animal in a Park	233
+10PM, Housing - Low Income Senior	233
+11AM, OUTSIDE BUILDING	233
+02PM, Alzheimer's Care	232
+06AM, Special Projects Inspection Team (SPIT)	232
+08AM, Bridge Condition	232
+09PM, Non-Residential Heat	232
+12AM, Traffic/Illegal Parking	232
+03PM, Request for Information	231
+05AM, FLOORING/STAIRS	231
+09PM, Vacant Lot	231
+12AM, Taxi Compliment	231
+03PM, Bike/Roller/Skate Chronic	230
+04PM, DOF Property - RPIE Issue	230
+10PM, Recycling Enforcement	230
+11AM, Scaffold Safety	230
+01PM, Alzheimer's Care	229
+03AM, Homeless Person Assistance	229
+07AM, Non-Residential Heat	228
+06PM, Bridge Condition	227
+09AM, Senior Center Complaint	227
+03PM, Sweeping/Missed	226
+08AM, Unleashed Dog	226
+08PM, Bike/Roller/Skate Chronic	226
+08PM, Dead/Dying Tree	226
+08PM, Recycling Enforcement	226
+09AM, Request Xmas Tree Collection	225
+11AM, Fire Alarm - Reinspection	225
+11PM, Electrical	225
+10PM, DOT Literature Request	223
+12AM, Unleashed Dog	223
+09AM, DCA Literature Request	222
+10AM, OUTSIDE BUILDING	222
+10PM, Illegal Fireworks	222
+12AM, Sweeping/Missed-Inadequate	222
+02AM, Elevator	221
+03PM, Alzheimer's Care	221
+08AM, EAP Inspection - F59	221
+12AM, Window Guard	221
+04PM, Request for Information	220
+07PM, Unleashed Dog	220
+09AM, DOF Parking - DMV Clearance	220
+11AM, Mold	219
+11AM, Senior Center Complaint	219
+11PM, Plumbing	219
+08PM, Curb Condition	218
+03AM, Animal Abuse	217
+06PM, Taxi Compliment	217
+09AM, Drinking	217
+09PM, Animal in a Park	217
+10AM, Fire Alarm - Reinspection	217
+11AM, City Vehicle Placard Complaint	217
+12PM, Request for Information	217
+12PM, Scaffold Safety	216
+06AM, Vending	215
+03PM, Senior Center Complaint	214
+08AM, Drinking	214
+11PM, Illegal Tree Damage	214
+12PM, Alzheimer's Care	214
+01PM, Bike/Roller/Skate Chronic	213
+04AM, Maintenance or Facility	213
+08PM, Broken Parking Meter	212
+10AM, DOF Parking - DMV Clearance	212
+10AM, Mold	212
+11AM, HEAP Assistance	212
+12AM, Taxi Report	212
+01PM, Cranes and Derricks	211
+03AM, For Hire Vehicle Complaint	211
+04AM, Drinking	211
+10AM, City Vehicle Placard Complaint	211
+10AM, Urinating in Public	211
+12AM, Overflowing Litter Baskets	211
+01AM, Special Projects Inspection Team (SPIT)	210
+03AM, Maintenance or Facility	210
+11PM, DCA / DOH New License Application Request	210
+12AM, Noise - Helicopter	210
+12PM, Found Property	210
+12PM, Mold	210
+02AM, Non-Emergency Police Matter	209
+04PM, Ferry Inquiry	209
+09PM, Illegal Fireworks	209
+11AM, Urinating in Public	209
+01PM, OUTSIDE BUILDING	208
+03PM, DCA Literature Request	208
+07AM, Public Payphone Complaint	208
+08AM, DOF Parking - Tax Exemption	208
+09AM, Found Property	208
+10PM, Vacant Lot	208
+11AM, Emergency Response Team (ERT)	208
+12AM, Bridge Condition	208
+02AM, Street Sign - Missing	207
+03AM, Snow	207
+09PM, Taxi Compliment	207
+12PM, Urinating in Public	207
+06AM, APPLIANCE	206
+10AM, Request Xmas Tree Collection	206
+08PM, DPR Internal	205
+01AM, Missed Collection (All Materials)	204
+06PM, DOF Property - Reduction Issue	204
+11PM, Vending	204
+03AM, GENERAL	203
+04AM, For Hire Vehicle Complaint	203
+07PM, Noise - Helicopter	203
+08PM, Noise - Helicopter	203
+10PM, Industrial Waste	203
+12PM, Emergency Response Team (ERT)	203
+06AM, Root/Sewer/Sidewalk Condition	202
+10PM, Asbestos	202
+12PM, Fire Alarm - Reinspection	202
+03AM, Air Quality	201
+06PM, Emergency Response Team (ERT)	201
+07AM, Dead/Dying Tree	201
+12PM, HEAP Assistance	201
+01PM, Emergency Response Team (ERT)	200
+02PM, Bike/Roller/Skate Chronic	200
+02PM, OUTSIDE BUILDING	200
+04AM, Food Establishment	200
+06AM, Overflowing Litter Baskets	200
+07AM, Construction	200
+08AM, Request Xmas Tree Collection	200
+03PM, Found Property	199
+01PM, Window Guard	198
+05PM, Urinating in Public	198
+07PM, Unsanitary Animal Pvt Property	198
+08AM, City Vehicle Placard Complaint	198
+09PM, Indoor Sewage	198
+09PM, Overflowing Litter Baskets	198
+10AM, Noise - House of Worship	198
+10PM, Non-Residential Heat	198
+02PM, Mold	197
+08PM, Housing Options	197
+08PM, Unleashed Dog	197
+04PM, Mold	196
+06AM, Water Conservation	196
+07AM, Bridge Condition	196
+11AM, Bike/Roller/Skate Chronic	196
+11AM, DHS Advantage - Third Party	196
+01AM, Overgrown Tree/Branches	195
+01PM, Mold	195
+02PM, HEAP Assistance	195
+03PM, Cranes and Derricks	195
+08PM, Plant	195
+09PM, Water Quality	195
+10AM, HEAP Assistance	195
+03AM, Indoor Air Quality	194
+06PM, Investigations and Discipline (IAD)	194
+07PM, Taxi Compliment	194
+08AM, Elder Abuse	194
+03PM, DOF Parking - DMV Clearance	193
+03PM, Fire Alarm - Reinspection	193
+04PM, Urinating in Public	193
+08AM, Noise Survey	193
+10PM, Overflowing Litter Baskets	193
+10PM, Water Quality	193
+01AM, Taxi Report	192
+02PM, Cranes and Derricks	192
+06AM, Litter Basket / Request	192
+06AM, Plumbing	192
+09AM, Alzheimer's Care	192
+01PM, HEAP Assistance	191
+04PM, DCA Literature Request	191
+07AM, DCA / DOH New License Application Request	191
+10AM, Sweeping/Inadequate	191
+01PM, Found Property	190
+11PM, HPD Literature Request	190
+12PM, Bike/Roller/Skate Chronic	190
+06PM, Elder Abuse	189
+06PM, Public Payphone Complaint	189
+09AM, Noise - House of Worship	188
+01PM, DOF Parking - DMV Clearance	187
+01PM, Urinating in Public	187
+02PM, Found Property	186
+04AM, Indoor Air Quality	186
+04PM, Alzheimer's Care	186
+07PM, Elder Abuse	186
+03PM, Urinating in Public	185
+05PM, Ferry Inquiry	185
+07PM, Bridge Condition	185
+07PM, Emergency Response Team (ERT)	185
+12AM, Traffic	185
+03PM, Mold	184
+05AM, Elevator	184
+09AM, Urinating in Public	184
+05AM, Indoor Air Quality	183
+07AM, Recycling Enforcement	183
+10AM, Scaffold Safety	183
+10AM, Unsanitary Pigeon Condition	182
+02AM, Smoking	181
+04PM, Sweeping/Missed-Inadequate	181
+08PM, Electronics Waste	181
+09AM, OUTSIDE BUILDING	181
+04PM, Window Guard	180
+05AM, Animal Abuse	180
+08PM, Derelict Bicycle	180
+11AM, Sweeping/Inadequate	180
+03PM, HEAP Assistance	179
+10PM, Standing Water	179
+11AM, DOF Property - City Rebate	179
+02AM, Homeless Encampment	178
+02PM, Urinating in Public	178
+04AM, Elevator	178
+06PM, Urinating in Public	178
+07AM, HPD Literature Request	178
+12PM, Request Xmas Tree Collection	178
+11AM, Bus Stop Shelter Placement	177
+12PM, DHS Advantage - Third Party	177
+02PM, DOF Parking - DMV Clearance	176
+11PM, Street Sign - Dangling	176
+01AM, Other Enforcement	175
+07PM, Public Payphone Complaint	175
+09PM, Unleashed Dog	175
+12PM, City Vehicle Placard Complaint	175
+03PM, OUTSIDE BUILDING	174
+04AM, FLOORING/STAIRS	174
+09PM, Fire Safety Director - F58	174
+09PM, Plant	174
+04PM, Senior Center Complaint	173
+08AM, Cranes and Derricks	173
+11AM, Unsanitary Pigeon Condition	173
+02PM, Emergency Response Team (ERT)	172
+01PM, Scaffold Safety	171
+02PM, Scaffold Safety	171
+03PM, Emergency Response Team (ERT)	171
+09PM, Dead/Dying Tree	171
+01AM, Boilers	170
+02PM, Disorderly Youth	170
+06PM, Ferry Inquiry	170
+09AM, Request for Information	170
+06AM, Agency Issues	169
+12AM, Posting Advertisement	169
+01AM, APPLIANCE	168
+02PM, City Vehicle Placard Complaint	168
+07AM, Water Quality	168
+04PM, Found Property	167
+04PM, Sweeping/Missed	167
+10AM, DHS Advantage - Third Party	167
+01AM, Dead Tree	166
+02AM, Noise - House of Worship	166
+04PM, Emergency Response Team (ERT)	166
+05PM, DOF Property - Update Account	166
+07PM, Ferry Inquiry	166
+08AM, Emergency Response Team (ERT)	166
+09AM, HEAP Assistance	166
+03PM, Scaffold Safety	165
+05AM, Street Sign - Missing	165
+09AM, Scaffold Safety	165
+10AM, Bus Stop Shelter Placement	165
+01AM, Hazardous Materials	164
+03AM, Drinking	164
+04PM, DOF Parking - DMV Clearance	164
+11PM, Taxi Compliment	164
+03AM, FLOORING/STAIRS	163
+08PM, Emergency Response Team (ERT)	163
+11AM, Illegal Animal Kept as Pet	163
+01PM, City Vehicle Placard Complaint	162
+01PM, Sweeping/Inadequate	162
+03PM, Panhandling	162
+08PM, Bridge Condition	162
+11PM, DOT Literature Request	162
+01PM, Fire Alarm - Reinspection	161
+02AM, Highway Condition	161
+03AM, Smoking	161
+07AM, Derelict Bicycle	161
+11PM, Asbestos	161
+12PM, Unsanitary Pigeon Condition	161
+12AM, Agency Issues	160
+12AM, Registration and Transfers	160
+03PM, DHS Advantage - Third Party	159
+05PM, OEM Disabled Vehicle	159
+05PM, Request for Information	159
+09AM, Mold	159
+09PM, DPR Internal	159
+11AM, Utility Program	159
+02PM, DHS Advantage - Third Party	158
+03AM, Elevator	157
+05AM, Drinking	157
+07AM, BEST/Site Safety	157
+09PM, Curb Condition	157
+11AM, Request Xmas Tree Collection	157
+12PM, DOF Property - City Rebate	157
+07PM, Urinating in Public	156
+09PM, Electronics Waste	156
+11PM, Disorderly Youth	156
+02PM, Fire Alarm - Reinspection	155
+03PM, DOF Property - City Rebate	155
+03PM, OEM Disabled Vehicle	155
+10AM, Bike/Roller/Skate Chronic	155
+10AM, Utility Program	155
+10PM, Indoor Sewage	155
+12PM, Bus Stop Shelter Placement	155
+06PM, Found Property	154
+08AM, DPR Internal	154
+08AM, Urinating in Public	154
+09PM, Bike/Roller/Skate Chronic	154
+11PM, School Maintenance	154
+11PM, Violation of Park Rules	154
+12PM, Illegal Animal Kept as Pet	154
+05PM, Sweeping/Missed-Inadequate	153
+11PM, Illegal Fireworks	153
+12PM, Sweeping/Inadequate	153
+01PM, DHS Advantage - Third Party	152
+04AM, Animal Abuse	152
+04AM, Homeless Encampment	152
+05PM, OUTSIDE BUILDING	152
+07AM, Electronics Waste	152
+08PM, Elder Abuse	152
+09PM, Broken Parking Meter	152
+01AM, Noise - Helicopter	151
+04PM, Cable Complaint	151
+05AM, Noise Survey	151
+05PM, Found Property	151
+08PM, Unsanitary Animal Pvt Property	151
+10AM, Cable Complaint	151
+01PM, Weatherization	150
+03PM, Utility Program	150
+05AM, Hazardous Materials	150
+06PM, BEST/Site Safety	150
+08PM, Urinating in Public	150
+01AM, Food Poisoning	149
+11AM, Cable Complaint	149
+11PM, Animal in a Park	149
+02AM, Hazardous Materials	148
+02PM, Bus Stop Shelter Placement	148
+04AM, Noise - Park	148
+10PM, DPR Internal	148
+01AM, Agency Issues	147
+03PM, Request Xmas Tree Collection	147
+04PM, Panhandling	147
+09AM, Bus Stop Shelter Placement	147
+02PM, Utility Program	146
+08AM, Sweeping/Missed	146
+09PM, Elder Abuse	146
+10AM, ELEVATOR	146
+10PM, Derelict Bicycle	146
+12AM, Construction	146
+12PM, Utility Program	146
+03PM, Bus Stop Shelter Placement	145
+11PM, Curb Condition	145
+02PM, Weatherization	144
+04PM, OEM Disabled Vehicle	144
+06AM, Food Poisoning	144
+08PM, Found Property	144
+09AM, Sweeping/Inadequate	144
+10AM, DOF Property - City Rebate	144
+10AM, Illegal Animal Kept as Pet	144
+11PM, Industrial Waste	144
+01AM, SAFETY	143
+01PM, Illegal Animal Kept as Pet	143
+01PM, Unsanitary Pigeon Condition	143
+03AM, Non-Emergency Police Matter	143
+04PM, OUTSIDE BUILDING	143
+05AM, Sidewalk Condition	143
+08AM, Noise - House of Worship	143
+12AM, City Vehicle Placard Complaint	143
+12AM, Ferry Inquiry	143
+01PM, ELEVATOR	142
+02PM, DOF Property - City Rebate	142
+02PM, Panhandling	142
+04PM, HEAP Assistance	142
+06PM, Ferry Complaint	142
+09AM, Fire Alarm - Reinspection	142
+09PM, Derelict Bicycle	142
+10AM, Beach/Pool/Sauna Complaint	142
+11PM, Water Quality	142
+01AM, Traffic/Illegal Parking	141
+02PM, ELEVATOR	141
+06AM, Electrical	141
+07AM, Indoor Sewage	141
+09PM, Urinating in Public	141
+10PM, Plant	141
+01PM, Bus Stop Shelter Placement	140
+01PM, Request Xmas Tree Collection	140
+02PM, Illegal Animal Kept as Pet	140
+03PM, ELEVATOR	140
+03PM, OEM Literature Request	140
+05AM, Missed Collection (All Materials)	140
+08PM, Public Payphone Complaint	140
+09AM, OEM Disabled Vehicle	140
+01PM, Home Delivered Meal - Missed Delivery	138
+02AM, Boilers	138
+03PM, City Vehicle Placard Complaint	138
+04PM, Plant	138
+06AM, SAFETY	138
+07AM, Taxi Report	138
+08AM, Plant	138
+09AM, Illegal Animal Kept as Pet	138
+09PM, Housing Options	138
+10PM, Bridge Condition	138
+10PM, Found Property	138
+11AM, Miscellaneous Categories	138
+12AM, Collection Truck Noise	138
+01AM, Root/Sewer/Sidewalk Condition	137
+01PM, DOF Property - City Rebate	137
+03AM, Street Sign - Missing	137
+06AM, Street Sign - Dangling	137
+09PM, Emergency Response Team (ERT)	137
+11AM, Weatherization	137
+11PM, Non-Residential Heat	137
+12PM, OEM Disabled Vehicle	137
+02PM, OEM Disabled Vehicle	136
+05PM, DCA Literature Request	136
+12AM, Tree Work Permit Request	136
+02PM, Unsanitary Pigeon Condition	135
+04AM, APPLIANCE	135
+05PM, Emergency Response Team (ERT)	135
+06AM, Smoking	135
+07AM, Curb Condition	135
+12PM, Home Delivered Meal - Missed Delivery	135
+01PM, Utility Program	134
+05AM, Non-Emergency Police Matter	134
+06PM, Request for Information	134
+07PM, DOF Property - Reduction Issue	134
+04PM, Fire Alarm - Reinspection	133
+07AM, Noise Survey	133
+07PM, Request for Information	133
+09AM, Ferry Complaint	133
+11AM, Plant	133
+11PM, Found Property	133
+12PM, Cable Complaint	133
+01AM, Sidewalk Condition	132
+02AM, Overgrown Tree/Branches	132
+04PM, Illegal Animal Kept as Pet	132
+04PM, Posting Advertisement	132
+03AM, Highway Condition	131
+04AM, Highway Condition	131
+04AM, Overgrown Tree/Branches	131
+07AM, Drinking	131
+12PM, ELEVATOR	131
+01PM, Cable Complaint	130
+03PM, Illegal Animal Kept as Pet	130
+03PM, Unsanitary Pigeon Condition	130
+06AM, DOF Literature Request	130
+09AM, Unsanitary Pigeon Condition	130
+10AM, Weatherization	130
+10PM, Curb Condition	130
+12PM, Weatherization	130
+04PM, Bus Stop Shelter Placement	129
+11PM, Overflowing Litter Baskets	129
+02AM, Food Poisoning	128
+02PM, Posting Advertisement	128
+05PM, Day Care	128
+08AM, Day Care	128
+08AM, Taxi Compliment	128
+10AM, Plant	128
+11AM, DRIE	128
+03AM, Homeless Encampment	127
+03PM, Cable Complaint	127
+06AM, Noise - Park	127
+10PM, Fire Safety Director - F58	127
+12PM, Posting Advertisement	127
+01AM, Collection Truck Noise	126
+05PM, DOF Parking - Request Status	126
+06AM, Vacant Lot	126
+10AM, OEM Disabled Vehicle	126
+12AM, Illegal Tree Damage	126
+12AM, Urinating in Public	126
+02AM, Missed Collection (All Materials)	125
+05AM, APPLIANCE	125
+05AM, Other Enforcement	125
+05PM, DOF Parking - Request Copy	125
+05PM, Plant	125
+01PM, Panhandling	124
+04PM, City Vehicle Placard Complaint	124
+05AM, Noise - Park	124
+10AM, DRIE	124
+11PM, Fire Safety Director - F58	124
+02AM, Noise - Helicopter	123
+04AM, Hazardous Materials	123
+04PM, ELEVATOR	123
+05PM, Panhandling	123
+07PM, Investigations and Discipline (IAD)	123
+11AM, OEM Literature Request	123
+12AM, DOF Literature Request	123
+02PM, Request Xmas Tree Collection	122
+04PM, DOF Property - City Rebate	122
+10PM, Bike/Roller/Skate Chronic	122
+11AM, Home Delivered Meal - Missed Delivery	122
+03PM, Weatherization	121
+05PM, Mold	121
+10PM, Urinating in Public	121
+11PM, Housing - Low Income Senior	121
+11PM, SCRIE	121
+04AM, Non-Emergency Police Matter	120
+05AM, Traffic/Illegal Parking	120
+06AM, Cranes and Derricks	120
+07PM, Found Property	120
+09AM, Cable Complaint	120
+09AM, Utility Program	120
+10AM, OEM Literature Request	120
+11PM, Vacant Lot	120
+12PM, Beach/Pool/Sauna Complaint	120
+06PM, Plant	119
+09PM, Unsanitary Animal Pvt Property	119
+02PM, OEM Literature Request	118
+03PM, Opinion for the Mayor	118
+05PM, City Vehicle Placard Complaint	118
+08PM, Ferry Inquiry	118
+09PM, Bridge Condition	118
+09PM, Found Property	118
+11AM, Beach/Pool/Sauna Complaint	118
+12PM, OEM Literature Request	118
+08AM, Ferry Complaint	117
+10AM, DOF Property - Property Value	117
+10PM, Unleashed Dog	117
+01AM, Traffic	116
+02AM, Sidewalk Condition	116
+03AM, Hazardous Materials	116
+04PM, DHS Advantage - Third Party	116
+04PM, OEM Literature Request	116
+04PM, Scaffold Safety	116
+06AM, Drinking	116
+06AM, Noise Survey	116
+06AM, School Maintenance	116
+06PM, Sweeping/Missed-Inadequate	116
+09AM, DHS Advantage - Third Party	116
+09AM, DOF Property - City Rebate	116
+12PM, Opinion for the Mayor	116
+06AM, Collection Truck Noise	115
+06PM, DOF Property - Owner Issue	115
+10AM, Stalled Sites	115
+10PM, Broken Parking Meter	115
+11AM, Harboring Bees/Wasps	115
+01PM, DRIE	114
+01PM, Disorderly Youth	114
+01PM, OEM Disabled Vehicle	114
+02PM, Home Delivered Meal - Missed Delivery	114
+03AM, Street Sign - Damaged	114
+04PM, Ferry Complaint	114
+05PM, Ferry Complaint	114
+05PM, Home Repair	114
+06AM, Fire Safety Director - F58	114
+09AM, Miscellaneous Categories	114
+02AM, Other Enforcement	113
+02AM, Special Projects Inspection Team (SPIT)	113
+04PM, Harboring Bees/Wasps	113
+05AM, Broken Muni Meter	113
+06PM, OEM Disabled Vehicle	113
+07AM, Housing Options	113
+07PM, Plant	113
+10AM, Harboring Bees/Wasps	113
+11AM, Opinion for the Mayor	113
+11PM, Derelict Bicycle	113
+04PM, Request Xmas Tree Collection	112
+05PM, Sweeping/Missed	112
+06AM, Animal in a Park	112
+06AM, Public Payphone Complaint	112
+06AM, Rodent	112
+06PM, ELEVATOR	112
+07AM, City Vehicle Placard Complaint	112
+08AM, DCA Literature Request	112
+12PM, DOF Property - Property Value	112
+01AM, Plumbing	111
+02PM, Opinion for the Mayor	111
+04AM, Smoking	111
+04PM, Utility Program	111
+09AM, ELEVATOR	111
+12PM, Plant	111
+03PM, Plant	110
+04PM, Unsanitary Pigeon Condition	110
+08AM, Found Property	110
+08AM, OUTSIDE BUILDING	110
+08PM, Request for Information	110
+11AM, ELEVATOR	110
+12PM, Harboring Bees/Wasps	110
+02PM, Cable Complaint	109
+03AM, Boilers	109
+05AM, Boilers	109
+12PM, DRIE	109
+02AM, Taxi Report	108
+04AM, Boilers	108
+08AM, Senior Center Complaint	108
+10PM, Electronics Waste	108
+10PM, Emergency Response Team (ERT)	108
+11AM, DOF Property - Property Value	108
+11PM, Standing Water	108
+01PM, Plant	107
+02PM, DRIE	107
+04AM, Dead Tree	107
+06AM, Asbestos	107
+06AM, DOT Literature Request	107
+07AM, Unsanitary Animal Pvt Property	107
+08AM, Home Repair	107
+08PM, Illegal Fireworks	107
+09PM, Public Payphone Complaint	107
+10PM, Dead/Dying Tree	107
+03PM, Beach/Pool/Sauna Complaint	106
+06PM, Safety	106
+07PM, ELEVATOR	106
+12AM, Miscellaneous Categories	106
+01AM, Water Conservation	105
+05PM, Alzheimer's Care	105
+05PM, Bus Stop Shelter Placement	105
+06PM, DCA Literature Request	105
+07AM, Sweeping/Missed-Inadequate	105
+09AM, Bike/Roller/Skate Chronic	105
+10AM, Panhandling	105
+11AM, Posting Advertisement	105
+01PM, Posting Advertisement	104
+03PM, Posting Advertisement	104
+04AM, Street Sign - Missing	104
+06AM, Illegal Tree Damage	104
+09AM, Plant	104
+11AM, Fire Alarm - New System	104
+11PM, DPR Internal	104
+12AM, HPD Literature Request	104
+02AM, SAFETY	103
+07AM, Broken Parking Meter	103
+08PM, Investigations and Discipline (IAD)	103
+10AM, Miscellaneous Categories	103
+10AM, Posting Advertisement	103
+12PM, Panhandling	103
+02PM, Stalled Sites	102
+05AM, Smoking	102
+05PM, ELEVATOR	102
+06PM, City Vehicle Placard Complaint	102
+06PM, DOF Property - Request Copy	102
+10AM, Opinion for the Mayor	102
+10PM, Unsanitary Animal Pvt Property	102
+12AM, Illegal Fireworks	102
+03AM, Other Enforcement	101
+03PM, Stalled Sites	101
+05AM, Agency Issues	101
+05PM, Cable Complaint	101
+07PM, OEM Disabled Vehicle	101
+11AM, OEM Disabled Vehicle	101
+02AM, APPLIANCE	100
+04AM, Street Sign - Damaged	100
+06PM, Day Care	100
+09AM, Weatherization	100
+11PM, Dead/Dying Tree	100
+12AM, Bus Stop Shelter Placement	100
+12PM, Disorderly Youth	100
+01AM, Taxi Compliment	99
+05AM, Dead Tree	99
+06AM, HPD Literature Request	99
+11AM, Fire Alarm - Modification	99
+01PM, Harboring Bees/Wasps	98
+02PM, Beach/Pool/Sauna Complaint	98
+03AM, Food Poisoning	98
+03PM, Harboring Bees/Wasps	98
+04AM, SAFETY	98
+06AM, Standing Water	98
+08AM, Scaffold Safety	98
+10AM, Home Delivered Meal - Missed Delivery	98
+12AM, Health	98
+12AM, Senior Center Complaint	98
+01AM, Electrical	97
+01PM, DOF Property - Property Value	97
+02AM, Agency Issues	97
+07AM, Unleashed Dog	97
+01AM, Rodent	96
+03PM, DOF Property - Property Value	96
+05AM, Water Conservation	96
+05PM, Request Xmas Tree Collection	96
+06AM, Industrial Waste	96
+06PM, Panhandling	96
+07AM, Investigations and Discipline (IAD)	96
+10PM, Housing Options	96
+11AM, Panhandling	96
+11PM, Bridge Condition	96
+01PM, Beach/Pool/Sauna Complaint	95
+01PM, Opinion for the Mayor	95
+02PM, Harboring Bees/Wasps	95
+03AM, Overgrown Tree/Branches	95
+03PM, Fire Alarm - New System	95
+05AM, Food Poisoning	95
+06AM, Non-Residential Heat	95
+07AM, DOF Property - Reduction Issue	95
+09AM, Beach/Pool/Sauna Complaint	95
+01AM, DOF Literature Request	94
+01PM, OEM Literature Request	94
+02PM, Plant	94
+08AM, OEM Disabled Vehicle	94
+09PM, Ferry Inquiry	94
+02AM, Traffic/Illegal Parking	93
+05PM, Senior Center Complaint	93
+06PM, DOE Complaint or Compliment	93
+06PM, DOF Parking - Payment Issue	93
+11PM, Urinating in Public	93
+12PM, Miscellaneous Categories	93
+02AM, Electrical	92
+03PM, Home Delivered Meal - Missed Delivery	92
+07AM, Collection Truck Noise	92
+08AM, Illegal Animal Kept as Pet	92
+09PM, ELEVATOR	92
+10AM, Fire Alarm - New System	92
+12PM, Poison Ivy	92
+01PM, Complaint	91
+01PM, Fire Alarm - New System	91
+03AM, Noise - House of Worship	91
+03PM, DRIE	91
+04PM, Cranes and Derricks	91
+04PM, Opinion for the Mayor	91
+05PM, Posting Advertisement	91
+06PM, Request Xmas Tree Collection	91
+10PM, Elder Abuse	91
+12AM, Plant	91
+12PM, Home Delivered Meal Complaint	91
+02PM, Fire Alarm - New System	90
+06AM, Construction	90
+07AM, Emergency Response Team (ERT)	90
+07AM, Violation of Park Rules	90
+09AM, Posting Advertisement	90
+11PM, Indoor Sewage	90
+12PM, Fire Alarm - New System	90
+01AM, Recycling Enforcement	89
+02AM, Rodent	89
+02PM, Complaint	89
+04PM, Beach/Pool/Sauna Complaint	89
+05AM, SAFETY	89
+08AM, Stalled Sites	89
+12AM, DOT Literature Request	89
+03AM, Noise - Helicopter	88
+06PM, Harboring Bees/Wasps	88
+06PM, Sweeping/Missed	88
+07AM, Ferry Inquiry	88
+07PM, BEST/Site Safety	88
+10AM, Fire Alarm - Modification	88
+01AM, Broken Muni Meter	87
+01AM, Construction	87
+03PM, Ferry Complaint	87
+05AM, Noise - Helicopter	87
+06AM, Bridge Condition	87
+06PM, Cable Complaint	87
+07PM, Ferry Complaint	87
+07PM, Panhandling	87
+10AM, Ferry Complaint	87
+10PM, ELEVATOR	87
+03AM, SAFETY	86
+06PM, Posting Advertisement	86
+08AM, Collection Truck Noise	86
+08AM, Window Guard	86
+09AM, Collection Truck Noise	86
+11AM, Complaint	86
+11AM, Special Natural Area District (SNAD)	86
+11PM, Unleashed Dog	86
+02PM, DOF Property - Property Value	85
+03AM, Dead Tree	85
+04PM, DRIE	85
+04PM, Drug Activity	85
+06PM, Mold	85
+07AM, Request Xmas Tree Collection	85
+11AM, Drinking Water	85
+12AM, Ferry Complaint	85
+12AM, Scaffold Safety	85
+03PM, Miscellaneous Categories	84
+06PM, OUTSIDE BUILDING	84
+07PM, OUTSIDE BUILDING	84
+07PM, Safety	84
+09PM, Investigations and Discipline (IAD)	84
+11AM, Home Delivered Meal Complaint	84
+04AM, Sidewalk Condition	83
+05AM, Root/Sewer/Sidewalk Condition	83
+08AM, Request for Information	83
+11AM, Ferry Complaint	83
+12PM, Bike Rack Condition	83
+01PM, Fire Alarm - Modification	82
+02PM, Ferry Complaint	82
+02PM, Poison Ivy	82
+03AM, APPLIANCE	82
+09AM, OEM Literature Request	82
+12AM, Curb Condition	82
+01PM, Home Delivered Meal Complaint	81
+02PM, For Hire Vehicle Report	81
+04AM, Noise - House of Worship	81
+04AM, Other Enforcement	81
+06AM, Taxi Report	81
+07PM, City Vehicle Placard Complaint	81
+07PM, DCA Literature Request	81
+07PM, DOE Complaint or Compliment	81
+08PM, ELEVATOR	81
+09AM, DRIE	81
+09AM, Mosquitoes	81
+12PM, Complaint	81
+04PM, Complaint	80
+08AM, Fire Alarm - Reinspection	80
+08AM, Mold	80
+09AM, Harboring Bees/Wasps	80
+10AM, Poison Ivy	80
+11AM, Mosquitoes	80
+01AM, Found Property	79
+02AM, Collection Truck Noise	79
+04AM, Agency Issues	79
+06PM, DOF Property - Payment Issue	79
+07AM, Noise - House of Worship	79
+08AM, Bus Stop Shelter Placement	79
+08PM, OUTSIDE BUILDING	79
+10PM, Public Payphone Complaint	79
+11AM, Bike Rack Condition	79
+11AM, Poison Ivy	79
+01PM, Ferry Complaint	78
+03AM, Special Projects Inspection Team (SPIT)	78
+06AM, Housing - Low Income Senior	78
+10AM, Bike Rack Condition	78
+10AM, Mosquitoes	78
+02PM, Home Delivered Meal Complaint	77
+03PM, Complaint	77
+03PM, Fire Alarm - Modification	77
+05PM, Window Guard	77
+06AM, Recycling Enforcement	77
+06PM, Discipline and Suspension	77
+07AM, EAP Inspection - F59	77
+07AM, Urinating in Public	77
+08PM, Panhandling	77
+09AM, DOF Property - Property Value	77
+11AM, Disorderly Youth	77
+11PM, Plant	77
+12AM, Housing - Low Income Senior	77
+03PM, Home Delivered Meal Complaint	76
+05PM, Illegal Animal Kept as Pet	76
+05PM, Unsanitary Pigeon Condition	76
+06PM, EAP Inspection - F59	76
+07AM, Elder Abuse	76
+08PM, OEM Disabled Vehicle	76
+10AM, Complaint	76
+10PM, Ferry Inquiry	76
+11PM, Ferry Inquiry	76
+03AM, Missed Collection (All Materials)	75
+04AM, Food Poisoning	75
+05PM, Harboring Bees/Wasps	75
+05PM, Miscellaneous Categories	75
+07PM, Posting Advertisement	75
+10AM, Home Delivered Meal Complaint	75
+06AM, Noise - House of Worship	74
+06PM, Illegal Animal Kept as Pet	74
+11PM, Broken Parking Meter	74
+12PM, Drinking Water	74
+01AM, Animal in a Park	73
+02AM, Dead Tree	73
+02PM, Sweeping/Inadequate	73
+05AM, Special Projects Inspection Team (SPIT)	73
+08AM, DOF Property - RPIE Issue	73
+08PM, Ferry Complaint	73
+12PM, Ferry Complaint	73
+12PM, Fire Alarm - Modification	73
+12PM, Mosquitoes	73
+02AM, Plumbing	72
+03AM, Collection Truck Noise	72
+03AM, Taxi Report	72
+03PM, Drinking Water	72
+04PM, Miscellaneous Categories	72
+05AM, Vending	72
+06PM, Home Repair	72
+07AM, DOF Parking - Payment Issue	72
+07PM, Mold	72
+08AM, Unsanitary Pigeon Condition	72
+08PM, Mold	72
+09AM, Fire Alarm - New System	72
+09AM, Poison Ivy	72
+10AM, Unsanitary Animal Facility	72
+11AM, DOF Parking - Address Update	72
+01AM, Street Sign - Dangling	71
+03PM, Poison Ivy	71
+04AM, Traffic/Illegal Parking	71
+04PM, Bike Rack Condition	71
+07AM, Plant	71
+07PM, Sweeping/Missed	71
+08AM, Bike/Roller/Skate Chronic	71
+09AM, Bike Rack Condition	71
+11PM, Emergency Response Team (ERT)	71
+12AM, Bike/Roller/Skate Chronic	71
+01AM, HPD Literature Request	70
+02AM, DOF Literature Request	70
+02AM, Water Conservation	70
+03AM, Plumbing	70
+03AM, Water Conservation	70
+03PM, Unsanitary Animal Facility	70
+04AM, Noise - Helicopter	70
+04PM, Home Delivered Meal - Missed Delivery	70
+05AM, DOF Literature Request	70
+05PM, Drug Activity	70
+05PM, Scaffold Safety	70
+07AM, Illegal Animal Kept as Pet	70
+08AM, ELEVATOR	70
+11AM, Collection Truck Noise	70
+12PM, DEP Literature Request	70
+01PM, DOF Parking - Address Update	69
+03PM, For Hire Vehicle Report	69
+04PM, FHE	69
+06PM, Opinion for the Mayor	69
+08PM, DOF Property - Reduction Issue	69
+10AM, For Hire Vehicle Report	69
+10PM, Investigations and Discipline (IAD)	69
+01AM, Illegal Tree Damage	68
+02PM, Bike Rack Condition	68
+04PM, DOF Property - Property Value	68
+04PM, Fire Alarm - New System	68
+06AM, DCA / DOH New License Application Request	68
+07PM, Illegal Animal Kept as Pet	68
+08PM, Sweeping/Missed-Inadequate	68
+10AM, Collection Truck Noise	68
+01AM, DCA / DOH New License Application Request	67
+05AM, Non-Residential Heat	67
+05AM, Traffic	67
+05PM, Mosquitoes	67
+06PM, Senior Center Complaint	67
+01PM, Poison Ivy	66
+02AM, Broken Muni Meter	66
+02PM, Drug Activity	66
+04PM, Weatherization	66
+06AM, Water Quality	66
+06PM, Bus Stop Shelter Placement	66
+06PM, Mosquitoes	66
+07PM, Sweeping/Missed-Inadequate	66
+08PM, Safety	66
+09AM, Stalled Sites	66
+10PM, Request for Information	66
+11AM, For Hire Vehicle Report	66
+12AM, Panhandling	66
+01AM, Litter Basket / Request	65
+01PM, Bike Rack Condition	65
+01PM, Drinking Water	65
+01PM, Forensic Engineering	65
+02PM, Tattooing	65
+03AM, DOF Literature Request	65
+03PM, Bike Rack Condition	65
+03PM, Tattooing	65
+04PM, Tattooing	65
+05PM, Complaint	65
+06AM, Derelict Bicycle	65
+07AM, ELEVATOR	65
+09AM, Panhandling	65
+09PM, OEM Disabled Vehicle	65
+11AM, Tattooing	65
+11PM, Unsanitary Animal Pvt Property	65
+12PM, DOF Parking - Address Update	65
+04PM, Fire Alarm - Modification	64
+07PM, Day Care	64
+10AM, Eviction	64
+11PM, Collection Truck Noise	64
+11PM, Electronics Waste	64
+03AM, Agency Issues	63
+04PM, Poison Ivy	63
+05PM, FHE	63
+07PM, Cable Complaint	63
+07PM, Illegal Fireworks	63
+09PM, OUTSIDE BUILDING	63
+09PM, Request for Information	63
+10AM, DOF Parking - Address Update	63
+10PM, Panhandling	63
+11PM, Housing Options	63
+01AM, Urinating in Public	62
+01PM, Tattooing	62
+02AM, Root/Sewer/Sidewalk Condition	62
+02PM, Fire Alarm - Modification	62
+03AM, Traffic/Illegal Parking	62
+04AM, Missed Collection (All Materials)	62
+06AM, Dead/Dying Tree	62
+07AM, Taxi Compliment	62
+08AM, DOF Parking - DMV Clearance	62
+10AM, Drinking Water	62
+01AM, Asbestos	61
+02AM, Taxi Compliment	61
+05AM, Noise - House of Worship	61
+05AM, Taxi Report	61
+06PM, Complaint	61
+06PM, For Hire Vehicle Report	61
+06PM, Teaching/Learning/Instruction	61
+07AM, DOF Property - Request Copy	61
+07PM, Request Xmas Tree Collection	61
+08AM, HEAP Assistance	61
+08PM, City Vehicle Placard Complaint	61
+09AM, Opinion for the Mayor	61
+10PM, DCA Literature Request	61
+12AM, Indoor Sewage	61
+01AM, Illegal Fireworks	60
+01AM, School Maintenance	60
+01PM, Miscellaneous Categories	60
+02PM, Drinking Water	60
+03PM, Eviction	60
+04PM, For Hire Vehicle Report	60
+05PM, Bike Rack Condition	60
+05PM, Cranes and Derricks	60
+05PM, Opinion for the Mayor	60
+07AM, Found Property	60
+08PM, DOE Complaint or Compliment	60
+09AM, Home Delivered Meal - Missed Delivery	60
+09PM, Panhandling	60
+11PM, Elder Abuse	60
+12PM, Special Natural Area District (SNAD)	60
+01PM, Mosquitoes	59
+02PM, Mosquitoes	59
+05PM, Beach/Pool/Sauna Complaint	59
+07AM, Sweeping/Missed	59
+07PM, Senior Center Complaint	59
+09AM, For Hire Vehicle Report	59
+10AM, Disorderly Youth	59
+10PM, OEM Disabled Vehicle	59
+11AM, DEP Literature Request	59
+11AM, Unsanitary Animal Facility	59
+12AM, Dead/Dying Tree	59
+01AM, Industrial Waste	58
+01AM, Overflowing Litter Baskets	58
+02PM, DEP Literature Request	58
+02PM, Special Natural Area District (SNAD)	58
+03AM, Sidewalk Condition	58
+03PM, Sweeping/Inadequate	58
+04AM, Water Conservation	58
+07PM, Discipline and Suspension	58
+07PM, Mosquitoes	58
+08AM, Complaint	58
+08AM, Sweeping/Inadequate	58
+08PM, BEST/Site Safety	58
+09AM, Municipal Parking Facility	58
+09PM, Ferry Complaint	58
+09PM, Mold	58
+10AM, Special Natural Area District (SNAD)	58
+11AM, Drug Activity	58
+11AM, Eviction	58
+12AM, Fire Safety Director - F58	58
+12AM, SCRIE	58
+01AM, Vending	57
+01PM, Unsanitary Animal Facility	57
+02PM, Miscellaneous Categories	57
+04AM, Rodent	57
+05AM, Construction	57
+05AM, Street Sign - Dangling	57
+07AM, Cranes and Derricks	57
+07PM, Harboring Bees/Wasps	57
+08PM, Illegal Animal Kept as Pet	57
+09AM, Disorderly Youth	57
+10PM, City Vehicle Placard Complaint	57
+12PM, Eviction	57
+01AM, DOT Literature Request	56
+02PM, DOF Parking - Address Update	56
+03AM, Rodent	56
+03PM, Compliment	56
+03PM, Drug Activity	56
+08AM, Miscellaneous Categories	56
+08PM, Request Xmas Tree Collection	56
+09AM, Fire Alarm - Modification	56
+01PM, DEP Literature Request	55
+02PM, Adopt-A-Basket	55
+03PM, Mosquitoes	55
+04AM, Plumbing	55
+12PM, Municipal Parking Facility	55
+01AM, Water Quality	54
+01PM, Eviction	54
+02PM, Forensic Engineering	54
+05AM, Rodent	54
+05PM, Weatherization	54
+06PM, Window Guard	54
+08AM, Alzheimer's Care	54
+08AM, Cable Complaint	54
+08PM, Bus Stop Shelter Placement	54
+08PM, Cable Complaint	54
+08PM, DCA Literature Request	54
+08PM, Mosquitoes	54
+09AM, DEP Literature Request	54
+09PM, Safety	54
+11PM, ELEVATOR	54
+02AM, DCA / DOH New License Application Request	53
+02PM, Unsanitary Animal Facility	53
+03AM, Root/Sewer/Sidewalk Condition	53
+03PM, Animal Facility - No Permit	53
+04AM, DOF Literature Request	53
+05PM, For Hire Vehicle Report	53
+07AM, OEM Disabled Vehicle	53
+08PM, Posting Advertisement	53
+09AM, Complaint	53
+09AM, DOF Parking - Address Update	53
+09AM, Drinking Water	53
+09AM, Special Natural Area District (SNAD)	53
+11PM, Panhandling	53
+12AM, Mold	53
+12PM, Adopt-A-Basket	53
+12PM, Drug Activity	53
+01PM, Municipal Parking Facility	52
+03AM, Taxi Compliment	52
+03PM, DEP Literature Request	52
+05AM, Litter Basket / Request	52
+06AM, City Vehicle Placard Complaint	52
+06AM, Indoor Sewage	52
+06PM, Cranes and Derricks	52
+07PM, Scaffold Safety	52
+08PM, Drug Activity	52
+08PM, Sweeping/Missed	52
+10AM, Tattooing	52
+10PM, OUTSIDE BUILDING	52
+12PM, For Hire Vehicle Report	52
+02AM, Industrial Waste	51
+04PM, Compliment	51
+05AM, Industrial Waste	51
+07PM, Complaint	51
+07PM, Window Guard	51
+08PM, For Hire Vehicle Report	51
+09PM, Sweeping/Missed-Inadequate	51
+10AM, Drug Activity	51
+10PM, Opinion for the Mayor	51
+11AM, Illegal Fireworks	51
+11PM, Public Payphone Complaint	51
+01PM, Compliment	50
+06PM, Alzheimer's Care	50
+06PM, Drug Activity	50
+07AM, Ferry Complaint	50
+07AM, Mold	50
+07PM, Beach/Pool/Sauna Complaint	50
+08AM, Panhandling	50
+08PM, Window Guard	50
+10AM, DEP Literature Request	50
+11AM, Animal Facility - No Permit	50
+02AM, Illegal Tree Damage	49
+03PM, Municipal Parking Facility	49
+04PM, Mosquitoes	49
+05PM, Compliment	49
+07PM, For Hire Vehicle Report	49
+07PM, Teaching/Learning/Instruction	49
+09AM, Eviction	49
+12PM, Animal Facility - No Permit	49
+01PM, For Hire Vehicle Report	48
+02AM, Found Property	48
+02PM, Eviction	48
+03AM, Electrical	48
+03AM, Industrial Waste	48
+03PM, DOF Parking - Address Update	48
+05AM, Plumbing	48
+05PM, Utility Program	48
+06AM, Electronics Waste	48
+06PM, Beach/Pool/Sauna Complaint	48
+07AM, Day Care	48
+07AM, OUTSIDE BUILDING	48
+09PM, Cable Complaint	48
+11AM, Adopt-A-Basket	48
+11PM, Bike/Roller/Skate Chronic	48
+11PM, Opinion for the Mayor	48
+12PM, Tattooing	48
+01PM, Animal Facility - No Permit	47
+01PM, Drug Activity	47
+02AM, Traffic	47
+06AM, DOE Complaint or Compliment	47
+07PM, Alzheimer's Care	47
+08PM, Day Care	47
+08PM, FHE	47
+09PM, BEST/Site Safety	47
+12AM, Derelict Bicycle	47
+12PM, Unsanitary Animal Facility	47
+01AM, Housing - Low Income Senior	46
+01AM, Vacant Lot	46
+04AM, Taxi Compliment	46
+04AM, Traffic	46
+04PM, DEP Literature Request	46
+04PM, Drinking Water	46
+04PM, Sweeping/Inadequate	46
+06AM, Elder Abuse	46
+06PM, Illegal Fireworks	46
+06PM, Scaffold Safety	46
+07PM, Unsanitary Pigeon Condition	46
+08AM, Harboring Bees/Wasps	46
+09PM, City Vehicle Placard Complaint	46
+11AM, DPR Literature Request	46
+11AM, Municipal Parking Facility	46
+11AM, Stalled Sites	46
+01PM, Parking Card	45
+02AM, Construction	45
+04PM, Animal Facility - No Permit	45
+05PM, HEAP Assistance	45
+05PM, Unsanitary Animal Facility	45
+06PM, Tattooing	45
+10PM, Ferry Complaint	45
+02AM, Street Sign - Dangling	44
+04AM, Housing - Low Income Senior	44
+04AM, Litter Basket / Request	44
+04AM, Taxi Report	44
+04PM, Illegal Fireworks	44
+04PM, Unsanitary Animal Facility	44
+05AM, DOT Literature Request	44
+05AM, School Maintenance	44
+05PM, Highway Sign - Damaged	44
+07PM, Home Repair	44
+08AM, Beach/Pool/Sauna Complaint	44
+08PM, DOF Parking - Payment Issue	44
+08PM, Opinion for the Mayor	44
+10AM, Public Assembly	44
+10PM, For Hire Vehicle Report	44
+11AM, Parking Card	44
+12PM, Highway Sign - Damaged	44
+03PM, Illegal Animal Sold	43
+04AM, Electrical	43
+04PM, DOF Parking - Address Update	43
+05AM, Illegal Tree Damage	43
+05PM, Illegal Fireworks	43
+06AM, Broken Parking Meter	43
+06PM, FHE	43
+06PM, Registration and Transfers	43
+07AM, DCA Literature Request	43
+08AM, Opinion for the Mayor	43
+08AM, Posting Advertisement	43
+08AM, Weatherization	43
+08PM, Complaint	43
+08PM, Home Repair	43
+09PM, DOF Property - Reduction Issue	43
+10PM, Cable Complaint	43
+12PM, Compliment	43
+12PM, Parking Card	43
+01AM, Disorderly Youth	42
+01AM, Standing Water	42
+03AM, Litter Basket / Request	42
+04AM, Root/Sewer/Sidewalk Condition	42
+05PM, Poison Ivy	42
+05PM, Sweeping/Inadequate	42
+06AM, SCRIE	42
+06PM, Unsanitary Pigeon Condition	42
+07AM, Bus Stop Shelter Placement	42
+07AM, DOF Property - Owner Issue	42
+08PM, Beach/Pool/Sauna Complaint	42
+09PM, Bus Stop Shelter Placement	42
+09PM, DCA Literature Request	42
+09PM, Opinion for the Mayor	42
+10AM, Compliment	42
+10AM, Municipal Parking Facility	42
+12AM, Elder Abuse	42
+01AM, Dead/Dying Tree	41
+01PM, Special Natural Area District (SNAD)	41
+02AM, HPD Literature Request	41
+03AM, DCA / DOH New License Application Request	41
+04AM, Non-Residential Heat	41
+05AM, Overflowing Litter Baskets	41
+05PM, Drinking Water	41
+06AM, Emergency Response Team (ERT)	41
+06PM, Bike Rack Condition	41
+07PM, Bus Stop Shelter Placement	41
+07PM, Drug Activity	41
+08PM, Discipline and Suspension	41
+09PM, Window Guard	41
+10PM, Collection Truck Noise	41
+12PM, Collection Truck Noise	41
+01PM, Stalled Sites	40
+02AM, Animal in a Park	40
+03PM, Highway Sign - Damaged	40
+04AM, Broken Muni Meter	40
+04AM, Collection Truck Noise	40
+04PM, Stalled Sites	40
+07PM, Opinion for the Mayor	40
+09AM, Compliment	40
+09PM, Mosquitoes	40
+10PM, Safety	40
+10PM, Sweeping/Missed-Inadequate	40
+11PM, Ferry Complaint	40
+11PM, OUTSIDE BUILDING	40
+11PM, Request for Information	40
+01AM, Curb Condition	39
+01AM, Violation of Park Rules	39
+01PM, Adopt-A-Basket	39
+01PM, Forms	39
+02AM, Litter Basket / Request	39
+02PM, Animal Facility - No Permit	39
+02PM, Municipal Parking Facility	39
+03PM, Adopt-A-Basket	39
+04PM, Collection Truck Noise	39
+05PM, Illegal Animal Sold	39
+06AM, Curb Condition	39
+06AM, Unsanitary Animal Pvt Property	39
+07PM, Cranes and Derricks	39
+08AM, Disorderly Youth	39
+08AM, Municipal Parking Facility	39
+09PM, For Hire Vehicle Report	39
+10AM, Misc. Comments	39
+10AM, Summer Camp	39
+10PM, Complaint	39
+11AM, Compliment	39
+11PM, Investigations and Discipline (IAD)	39
+01AM, Non-Residential Heat	38
+01PM, Illegal Fireworks	38
+02AM, DOT Literature Request	38
+02AM, Illegal Fireworks	38
+03AM, Construction	38
+04AM, Special Projects Inspection Team (SPIT)	38
+05AM, Bridge Condition	38
+05PM, Fire Alarm - Reinspection	38
+06AM, Illegal Animal Kept as Pet	38
+06PM, Compliment	38
+06PM, Drinking Water	38
+07AM, DOF Property - Payment Issue	38
+07AM, Senior Center Complaint	38
+07PM, DOF Parking - Payment Issue	38
+08AM, Fire Alarm - New System	38
+08AM, Mosquitoes	38
+08AM, Poison Ivy	38
+09AM, Unsanitary Animal Facility	38
+09PM, Compliment	38
+09PM, Illegal Animal Kept as Pet	38
+10AM, Illegal Fireworks	38
+01AM, Bridge Condition	37
+02AM, Asbestos	37
+02AM, Housing - Low Income Senior	37
+04AM, Street Sign - Dangling	37
+04PM, Home Delivered Meal Complaint	37
+04PM, Municipal Parking Facility	37
+05AM, Housing - Low Income Senior	37
+06AM, Housing Options	37
+06AM, Request for Information	37
+06PM, Unsanitary Animal Facility	37
+07AM, DPR Internal	37
+08PM, Senior Center Complaint	37
+08PM, Teaching/Learning/Instruction	37
+10PM, BEST/Site Safety	37
+10PM, FHE	37
+11PM, Mold	37
+12PM, Public Assembly	37
+03AM, Street Sign - Dangling	36
+03AM, Traffic	36
+03PM, Parking Card	36
+03PM, Special Natural Area District (SNAD)	36
+04PM, Eviction	36
+04PM, Highway Sign - Damaged	36
+05AM, Collection Truck Noise	36
+05AM, Vacant Lot	36
+05PM, Tattooing	36
+06AM, Ferry Complaint	36
+06AM, Urinating in Public	36
+06PM, Special Enforcement	36
+07AM, Bike/Roller/Skate Chronic	36
+07AM, Request for Information	36
+07PM, Compliment	36
+08AM, Safety	36
+09AM, Drug Activity	36
+09AM, Illegal Fireworks	36
+09PM, Request Xmas Tree Collection	36
+10AM, Animal Facility - No Permit	36
+10AM, DPR Literature Request	36
+01PM, Public Assembly	35
+02AM, Non-Residential Heat	35
+03AM, Broken Muni Meter	35
+03AM, Illegal Tree Damage	35
+04AM, Found Property	35
+05PM, OEM Literature Request	35
+06AM, BEST/Site Safety	35
+07AM, Mosquitoes	35
+07AM, Scaffold Safety	35
+07PM, DOF Property - Request Copy	35
+08AM, Utility Program	35
+08PM, EAP Inspection - F59	35
+09PM, Teaching/Learning/Instruction	35
+10PM, Mold	35
+12AM, ATF	35
+12PM, Stalled Sites	35
+01AM, Plant	34
+02PM, Ferry Permit	34
+02PM, Illegal Fireworks	34
+02PM, Public Assembly	34
+03PM, FHE	34
+03PM, Forensic Engineering	34
+03PM, Illegal Fireworks	34
+04AM, DCA / DOH New License Application Request	34
+05AM, Asbestos	34
+07AM, Stalled Sites	34
+08AM, DRIE	34
+08AM, For Hire Vehicle Report	34
+08PM, Unsanitary Pigeon Condition	34
+09PM, DOE Complaint or Compliment	34
+09PM, DOF Parking - Payment Issue	34
+09PM, Discipline and Suspension	34
+09PM, FHE	34
+10PM, Compliment	34
+12AM, Beach/Pool/Sauna Complaint	34
+12PM, Illegal Fireworks	34
+01AM, Elder Abuse	33
+01AM, OUTSIDE BUILDING	33
+02AM, Recycling Enforcement	33
+02AM, Urinating in Public	33
+02AM, Vending	33
+03AM, Water Quality	33
+03PM, Forms	33
+06AM, Ferry Inquiry	33
+06AM, Investigations and Discipline (IAD)	33
+07AM, Posting Advertisement	33
+07PM, DOF Property - Owner Issue	33
+07PM, Highway Sign - Damaged	33
+08AM, Special Natural Area District (SNAD)	33
+09AM, Summer Camp	33
+09PM, Sweeping/Missed	33
+10PM, DOF Property - Reduction Issue	33
+10PM, Window Guard	33
+11PM, Illegal Animal Kept as Pet	33
+12AM, Electronics Waste	33
+12AM, Municipal Parking Facility	33
+02PM, FHE	32
+02PM, Parking Card	32
+03AM, Housing - Low Income Senior	32
+04AM, DOT Literature Request	32
+05AM, Animal in a Park	32
+05AM, DCA / DOH New License Application Request	32
+05AM, HPD Literature Request	32
+05PM, Animal Facility - No Permit	32
+06PM, Highway Sign - Damaged	32
+06PM, OEM Literature Request	32
+07AM, Beach/Pool/Sauna Complaint	32
+07PM, EAP Inspection - F59	32
+09AM, Highway Sign - Damaged	32
+09AM, Home Delivered Meal Complaint	32
+10PM, Beach/Pool/Sauna Complaint	32
+11AM, Forms	32
+11AM, Public Assembly	32
+12AM, Request for Information	32
+12PM, Misc. Comments	32
+02AM, Curb Condition	31
+03PM, Invitation	31
+03PM, Misc. Comments	31
+04PM, Forms	31
+04PM, Invitation	31
+05AM, Electrical	31
+05AM, Illegal Animal Kept as Pet	31
+05AM, Water Quality	31
+05PM, Home Delivered Meal - Missed Delivery	31
+05PM, Municipal Parking Facility	31
+06AM, Unleashed Dog	31
+06PM, Poison Ivy	31
+07AM, Unsanitary Pigeon Condition	31
+07PM, Drinking Water	31
+08AM, Illegal Fireworks	31
+08PM, Scaffold Safety	31
+09AM, Public Toilet	31
+09PM, Beach/Pool/Sauna Complaint	31
+11AM, Highway Sign - Damaged	31
+12AM, Tattooing	31
+12PM, Forms	31
+12PM, Public Toilet	31
+01AM, Indoor Sewage	30
+03AM, Non-Residential Heat	30
+04AM, Industrial Waste	30
+04AM, School Maintenance	30
+04PM, Illegal Animal Sold	30
+05PM, DRIE	30
+06AM, Found Property	30
+07AM, FHE	30
+07PM, Bike Rack Condition	30
+07PM, Registration and Transfers	30
+08AM, Home Delivered Meal - Missed Delivery	30
+08PM, Cranes and Derricks	30
+08PM, Harboring Bees/Wasps	30
+09PM, Complaint	30
+11AM, Misc. Comments	30
+11AM, Summer Camp	30
+11PM, For Hire Vehicle Report	30
+01AM, DPR Internal	29
+02AM, Bridge Condition	29
+02AM, Indoor Sewage	29
+02AM, SCRIE	29
+02PM, Illegal Animal Sold	29
+03AM, Fire Safety Director - F58	29
+05AM, Standing Water	29
+05AM, Taxi Compliment	29
+06AM, Taxi Compliment	29
+07AM, Home Repair	29
+07PM, FHE	29
+08PM, Alzheimer's Care	29
+09AM, DPR Literature Request	29
+09PM, Collection Truck Noise	29
+09PM, Day Care	29
+09PM, Drug Activity	29
+10AM, Public Toilet	29
+10PM, Bus Stop Shelter Placement	29
+10PM, Home Repair	29
+10PM, Mosquitoes	29
+11AM, Invitation	29
+11AM, Public Toilet	29
+12PM, DPR Literature Request	29
+01AM, Emergency Response Team (ERT)	28
+01AM, Fire Safety Director - F58	28
+01AM, Investigations and Discipline (IAD)	28
+02AM, Dead/Dying Tree	28
+02AM, OUTSIDE BUILDING	28
+02PM, Public Toilet	28
+03AM, DOT Literature Request	28
+03AM, Found Property	28
+03AM, Recycling Enforcement	28
+03AM, Vacant Lot	28
+04AM, Animal in a Park	28
+04AM, Bridge Condition	28
+04AM, HPD Literature Request	28
+04PM, Public Toilet	28
+05AM, Broken Parking Meter	28
+05AM, Ferry Complaint	28
+05AM, Fire Safety Director - F58	28
+05PM, DOF Property - RPIE Issue	28
+05PM, Fire Alarm - New System	28
+06PM, Municipal Parking Facility	28
+07PM, Poison Ivy	28
+08PM, Compliment	28
+08PM, Health	28
+08PM, Tattooing	28
+09AM, Animal Facility - No Permit	28
+09AM, Forensic Engineering	28
+09AM, Public Assembly	28
+09PM, Home Repair	28
+10PM, Drug Activity	28
+10PM, Illegal Animal Kept as Pet	28
+11PM, Complaint	28
+12AM, Housing Options	28
+12PM, Bereavement Support Group	28
+12PM, Summer Camp	28
+01AM, ELEVATOR	27
+02AM, Disorderly Youth	27
+02AM, Violation of Park Rules	27
+02PM, Compliment	27
+03AM, Vending	27
+04AM, Request for Information	27
+04PM, DPR Literature Request	27
+05AM, Found Property	27
+05AM, Public Payphone Complaint	27
+05AM, Recycling Enforcement	27
+06AM, ELEVATOR	27
+06PM, Animal Facility - No Permit	27
+06PM, Miscellaneous Categories	27
+07AM, Complaint	27
+07AM, Harboring Bees/Wasps	27
+07AM, Opinion for the Mayor	27
+08AM, Drinking Water	27
+08AM, Drug Activity	27
+10PM, DOE Complaint or Compliment	27
+11PM, DOF Property - Reduction Issue	27
+12PM, Illegal Animal Sold	27
+01AM, OEM Disabled Vehicle	26
+01PM, Ferry Permit	26
+01PM, Misc. Comments	26
+02PM, Bereavement Support Group	26
+02PM, Highway Sign - Damaged	26
+02PM, Home Care Provider Complaint	26
+05PM, Misc. Comments	26
+07AM, Safety	26
+07PM, Unsanitary Animal Facility	26
+08AM, DOF Property - City Rebate	26
+09AM, Misc. Comments	26
+09AM, Tattooing	26
+09PM, EAP Inspection - F59	26
+10AM, Adopt-A-Basket	26
+10AM, Case Management Agency Complaint	26
+11PM, City Vehicle Placard Complaint	26
+11PM, FHE	26
+11PM, Safety	26
+12AM, Illegal Animal Kept as Pet	26
+12PM, Invitation	26
+01AM, Ferry Complaint	25
+01PM, Collection Truck Noise	25
+01PM, Highway Sign - Damaged	25
+02AM, DPR Internal	25
+02AM, Derelict Bicycle	25
+02PM, Forms	25
+02PM, Summer Camp	25
+03AM, ELEVATOR	25
+03AM, Urinating in Public	25
+04AM, Construction	25
+04AM, Overflowing Litter Baskets	25
+04AM, Water Quality	25
+04PM, Adopt-A-Basket	25
+04PM, Open Flame Permit	25
+04PM, Special Natural Area District (SNAD)	25
+05AM, Dead/Dying Tree	25
+08AM, DOF Property - Property Value	25
+08AM, FHE	25
+08AM, Forensic Engineering	25
+08PM, Drinking Water	25
+09PM, Senior Center Complaint	25
+09PM, Unsanitary Pigeon Condition	25
+10AM, Highway Sign - Damaged	25
+11AM, Home Care Provider Complaint	25
+01AM, Bike/Roller/Skate Chronic	24
+01AM, Derelict Bicycle	24
+01AM, For Hire Vehicle Report	24
+01PM, DPR Literature Request	24
+02AM, ELEVATOR	24
+02AM, Vacant Lot	24
+02PM, Invitation	24
+03AM, Illegal Fireworks	24
+03AM, Public Payphone Complaint	24
+03PM, DPR Literature Request	24
+03PM, Public Assembly	24
+04AM, Illegal Tree Damage	24
+04AM, SCRIE	24
+04PM, Misc. Comments	24
+04PM, Public Assembly	24
+05PM, Summer Camp	24
+06AM, EAP Inspection - F59	24
+06PM, Forensic Engineering	24
+06PM, Illegal Animal Sold	24
+06PM, Utility Program	24
+07AM, DOE Complaint or Compliment	24
+07AM, Miscellaneous Categories	24
+07AM, Panhandling	24
+07PM, OEM Literature Request	24
+07PM, Tattooing	24
+08AM, DEP Literature Request	24
+08PM, Registration and Transfers	24
+09AM, Adopt-A-Basket	24
+09AM, Forms	24
+10AM, Forensic Engineering	24
+10AM, Parking Card	24
+10PM, Request Xmas Tree Collection	24
+11AM, DFTA Literature Request	24
+11PM, Bus Stop Shelter Placement	24
+11PM, Compliment	24
+01AM, Ferry Inquiry	23
+01AM, Request for Information	23
+01AM, Unsanitary Animal Pvt Property	23
+01PM, Illegal Animal Sold	23
+02AM, Fire Safety Director - F58	23
+02AM, Investigations and Discipline (IAD)	23
+02PM, Case Management Agency Complaint	23
+02PM, Collection Truck Noise	23
+02PM, DHS Income Savings Requirement	23
+02PM, DPR Literature Request	23
+02PM, Misc. Comments	23
+03AM, Animal in a Park	23
+03AM, Bridge Condition	23
+03PM, Ferry Permit	23
+04AM, Vacant Lot	23
+04AM, Vending	23
+05AM, SCRIE	23
+05PM, Eviction	23
+05PM, Forms	23
+06AM, Plant	23
+06PM, Fire Alarm - Reinspection	23
+06PM, Invitation	23
+07AM, Cable Complaint	23
+08AM, Adopt-A-Basket	23
+08AM, Bike Rack Condition	23
+08AM, Compliment	23
+08AM, Parking Card	23
+08PM, Unsanitary Animal Facility	23
+10AM, Bereavement Support Group	23
+10AM, DHS Income Savings Requirement	23
+10PM, Cranes and Derricks	23
+10PM, Sweeping/Missed	23
+11AM, Illegal Animal Sold	23
+12AM, Drug Activity	23
+12AM, Illegal Animal - Sold/Kept	23
+01PM, Home Care Provider Complaint	22
+01PM, Invitation	22
+02AM, School Maintenance	22
+02AM, Water Quality	22
+03AM, Asbestos	22
+03AM, Elder Abuse	22
+03AM, Ferry Complaint	22
+03AM, OUTSIDE BUILDING	22
+03PM, Home Care Provider Complaint	22
+05AM, Elder Abuse	22
+05AM, Indoor Sewage	22
+05PM, Collection Truck Noise	22
+05PM, DOF Parking - Tax Exemption	22
+05PM, Home Delivered Meal Complaint	22
+06AM, Request Xmas Tree Collection	22
+06AM, Sweeping/Missed-Inadequate	22
+06PM, HEAP Assistance	22
+06PM, Summer Camp	22
+06PM, Weatherization	22
+07AM, Window Guard	22
+07PM, Utility Program	22
+08AM, Discipline and Suspension	22
+09PM, Alzheimer's Care	22
+09PM, Fire Alarm - Reinspection	22
+10AM, Forms	22
+10PM, Senior Center Complaint	22
+11PM, Cable Complaint	22
+11PM, Cranes and Derricks	22
+11PM, DOE Complaint or Compliment	22
+12AM, Parent Leadership	22
+01AM, Housing Options	21
+02AM, Overflowing Litter Baskets	21
+03PM, Summer Camp	21
+04AM, Asbestos	21
+04AM, Housing Options	21
+04PM, Forensic Engineering	21
+04PM, Parking Card	21
+05PM, Adopt-A-Basket	21
+05PM, DEP Literature Request	21
+06PM, Home Delivered Meal - Missed Delivery	21
+07AM, Municipal Parking Facility	21
+07PM, Fire Alarm - Reinspection	21
+07PM, Health	21
+08AM, Summer Camp	21
+09AM, Highway Sign - Missing	21
+09AM, Home Care Provider Complaint	21
+09AM, Teaching/Learning/Instruction	21
+09PM, Cranes and Derricks	21
+09PM, Drinking Water	21
+09PM, Harboring Bees/Wasps	21
+09PM, Tattooing	21
+10AM, Ferry Permit	21
+10AM, Home Care Provider Complaint	21
+10AM, Invitation	21
+10PM, Fire Alarm - Reinspection	21
+11AM, Bereavement Support Group	21
+11PM, Drug Activity	21
+12PM, Case Management Agency Complaint	21
+12PM, Ferry Permit	21
+12PM, Open Flame Permit	21
+01AM, SCRIE	20
+01PM, Bereavement Support Group	20
+01PM, Fire Alarm - Replacement	20
+01PM, Highway Sign - Missing	20
+01PM, Public Toilet	20
+02AM, Elder Abuse	20
+03AM, Overflowing Litter Baskets	20
+03PM, Bereavement Support Group	20
+03PM, Literature Request	20
+03PM, Public Toilet	20
+03PM, Transportation Provider Complaint	20
+04PM, Bereavement Support Group	20
+04PM, Home Care Provider Complaint	20
+05PM, DOF Property - City Rebate	20
+05PM, Invitation	20
+05PM, Stalled Sites	20
+05PM, Teaching/Learning/Instruction	20
+06PM, Eviction	20
+07AM, Sweeping/Inadequate	20
+07PM, HEAP Assistance	20
+08PM, Poison Ivy	20
+09AM, FHE	20
+10AM, Teaching/Learning/Instruction	20
+10PM, DOF Parking - Payment Issue	20
+10PM, Discipline and Suspension	20
+10PM, Harboring Bees/Wasps	20
+10PM, Scaffold Safety	20
+10PM, Unsanitary Pigeon Condition	20
+11AM, DHS Income Savings Requirement	20
+11PM, DCA Literature Request	20
+12AM, DPR Internal	20
+12AM, For Hire Vehicle Report	20
+01AM, Opinion for the Mayor	19
+01AM, Public Payphone Complaint	19
+02AM, Drug Activity	19
+02AM, Request for Information	19
+03AM, HPD Literature Request	19
+03AM, School Maintenance	19
+03PM, Collection Truck Noise	19
+03PM, Legal Services Provider Complaint	19
+04PM, Highway Sign - Missing	19
+04PM, Summer Camp	19
+05AM, Derelict Bicycle	19
+05AM, Housing Options	19
+05AM, Request for Information	19
+05PM, Ferry Permit	19
+06AM, OEM Disabled Vehicle	19
+06AM, Posting Advertisement	19
+06AM, Violation of Park Rules	19
+07PM, Misc. Comments	19
+07PM, Sweeping/Inadequate	19
+08PM, Municipal Parking Facility	19
+09AM, Invitation	19
+10AM, Legal Services Provider Complaint	19
+10PM, Alzheimer's Care	19
+11AM, Ferry Permit	19
+11AM, Open Flame Permit	19
+11PM, Highway Sign - Damaged	19
+11PM, OEM Disabled Vehicle	19
+12AM, Complaint	19
+12PM, Fire Alarm - Addition	19
+12PM, Home Care Provider Complaint	19
+01AM, Unleashed Dog	18
+01PM, Calorie Labeling	18
+01PM, DFTA Literature Request	18
+02AM, Standing Water	18
+03PM, Open Flame Permit	18
+04AM, Indoor Sewage	18
+04PM, DHS Income Savings Requirement	18
+04PM, Ferry Permit	18
+05AM, Ferry Inquiry	18
+05AM, OEM Disabled Vehicle	18
+05PM, Open Flame Permit	18
+05PM, Public Toilet	18
+06AM, DPR Internal	18
+06AM, FHE	18
+06PM, Sweeping/Inadequate	18
+07AM, Compliment	18
+07AM, DOF Parking - Request Copy	18
+07AM, Highway Sign - Damaged	18
+07PM, DOF Property - Payment Issue	18
+07PM, Ferry Permit	18
+07PM, Illegal Animal Sold	18
+08AM, DOE Complaint or Compliment	18
+08AM, Eviction	18
+08AM, Fire Alarm - Modification	18
+08PM, HEAP Assistance	18
+08PM, Highway Sign - Damaged	18
+09AM, Fire Alarm - Addition	18
+09AM, Legal Services Provider Complaint	18
+09AM, Literature Request	18
+09PM, Health	18
+09PM, Invitation	18
+10PM, Teaching/Learning/Instruction	18
+11PM, BEST/Site Safety	18
+12AM, Cable Complaint	18
+12AM, Highway Sign - Damaged	18
+12PM, DHS Income Savings Requirement	18
+01AM, Electronics Waste	17
+01PM, DHS Income Savings Requirement	17
+01PM, Legal Services Provider Complaint	17
+01PM, Literature Request	17
+02AM, Ferry Inquiry	17
+02AM, Housing Options	17
+02PM, Highway Sign - Missing	17
+03AM, Curb Condition	17
+03PM, Case Management Agency Complaint	17
+04AM, Fire Safety Director - F58	17
+04AM, OEM Disabled Vehicle	17
+04AM, Unsanitary Animal Pvt Property	17
+05PM, Discipline and Suspension	17
+07AM, Fire Alarm - Reinspection	17
+07AM, For Hire Vehicle Report	17
+07AM, Parking Card	17
+07PM, Miscellaneous Categories	17
+08AM, Highway Sign - Damaged	17
+08AM, OEM Literature Request	17
+08PM, Fire Alarm - Reinspection	17
+08PM, Miscellaneous Categories	17
+09AM, DHS Income Savings Requirement	17
+09AM, Parking Card	17
+09PM, OEM Literature Request	17
+09PM, Poison Ivy	17
+09PM, Scaffold Safety	17
+10AM, Advocate-Personal Exemptions	17
+11AM, Case Management Agency Complaint	17
+11AM, Safety	17
+11AM, Teaching/Learning/Instruction	17
+11AM, Transportation Provider Complaint	17
+11PM, Alzheimer's Care	17
+11PM, Discipline and Suspension	17
+12AM, Animal Facility - No Permit	17
+12AM, Compliment	17
+01PM, Open Flame Permit	16
+02AM, Complaint	16
+02AM, Ferry Complaint	16
+02AM, OEM Disabled Vehicle	16
+02AM, Plant	16
+02AM, Public Payphone Complaint	16
+02AM, Unleashed Dog	16
+02PM, Teaching/Learning/Instruction	16
+03AM, Request for Information	16
+03PM, Highway Sign - Missing	16
+04AM, Dead/Dying Tree	16
+04AM, Elder Abuse	16
+04AM, Ferry Complaint	16
+04AM, Violation of Park Rules	16
+05AM, Unsanitary Animal Pvt Property	16
+05PM, DOE Complaint or Compliment	16
+05PM, Fire Alarm - Modification	16
+05PM, Safety	16
+06AM, Bus Stop Shelter Placement	16
+06AM, Complaint	16
+06AM, Sweeping/Missed	16
+06PM, DOF Parking - Request Copy	16
+06PM, DRIE	16
+06PM, Forms	16
+06PM, Misc. Comments	16
+07AM, Illegal Fireworks	16
+07PM, Forms	16
+07PM, Home Delivered Meal Complaint	16
+08AM, Forms	16
+08AM, Teaching/Learning/Instruction	16
+08PM, Bike Rack Condition	16
+08PM, Forensic Engineering	16
+09AM, Safety	16
+09AM, X-Ray Machine/Equipment	16
+09PM, Forensic Engineering	16
+09PM, Registration and Transfers	16
+09PM, Unsanitary Animal Facility	16
+10AM, FHE	16
+10AM, Illegal Animal Sold	16
+10AM, Transportation Provider Complaint	16
+10PM, Drinking Water	16
+12AM, Drinking Water	16
+12AM, STRUCTURAL	16
+12AM, Special Natural Area District (SNAD)	16
+01AM, Broken Parking Meter	15
+01AM, Cable Complaint	15
+01AM, Cranes and Derricks	15
+01AM, Drug Activity	15
+01AM, FHE	15
+01PM, Teaching/Learning/Instruction	15
+03AM, Dead/Dying Tree	15
+03AM, Ferry Inquiry	15
+03PM, Teaching/Learning/Instruction	15
+04AM, Standing Water	15
+06AM, DCA Literature Request	15
+06PM, Collection Truck Noise	15
+06PM, DEP Literature Request	15
+06PM, Health	15
+07PM, Collection Truck Noise	15
+07PM, DOF Property - Update Account	15
+07PM, Summer Camp	15
+07PM, Weatherization	15
+08PM, Animal Facility - No Permit	15
+08PM, Utility Program	15
+09AM, ATF	15
+10AM, Highway Sign - Missing	15
+10PM, EAP Inspection - F59	15
+11AM, Bottled Water	15
+11AM, DOE Complaint or Compliment	15
+11AM, FHE	15
+11AM, Legal Services Provider Complaint	15
+12AM, Highway Sign - Missing	15
+12PM, DFTA Literature Request	15
+01PM, FHE	14
+01PM, Transportation Provider Complaint	14
+02AM, Unsanitary Animal Pvt Property	14
+02PM, Calorie Labeling	14
+02PM, Transportation Provider Complaint	14
+03AM, Drug Activity	14
+03AM, OEM Disabled Vehicle	14
+04AM, OUTSIDE BUILDING	14
+05AM, Curb Condition	14
+05AM, ELEVATOR	14
+05AM, Electronics Waste	14
+05AM, Emergency Response Team (ERT)	14
+05AM, Senior Center Complaint	14
+05AM, Violation of Park Rules	14
+06AM, OUTSIDE BUILDING	14
+06AM, Teaching/Learning/Instruction	14
+06PM, Adopt-A-Basket	14
+07AM, Disorderly Youth	14
+07AM, Drug Activity	14
+07AM, Poison Ivy	14
+07AM, Teaching/Learning/Instruction	14
+07PM, Municipal Parking Facility	14
+08AM, Overflowing Recycling Baskets	14
+08PM, Ferry Permit	14
+08PM, Fire Alarm - New System	14
+08PM, OEM Literature Request	14
+09PM, HEAP Assistance	14
+09PM, Highway Sign - Damaged	14
+10AM, Day Care	14
+10PM, Tattooing	14
+11AM, Fire Alarm - Addition	14
+11AM, Highway Sign - Missing	14
+11AM, Literature Request	14
+11AM, Taxpayer Advocate Inquiry	14
+11AM, X-Ray Machine/Equipment	14
+11PM, Senior Center Complaint	14
+11PM, Teaching/Learning/Instruction	14
+11PM, Unsanitary Pigeon Condition	14
+11PM, Window Guard	14
+12AM, OEM Disabled Vehicle	14
+12AM, Opinion for the Mayor	14
+12PM, FHE	14
+01AM, Mold	13
+01PM, DOR Literature Request	13
+01PM, Summer Camp	13
+02AM, Emergency Response Team (ERT)	13
+02AM, For Hire Vehicle Report	13
+02AM, Illegal Animal Kept as Pet	13
+02PM, Literature Request	13
+02PM, Open Flame Permit	13
+03AM, DPR Internal	13
+03AM, Emergency Response Team (ERT)	13
+03AM, Indoor Sewage	13
+03PM, DHS Income Savings Requirement	13
+04AM, ELEVATOR	13
+04AM, Urinating in Public	13
+04PM, Case Management Agency Complaint	13
+04PM, Literature Request	13
+05PM, Parking Card	13
+05PM, Public Assembly	13
+06AM, Mold	13
+06AM, Panhandling	13
+06PM, Ferry Permit	13
+06PM, Fire Alarm - Modification	13
+06PM, Fire Alarm - New System	13
+07AM, DOF Property - Update Account	13
+08PM, Collection Truck Noise	13
+08PM, DEP Literature Request	13
+09AM, Case Management Agency Complaint	13
+09AM, Ferry Permit	13
+09AM, Overflowing Recycling Baskets	13
+09PM, Bike Rack Condition	13
+09PM, Ferry Permit	13
+09PM, Misc. Comments	13
+10AM, Literature Request	13
+10AM, Safety	13
+10PM, Fire Alarm - New System	13
+10PM, Health	13
+11AM, Advocate-Personal Exemptions	13
+11AM, Overflowing Recycling Baskets	13
+11PM, Animal Facility - No Permit	13
+11PM, Beach/Pool/Sauna Complaint	13
+11PM, EAP Inspection - F59	13
+11PM, Fire Alarm - Reinspection	13
+11PM, Sweeping/Missed	13
+12AM, DCA Literature Request	13
+12PM, Bottled Water	13
+12PM, Safety	13
+01AM, City Vehicle Placard Complaint	12
+01AM, Complaint	12
+01PM, Advocate-Personal Exemptions	12
+01PM, Fire Alarm - Addition	12
+02AM, Cranes and Derricks	12
+02PM, Bottled Water	12
+02PM, DFTA Literature Request	12
+02PM, Legal Services Provider Complaint	12
+03AM, Cranes and Derricks	12
+03AM, Disorderly Youth	12
+03AM, Standing Water	12
+03AM, Unleashed Dog	12
+03PM, Advocate-Personal Exemptions	12
+04AM, Illegal Fireworks	12
+04AM, Senior Center Complaint	12
+04PM, Teaching/Learning/Instruction	12
+05AM, EAP Inspection - F59	12
+05PM, Highway Sign - Missing	12
+06AM, Discipline and Suspension	12
+06AM, For Hire Vehicle Report	12
+06AM, Parking Card	12
+06AM, Senior Center Complaint	12
+06PM, Parking Card	12
+07AM, Alzheimer's Care	12
+07AM, Bike Rack Condition	12
+07AM, Special Enforcement	12
+07AM, Special Natural Area District (SNAD)	12
+07PM, Animal Facility - No Permit	12
+07PM, DEP Literature Request	12
+08AM, Ferry Permit	12
+08AM, Home Delivered Meal Complaint	12
+08AM, Misc. Comments	12
+08AM, Public Toilet	12
+08AM, Registration and Transfers	12
+08PM, DOF Property - Request Copy	12
+08PM, Forms	12
+08PM, Misc. Comments	12
+09AM, Lifeguard	12
+10AM, Discipline and Suspension	12
+10AM, X-Ray Machine/Equipment	12
+10PM, Highway Sign - Damaged	12
+10PM, Utility Program	12
+11AM, Day Care	12
+11PM, Mosquitoes	12
+11PM, Request Xmas Tree Collection	12
+11PM, Sweeping/Missed-Inadequate	12
+12AM, Calorie Labeling	12
+12AM, No Child Left Behind	12
+12AM, Sweeping/Missed	12
+12PM, Day Care	12
+12PM, Teaching/Learning/Instruction	12
+01PM, Case Management Agency Complaint	11
+01PM, Overflowing Recycling Baskets	11
+01PM, Safety	11
+02AM, Bus Stop Shelter Placement	11
+02AM, DCA Literature Request	11
+02AM, Electronics Waste	11
+02AM, Opinion for the Mayor	11
+02PM, ATF	11
+02PM, DOR Literature Request	11
+03AM, Housing Options	11
+03AM, Opinion for the Mayor	11
+03PM, X-Ray Machine/Equipment	11
+04AM, Compliment	11
+04AM, Electronics Waste	11
+04AM, Public Payphone Complaint	11
+04AM, Recycling Enforcement	11
+04PM, Advocate-Personal Exemptions	11
+04PM, DFTA Literature Request	11
+04PM, DOE Complaint or Compliment	11
+04PM, Safety	11
+05AM, Complaint	11
+05AM, DCA Literature Request	11
+05AM, Fire Alarm - Reinspection	11
+05AM, Opinion for the Mayor	11
+05PM, DPR Literature Request	11
+05PM, Literature Request	11
+06AM, Bike/Roller/Skate Chronic	11
+06PM, Special Natural Area District (SNAD)	11
+06PM, Stalled Sites	11
+07AM, Discipline and Suspension	11
+07AM, Forms	11
+07PM, Adopt-A-Basket	11
+08AM, Animal Facility - No Permit	11
+08AM, Highway Sign - Dangling	11
+08AM, Unsanitary Animal Facility	11
+08PM, DOF Property - Payment Issue	11
+08PM, Invitation	11
+08PM, Summer Camp	11
+09AM, Advocate-Personal Exemptions	11
+09PM, Fire Alarm - New System	11
+09PM, Forms	11
+10AM, Fire Alarm - Addition	11
+10PM, Highway Sign - Missing	11
+10PM, Public Toilet	11
+11PM, Drinking Water	11
+11PM, Fire Alarm - New System	11
+11PM, Harboring Bees/Wasps	11
+11PM, Misc. Comments	11
+11PM, Public Toilet	11
+11PM, Scaffold Safety	11
+12AM, Harboring Bees/Wasps	11
+12AM, Home Repair	11
+12AM, Portable Toilet	11
+12PM, Advocate-Personal Exemptions	11
+12PM, Fire Alarm - Replacement	11
+12PM, Highway Sign - Missing	11
+12PM, Legal Services Provider Complaint	11
+12PM, Sprinkler - Mechanical	11
+12PM, Transportation Provider Complaint	11
+01AM, Bus Stop Shelter Placement	10
+01AM, Misc. Comments	10
+01AM, Window Guard	10
+01PM, Day Care	10
+02AM, Broken Parking Meter	10
+02AM, Cable Complaint	10
+02PM, Advocate-Personal Exemptions	10
+02PM, DOE Complaint or Compliment	10
+02PM, Day Care	10
+02PM, Safety	10
+03AM, SCRIE	10
+03AM, Violation of Park Rules	10
+03PM, DFTA Literature Request	10
+03PM, DOR Literature Request	10
+03PM, Day Care	10
+03PM, LinkNYC	10
+03PM, Overflowing Recycling Baskets	10
+04AM, Derelict Bicycle	10
+04AM, Ferry Inquiry	10
+04PM, Calorie Labeling	10
+04PM, Fire Alarm - Addition	10
+04PM, Highway Sign - Dangling	10
+04PM, LinkNYC	10
+04PM, Overflowing Recycling Baskets	10
+05AM, DPR Internal	10
+05AM, OUTSIDE BUILDING	10
+05AM, Plant	10
+05AM, Posting Advertisement	10
+05AM, Urinating in Public	10
+05PM, DOF Property - Property Value	10
+06AM, Drug Activity	10
+06AM, Highway Sign - Damaged	10
+06PM, Bereavement Support Group	10
+06PM, DOF Property - Update Account	10
+06PM, Home Delivered Meal Complaint	10
+06PM, Public Assembly	10
+07AM, Forensic Engineering	10
+07AM, HEAP Assistance	10
+07AM, Highway Sign - Missing	10
+07AM, Home Delivered Meal - Missed Delivery	10
+07AM, OEM Literature Request	10
+07PM, Calorie Labeling	10
+07PM, Fire Alarm - New System	10
+07PM, Public Toilet	10
+08AM, Invitation	10
+08PM, Fire Alarm - Modification	10
+08PM, Weatherization	10
+09AM, Bereavement Support Group	10
+09AM, Bottled Water	10
+09AM, DFTA Literature Request	10
+09PM, Home Delivered Meal Complaint	10
+10AM, Highway Sign - Dangling	10
+10AM, Lifeguard	10
+10AM, Overflowing Recycling Baskets	10
+10AM, Sprinkler - Mechanical	10
+10PM, Animal Facility - No Permit	10
+10PM, Forms	10
+11AM, ATF	10
+11AM, Fire Alarm - Replacement	10
+11AM, Lifeguard	10
+11AM, Radioactive Material	10
+11AM, Sprinkler - Mechanical	10
+11PM, Day Care	10
+11PM, Home Repair	10
+11PM, Invitation	10
+11PM, Tattooing	10
+12AM, Unsanitary Animal Facility	10
+01AM, DCA Literature Request	9
+01AM, Illegal Animal Kept as Pet	9
+01AM, Posting Advertisement	9
+01AM, Tattooing	9
+01PM, X-Ray Machine/Equipment	9
+02AM, FHE	9
+02AM, Panhandling	9
+02PM, Overflowing Recycling Baskets	9
+02PM, Sprinkler - Mechanical	9
+03AM, Complaint	9
+03AM, Derelict Bicycle	9
+03AM, Investigations and Discipline (IAD)	9
+03AM, Mold	9
+03PM, DOE Complaint or Compliment	9
+03PM, Highway Sign - Dangling	9
+03PM, Taxpayer Advocate Inquiry	9
+04AM, Complaint	9
+04AM, Illegal Animal Kept as Pet	9
+05AM, City Vehicle Placard Complaint	9
+05AM, Compliment	9
+05AM, Unleashed Dog	9
+05PM, Bereavement Support Group	9
+05PM, Health	9
+05PM, LinkNYC	9
+06AM, Beach/Pool/Sauna Complaint	9
+06AM, Drinking Water	9
+06AM, Fire Alarm - Reinspection	9
+06AM, Opinion for the Mayor	9
+06AM, Unsanitary Pigeon Condition	9
+06PM, Highway Sign - Dangling	9
+06PM, Highway Sign - Missing	9
+07AM, Animal Facility - No Permit	9
+07AM, Drinking Water	9
+07PM, Invitation	9
+07PM, Open Flame Permit	9
+08AM, DOF Parking - Address Update	9
+08AM, Lifeguard	9
+08AM, Literature Request	9
+08PM, Sweeping/Inadequate	9
+09AM, DOE Complaint or Compliment	9
+09AM, Registration and Transfers	9
+09AM, Transportation Provider Complaint	9
+09AM, Tunnel Condition	9
+09PM, Illegal Animal Sold	9
+09PM, Sweeping/Inadequate	9
+10AM, Taxpayer Advocate Inquiry	9
+10PM, Bike Rack Condition	9
+10PM, Day Care	9
+10PM, Misc. Comments	9
+11AM, Calorie Labeling	9
+11AM, Highway Sign - Dangling	9
+11PM, Bike Rack Condition	9
+11PM, DRIE	9
+12AM, Forms	9
+12PM, DOR Literature Request	9
+12PM, Literature Request	9
+12PM, Overflowing Recycling Baskets	9
+01AM, DOE Complaint or Compliment	8
+01AM, Home Repair	8
+01PM, Lifeguard	8
+02AM, Compliment	8
+02PM, X-Ray Machine/Equipment	8
+03AM, DCA Literature Request	8
+03AM, FHE	8
+03AM, For Hire Vehicle Report	8
+03AM, Illegal Animal Kept as Pet	8
+03PM, Rangehood	8
+03PM, Standpipe - Mechanical	8
+04AM, Broken Parking Meter	8
+04AM, Drug Activity	8
+04PM, Taxpayer Advocate Inquiry	8
+05AM, For Hire Vehicle Report	8
+05AM, Illegal Fireworks	8
+05AM, Safety	8
+05PM, Special Natural Area District (SNAD)	8
+06AM, Compliment	8
+06AM, Misc. Comments	8
+06AM, Municipal Parking Facility	8
+06AM, Safety	8
+06AM, Sweeping/Inadequate	8
+06PM, DOF Parking - Request Status	8
+06PM, Open Flame Permit	8
+07AM, Adopt-A-Basket	8
+07AM, DRIE	8
+07AM, Utility Program	8
+07AM, Weatherization	8
+07PM, Parking Card	8
+07PM, Special Natural Area District (SNAD)	8
+08AM, DPR Literature Request	8
+08AM, Health	8
+08PM, Adopt-A-Basket	8
+08PM, DOF Parking - Request Copy	8
+08PM, Home Delivered Meal Complaint	8
+08PM, Illegal Animal Sold	8
+09AM, Day Care	8
+09AM, Illegal Animal Sold	8
+09AM, Water Maintenance	8
+09PM, Animal Facility - No Permit	8
+09PM, Case Management Agency Complaint	8
+09PM, Highway Sign - Missing	8
+09PM, Utility Program	8
+10AM, ATF	8
+10AM, Bottled Water	8
+10AM, DFTA Literature Request	8
+10AM, Fire Alarm - Replacement	8
+10PM, DOF Parking - Request Copy	8
+10PM, Municipal Parking Facility	8
+10PM, Sweeping/Inadequate	8
+11PM, Adopt-A-Basket	8
+11PM, Municipal Parking Facility	8
+12AM, Bottled Water	8
+12AM, DOF Property - Reduction Issue	8
+12AM, Day Care	8
+12AM, FHE	8
+12AM, Public Toilet	8
+12PM, Taxpayer Advocate Inquiry	8
+12PM, X-Ray Machine/Equipment	8
+01AM, OEM Literature Request	7
+01AM, Panhandling	7
+01AM, Senior Center Complaint	7
+02AM, Bike/Roller/Skate Chronic	7
+02AM, Sweeping/Missed-Inadequate	7
+02PM, Discipline and Suspension	7
+02PM, Lifeguard	7
+02PM, Tunnel Condition	7
+03AM, Bike/Roller/Skate Chronic	7
+03AM, Broken Parking Meter	7
+03AM, Compliment	7
+03AM, Electronics Waste	7
+03AM, Fire Alarm - Reinspection	7
+03AM, Plant	7
+03AM, Unsanitary Animal Pvt Property	7
+03PM, Bottled Water	7
+03PM, Calorie Labeling	7
+03PM, Fire Alarm - Addition	7
+03PM, Safety	7
+04AM, Curb Condition	7
+04AM, Fire Alarm - Reinspection	7
+04AM, Plant	7
+04AM, Tattooing	7
+04PM, Day Care	7
+04PM, Legal Services Provider Complaint	7
+04PM, Transportation Provider Complaint	7
+05AM, Drug Activity	7
+05AM, Highway Sign - Damaged	7
+05AM, Mosquitoes	7
+05PM, Bottled Water	7
+05PM, Calorie Labeling	7
+05PM, DOF Parking - DMV Clearance	7
+05PM, Forensic Engineering	7
+05PM, Transportation Provider Complaint	7
+06AM, Cable Complaint	7
+06AM, DOF Property - Reduction Issue	7
+06AM, Day Care	7
+06AM, Harboring Bees/Wasps	7
+06AM, Home Repair	7
+06AM, Scaffold Safety	7
+06AM, Stalled Sites	7
+06PM, DOF Property - RPIE Issue	7
+06PM, DPR Literature Request	7
+06PM, Lifeguard	7
+06PM, Public Toilet	7
+07AM, Eviction	7
+07AM, Tattooing	7
+07PM, Eviction	7
+07PM, Fire Alarm - Modification	7
+07PM, Radioactive Material	7
+08AM, Bottled Water	7
+08AM, Highway Sign - Missing	7
+08AM, Open Flame Permit	7
+08AM, Public Assembly	7
+08AM, Tattooing	7
+08PM, DOF Property - Update Account	7
+08PM, Highway Sign - Missing	7
+08PM, Literature Request	7
+08PM, Public Toilet	7
+09AM, Advocate - Other	7
+09AM, Calorie Labeling	7
+09AM, Highway Sign - Dangling	7
+09PM, Adopt-A-Basket	7
+09PM, DEP Literature Request	7
+09PM, Municipal Parking Facility	7
+09PM, Weatherization	7
+10AM, DOE Complaint or Compliment	7
+10PM, Adopt-A-Basket	7
+10PM, Ferry Permit	7
+10PM, HEAP Assistance	7
+10PM, Invitation	7
+10PM, Miscellaneous Categories	7
+10PM, Poison Ivy	7
+10PM, Registration and Transfers	7
+10PM, Unsanitary Animal Facility	7
+11AM, Advocate - Other	7
+11AM, Discipline and Suspension	7
+11AM, Hazmat Storage/Use	7
+11AM, Standpipe - Mechanical	7
+11PM, Ferry Permit	7
+11PM, Highway Sign - Missing	7
+11PM, Sweeping/Inadequate	7
+12AM, Adopt-A-Basket	7
+12AM, Alzheimer's Care	7
+12AM, Legal Services Provider Complaint	7
+12AM, Mosquitoes	7
+12PM, DOE Complaint or Compliment	7
+12PM, Discipline and Suspension	7
+12PM, Lifeguard	7
+01AM, Bike Rack Condition	6
+01AM, Compliment	6
+01AM, Ferry Permit	6
+01AM, Fire Alarm - Reinspection	6
+01AM, Unsanitary Pigeon Condition	6
+01PM, Bottled Water	6
+01PM, LinkNYC	6
+01PM, Sprinkler - Mechanical	6
+01PM, Taxpayer Advocate Inquiry	6
+02AM, DOF Property - Reduction Issue	6
+02AM, DRIE	6
+02AM, Posting Advertisement	6
+02PM, Fire Alarm - Addition	6
+03AM, Misc. Comments	6
+03AM, Panhandling	6
+03PM, Advocate-Co-opCondo Abatement	6
+03PM, Health	6
+03PM, Lifeguard	6
+03PM, Registration and Transfers	6
+04AM, DPR Internal	6
+04AM, Opinion for the Mayor	6
+04AM, Unleashed Dog	6
+04PM, DOR Literature Request	6
+04PM, Rangehood	6
+04PM, Sprinkler - Mechanical	6
+05AM, Alzheimer's Care	6
+05AM, Cable Complaint	6
+05AM, Discipline and Suspension	6
+05AM, FHE	6
+05AM, Fire Alarm - New System	6
+05AM, Mold	6
+05AM, OEM Literature Request	6
+05AM, Sweeping/Missed-Inadequate	6
+05PM, Case Management Agency Complaint	6
+05PM, DHS Advantage - Tenant	6
+05PM, DOF Parking - Address Update	6
+05PM, Parent Leadership	6
+05PM, Sprinkler - Mechanical	6
+06AM, Alzheimer's Care	6
+06AM, Bike Rack Condition	6
+06AM, DOF Parking - Payment Issue	6
+06AM, DOF Property - Owner Issue	6
+06AM, DOF Property - Request Copy	6
+06AM, Mosquitoes	6
+06AM, OEM Literature Request	6
+06PM, Calorie Labeling	6
+06PM, Case Management Agency Complaint	6
+06PM, Home Care Provider Complaint	6
+06PM, LinkNYC	6
+06PM, Tunnel Condition	6
+07AM, Misc. Comments	6
+07AM, Overflowing Recycling Baskets	6
+07AM, Public Toilet	6
+07PM, Case Management Agency Complaint	6
+07PM, Highway Sign - Missing	6
+07PM, Home Delivered Meal - Missed Delivery	6
+07PM, Tunnel Condition	6
+08AM, ATF	6
+08AM, Case Management Agency Complaint	6
+08AM, Illegal Animal Sold	6
+08PM, Bereavement Support Group	6
+08PM, DOF Property - Owner Issue	6
+08PM, DRIE	6
+08PM, Highway Sign - Dangling	6
+08PM, Parking Card	6
+09AM, DOR Literature Request	6
+09AM, Discipline and Suspension	6
+09AM, Fire Alarm - Replacement	6
+09AM, Health	6
+09AM, Rangehood	6
+09PM, Bottled Water	6
+09PM, DOF Property - Payment Issue	6
+09PM, DOF Property - Request Copy	6
+09PM, Eviction	6
+09PM, Summer Camp	6
+10AM, LinkNYC	6
+10AM, Registration and Transfers	6
+10AM, Standpipe - Mechanical	6
+10PM, Home Care Provider Complaint	6
+10PM, OEM Literature Request	6
+10PM, Summer Camp	6
+10PM, Weatherization	6
+11AM, Forensic Engineering	6
+11PM, Miscellaneous Categories	6
+11PM, Poison Ivy	6
+12AM, Misc. Comments	6
+12PM, ATF	6
+12PM, Rangehood	6
+01AM, Alzheimer's Care	5
+01AM, Highway Sign - Damaged	5
+01AM, Highway Sign - Missing	5
+01AM, Public Toilet	5
+01PM, ATF	5
+01PM, DOE Complaint or Compliment	5
+01PM, Discipline and Suspension	5
+01PM, Hazmat Storage/Use	5
+01PM, Highway Sign - Dangling	5
+01PM, Rangehood	5
+02AM, Alzheimer's Care	5
+02AM, BEST/Site Safety	5
+02AM, Ferry Permit	5
+02AM, Fire Alarm - Reinspection	5
+02AM, Forms	5
+02AM, Invitation	5
+02AM, Misc. Comments	5
+02AM, Tattooing	5
+02PM, Rangehood	5
+02PM, Registration and Transfers	5
+02PM, Research Questions	5
+02PM, Taxpayer Advocate Inquiry	5
+03AM, Bus Stop Shelter Placement	5
+03AM, City Vehicle Placard Complaint	5
+03PM, ATF	5
+03PM, Discipline and Suspension	5
+03PM, Fire Alarm - Replacement	5
+03PM, Tanning	5
+04AM, Fire Alarm - New System	5
+04AM, Misc. Comments	5
+04AM, Panhandling	5
+04AM, Window Guard	5
+04PM, Advocate - Other	5
+04PM, Discipline and Suspension	5
+04PM, Lifeguard	5
+05AM, Bike/Roller/Skate Chronic	5
+05AM, Bus Stop Shelter Placement	5
+05AM, Cranes and Derricks	5
+05AM, DOE Complaint or Compliment	5
+05AM, DOF Property - Reduction Issue	5
+05PM, Home Care Provider Complaint	5
+05PM, Legal Services Provider Complaint	5
+05PM, Lifeguard	5
+05PM, Overflowing Recycling Baskets	5
+05PM, Rangehood	5
+06AM, Fire Alarm - New System	5
+06AM, Illegal Fireworks	5
+06PM, Legal Services Provider Complaint	5
+06PM, Literature Request	5
+06PM, Overflowing Recycling Baskets	5
+06PM, Parent Leadership	5
+07AM, DOF Parking - Request Status	5
+07AM, Fire Alarm - New System	5
+07AM, Health	5
+07AM, Highway Sign - Dangling	5
+07AM, Registration and Transfers	5
+07AM, Summer Camp	5
+07PM, Bottled Water	5
+07PM, DPR Literature Request	5
+07PM, DRIE	5
+07PM, Highway Sign - Dangling	5
+07PM, Parent Leadership	5
+08AM, DHS Advantage - Tenant	5
+08AM, Fire Alarm - Addition	5
+08AM, HEATING	5
+08AM, Home Care Provider Complaint	5
+08AM, Legal Services Provider Complaint	5
+08AM, Standpipe - Mechanical	5
+08AM, Tunnel Condition	5
+08PM, LinkNYC	5
+08PM, Tunnel Condition	5
+09AM, NONCONST	5
+09AM, Open Flame Permit	5
+09AM, Sprinkler - Mechanical	5
+09PM, DOF Parking - Request Status	5
+09PM, DPR Literature Request	5
+09PM, Miscellaneous Categories	5
+09PM, Parking Card	5
+10AM, Building Condition	5
+10AM, Parent Leadership	5
+10AM, Rangehood	5
+10PM, DRIE	5
+10PM, Parent Leadership	5
+11AM, Advocate-Co-opCondo Abatement	5
+11AM, Health	5
+11AM, LinkNYC	5
+11AM, Rangehood	5
+11PM, DOF Parking - Payment Issue	5
+11PM, Health	5
+11PM, OEM Literature Request	5
+11PM, Unsanitary Animal Facility	5
+12AM, Fire Alarm - Reinspection	5
+12AM, Special Enforcement	5
+12PM, Advocate - Other	5
+12PM, Calorie Labeling	5
+12PM, Radioactive Material	5
+12PM, Squeegee	5
+01AM, BEST/Site Safety	4
+01AM, DOF Property - Reduction Issue	4
+01AM, Drinking Water	4
+01AM, Scaffold Safety	4
+01PM, Advocate - Other	4
+01PM, Tanning	4
+01PM, Tunnel Condition	4
+02AM, Animal Facility - No Permit	4
+02AM, City Vehicle Placard Complaint	4
+02AM, Mold	4
+02AM, Scaffold Safety	4
+02AM, Senior Center Complaint	4
+02AM, Window Guard	4
+02PM, Advocate - Other	4
+02PM, Fire Alarm - Replacement	4
+02PM, LinkNYC	4
+02PM, NONCONST	4
+02PM, Parent Leadership	4
+03AM, Alzheimer's Care	4
+03AM, Animal Facility - No Permit	4
+03AM, Cable Complaint	4
+03AM, Forms	4
+03AM, Home Delivered Meal Complaint	4
+03AM, Scaffold Safety	4
+03PM, Advocate - Other	4
+03PM, Public Assembly - Temporary	4
+03PM, Radioactive Material	4
+03PM, Sprinkler - Mechanical	4
+03PM, Tunnel Condition	4
+04AM, Bus Stop Shelter Placement	4
+04AM, DCA Literature Request	4
+04AM, DOF Property - Reduction Issue	4
+04AM, Disorderly Youth	4
+04AM, Drinking Water	4
+04AM, Emergency Response Team (ERT)	4
+04AM, Ferry Permit	4
+04AM, For Hire Vehicle Report	4
+04AM, Invitation	4
+04AM, Literature Request	4
+04AM, Mold	4
+04AM, Mosquitoes	4
+04PM, Radioactive Material	4
+04PM, X-Ray Machine/Equipment	4
+05AM, Beach/Pool/Sauna Complaint	4
+05AM, Day Care	4
+05AM, Disorderly Youth	4
+05AM, Ferry Permit	4
+05AM, Forms	4
+05AM, Home Repair	4
+05AM, Literature Request	4
+05AM, Panhandling	4
+05AM, Sweeping/Missed	4
+05PM, Advocate-Personal Exemptions	4
+05PM, DFTA Literature Request	4
+05PM, HEATING	4
+05PM, Registration and Transfers	4
+05PM, Tunnel Condition	4
+06AM, Bereavement Support Group	4
+06AM, Health	4
+06AM, Window Guard	4
+06PM, Bottled Water	4
+06PM, Hazmat Storage/Use	4
+06PM, Radioactive Material	4
+06PM, Transportation Provider Complaint	4
+07AM, DHS Advantage -Landlord/Broker	4
+07AM, Fire Alarm - Modification	4
+07AM, Home Delivered Meal Complaint	4
+07AM, Invitation	4
+07AM, Parent Leadership	4
+07AM, Tunnel Condition	4
+07AM, Unsanitary Animal Facility	4
+07PM, DHS Advantage - Tenant	4
+07PM, DOF Parking - Request Status	4
+07PM, Home Care Provider Complaint	4
+07PM, No Child Left Behind	4
+07PM, Public Assembly	4
+07PM, Squeegee	4
+08PM, Legal Services Provider Complaint	4
+08PM, Parent Leadership	4
+08PM, Public Assembly	4
+09AM, Hazmat Storage/Use	4
+09AM, Radioactive Material	4
+09PM, Calorie Labeling	4
+09PM, DHS Advantage - Tenant	4
+09PM, DOF Property - Owner Issue	4
+09PM, HEATING	4
+09PM, Open Flame Permit	4
+09PM, Public Toilet	4
+09PM, Special Natural Area District (SNAD)	4
+10AM, DOR Literature Request	4
+10AM, HEATING	4
+10AM, Health	4
+10AM, Open Flame Permit	4
+10AM, Radioactive Material	4
+10AM, Squeegee	4
+10AM, Water Maintenance	4
+10PM, Illegal Animal Sold	4
+10PM, Lifeguard	4
+10PM, Open Flame Permit	4
+11AM, NORC Complaint	4
+11AM, No Child Left Behind	4
+11AM, Registration and Transfers	4
+11AM, Tunnel Condition	4
+11PM, DPR Literature Request	4
+11PM, Eviction	4
+11PM, HEAP Assistance	4
+11PM, LinkNYC	4
+12AM, EAP Inspection - F59	4
+12AM, Fire Alarm - New System	4
+12AM, Highway Sign - Dangling	4
+12AM, Lifeguard	4
+12AM, OEM Literature Request	4
+12AM, Poison Ivy	4
+12AM, Radioactive Material	4
+12AM, VACANT APARTMENT	4
+12AM, X-Ray Machine/Equipment	4
+12PM, Advocate-Prop Refunds/Credits	4
+12PM, Health	4
+12PM, LinkNYC	4
+12PM, Tunnel Condition	4
+01AM, Beach/Pool/Sauna Complaint	3
+01AM, Day Care	3
+01AM, Discipline and Suspension	3
+01AM, Fire Alarm - New System	3
+01AM, Harboring Bees/Wasps	3
+01AM, Mosquitoes	3
+01AM, Safety	3
+01AM, Trans Fat	3
+01AM, Unsanitary Animal Facility	3
+01PM, Building Condition	3
+01PM, Squeegee	3
+02AM, Adopt-A-Basket	3
+02AM, Beach/Pool/Sauna Complaint	3
+02AM, DOE Complaint or Compliment	3
+02AM, Day Care	3
+02AM, Discipline and Suspension	3
+02AM, Drinking Water	3
+02AM, Fire Alarm - New System	3
+02AM, Harboring Bees/Wasps	3
+02AM, Home Repair	3
+02PM, Advocate-Co-opCondo Abatement	3
+02PM, Advocate-Prop Refunds/Credits	3
+02PM, Health	3
+02PM, Highway Sign - Dangling	3
+02PM, Radioactive Material	3
+02PM, Water Maintenance	3
+03AM, Bike Rack Condition	3
+03AM, Fire Alarm - New System	3
+03AM, Mosquitoes	3
+03AM, Posting Advertisement	3
+03AM, Senior Center Complaint	3
+03AM, Tattooing	3
+03AM, Teaching/Learning/Instruction	3
+03PM, Advocate-Prop Refunds/Credits	3
+03PM, NONCONST	3
+03PM, Water Maintenance	3
+04AM, Bike/Roller/Skate Chronic	3
+04AM, Cable Complaint	3
+04AM, Case Management Agency Complaint	3
+04AM, City Vehicle Placard Complaint	3
+04AM, EAP Inspection - F59	3
+04AM, FHE	3
+04AM, Harboring Bees/Wasps	3
+04AM, Highway Sign - Damaged	3
+04AM, Home Repair	3
+04AM, OEM Literature Request	3
+04AM, Sweeping/Missed-Inadequate	3
+04PM, Advocate-Co-opCondo Abatement	3
+04PM, Bottled Water	3
+04PM, Health	3
+04PM, Registration and Transfers	3
+04PM, Research Questions	3
+04PM, Squeegee	3
+04PM, Standpipe - Mechanical	3
+04PM, Trans Fat	3
+04PM, Tunnel Condition	3
+05AM, BEST/Site Safety	3
+05AM, DRIE	3
+05AM, Drinking Water	3
+05AM, Harboring Bees/Wasps	3
+05AM, Invitation	3
+05AM, Public Toilet	3
+05AM, Scaffold Safety	3
+05AM, Unsanitary Pigeon Condition	3
+05PM, Fire Alarm - Addition	3
+06AM, DEP Literature Request	3
+06AM, Disorderly Youth	3
+06AM, Eviction	3
+06AM, HEAP Assistance	3
+06AM, HEATING	3
+06AM, Invitation	3
+06AM, Public Toilet	3
+06AM, Summer Camp	3
+06AM, Unsanitary Animal Facility	3
+06AM, Weatherization	3
+06PM, DHS Advantage - Tenant	3
+06PM, DOF Property - Property Value	3
+06PM, No Child Left Behind	3
+06PM, SRDE	3
+07AM, Case Management Agency Complaint	3
+07AM, DEP Literature Request	3
+07AM, Ferry Permit	3
+07AM, Legal Services Provider Complaint	3
+07AM, LinkNYC	3
+07AM, Transportation Provider Complaint	3
+07PM, Bereavement Support Group	3
+07PM, DFTA Literature Request	3
+07PM, SRDE	3
+07PM, Tanning	3
+07PM, Transportation Provider Complaint	3
+08AM, Bereavement Support Group	3
+08AM, Parent Leadership	3
+08AM, Rangehood	3
+08AM, Squeegee	3
+08AM, Taxpayer Advocate Inquiry	3
+08PM, Calorie Labeling	3
+08PM, DFTA Literature Request	3
+08PM, DPR Literature Request	3
+08PM, Eviction	3
+08PM, Foam Ban Enforcement	3
+08PM, Home Delivered Meal - Missed Delivery	3
+08PM, NONCONST	3
+09PM, DOF Parking - Request Copy	3
+09PM, DRIE	3
+09PM, Fire Alarm - Replacement	3
+09PM, Legal Services Provider Complaint	3
+09PM, Lifeguard	3
+09PM, NORC Complaint	3
+10AM, Advocate-SCRIE/DRIE	3
+10AM, Advocate-UBT	3
+10AM, Calorie Labeling	3
+10AM, Public Assembly - Temporary	3
+10AM, Tunnel Condition	3
+10PM, DEP Literature Request	3
+10PM, DOF Property - Owner Issue	3
+10PM, Eviction	3
+10PM, Fire Alarm - Replacement	3
+10PM, Home Delivered Meal - Missed Delivery	3
+10PM, Home Delivered Meal Complaint	3
+11AM, Squeegee	3
+11AM, Trans Fat	3
+11PM, Bottled Water	3
+11PM, Forms	3
+11PM, Highway Sign - Dangling	3
+11PM, Home Delivered Meal Complaint	3
+11PM, Illegal Animal Sold	3
+11PM, Public Assembly	3
+11PM, Radioactive Material	3
+11PM, Registration and Transfers	3
+11PM, Summer Camp	3
+11PM, Utility Program	3
+12AM, Bike Rack Condition	3
+12AM, Ferry Permit	3
+12AM, Open Flame Permit	3
+12AM, Request Xmas Tree Collection	3
+12AM, Sweeping/Inadequate	3
+12AM, Trans Fat	3
+12AM, Transportation Provider Complaint	3
+12PM, Building Condition	3
+12PM, Forensic Engineering	3
+12PM, HEATING	3
+12PM, Hazmat Storage/Use	3
+12PM, Highway Sign - Dangling	3
+12PM, Interior Demo	3
+12PM, Parent Leadership	3
+12PM, Public Assembly - Temporary	3
+12PM, Standpipe - Mechanical	3
+12PM, Trans Fat	3
+01AM, Adopt-A-Basket	2
+01AM, EAP Inspection - F59	2
+01AM, Eviction	2
+01AM, Forms	2
+01AM, Home Delivered Meal - Missed Delivery	2
+01AM, No Child Left Behind	2
+01AM, Registration and Transfers	2
+01AM, Request Xmas Tree Collection	2
+01AM, Special Natural Area District (SNAD)	2
+01AM, Sweeping/Missed	2
+01AM, Teaching/Learning/Instruction	2
+01PM, AGENCY	2
+01PM, Advocate-Commercial Exemptions	2
+01PM, Health	2
+01PM, NONCONST	2
+01PM, Parent Leadership	2
+01PM, Radioactive Material	2
+01PM, Registration and Transfers	2
+02AM, Fire Alarm - Addition	2
+02AM, Health	2
+02AM, Highway Sign - Damaged	2
+02AM, Highway Sign - Missing	2
+02AM, Literature Request	2
+02AM, Mosquitoes	2
+02AM, OEM Literature Request	2
+02AM, Poison Ivy	2
+02AM, Sweeping/Missed	2
+02AM, Teaching/Learning/Instruction	2
+02AM, Unsanitary Animal Facility	2
+02AM, Unsanitary Pigeon Condition	2
+02PM, Building Condition	2
+02PM, No Child Left Behind	2
+02PM, Squeegee	2
+02PM, Standpipe - Mechanical	2
+03AM, BEST/Site Safety	2
+03AM, DOE Complaint or Compliment	2
+03AM, Eviction	2
+03AM, Fire Alarm - Replacement	2
+03AM, Highway Sign - Damaged	2
+03AM, Home Repair	2
+03AM, Invitation	2
+03AM, NONCONST	2
+03AM, Safety	2
+03AM, Sweeping/Inadequate	2
+03AM, Sweeping/Missed	2
+03AM, Unsanitary Pigeon Condition	2
+03AM, Weatherization	2
+03AM, Window Guard	2
+03PM, Advocate-Property Value	2
+03PM, HEATING	2
+03PM, Parent Leadership	2
+03PM, Portable Toilet	2
+04AM, Adopt-A-Basket	2
+04AM, Alzheimer's Care	2
+04AM, Beach/Pool/Sauna Complaint	2
+04AM, DOE Complaint or Compliment	2
+04AM, Discipline and Suspension	2
+04AM, Forms	2
+04AM, Home Care Provider Complaint	2
+04AM, Municipal Parking Facility	2
+04AM, Parking Card	2
+04AM, Poison Ivy	2
+04AM, Posting Advertisement	2
+04AM, Request Xmas Tree Collection	2
+04AM, Safety	2
+04AM, Sweeping/Inadequate	2
+04AM, Weatherization	2
+04PM, Fire Alarm - Replacement	2
+04PM, Foam Ban Enforcement	2
+04PM, NORC Complaint	2
+04PM, Public Assembly - Temporary	2
+04PM, SRDE	2
+04PM, Water Maintenance	2
+05AM, Animal Facility - No Permit	2
+05AM, Bereavement Support Group	2
+05AM, DOF Parking - Payment Issue	2
+05AM, Highway Sign - Missing	2
+05AM, Investigations and Discipline (IAD)	2
+05AM, Legal Services Provider Complaint	2
+05AM, Misc. Comments	2
+05AM, Poison Ivy	2
+05AM, Sweeping/Inadequate	2
+05AM, Tattooing	2
+05AM, Window Guard	2
+05PM, Building Condition	2
+05PM, DHS Advantage -Landlord/Broker	2
+05PM, DOR Literature Request	2
+05PM, Fire Alarm - Replacement	2
+05PM, Highway Sign - Dangling	2
+05PM, NONCONST	2
+05PM, Portable Toilet	2
+05PM, Radioactive Material	2
+05PM, Research Questions	2
+05PM, Taxpayer Advocate Inquiry	2
+05PM, Trans Fat	2
+05PM, X-Ray Machine/Equipment	2
+06AM, Adopt-A-Basket	2
+06AM, DOF Property - Payment Issue	2
+06AM, Forms	2
+06AM, Highway Sign - Dangling	2
+06AM, Highway Sign - Missing	2
+06AM, Home Delivered Meal - Missed Delivery	2
+06AM, Illegal Animal Sold	2
+06AM, Legal Services Provider Complaint	2
+06AM, Poison Ivy	2
+06AM, Registration and Transfers	2
+06AM, Tattooing	2
+06PM, DFTA Literature Request	2
+06PM, DOF Parking - Address Update	2
+06PM, Fire Alarm - Addition	2
+06PM, Squeegee	2
+06PM, Trans Fat	2
+07AM, Bereavement Support Group	2
+07AM, DOF Parking - Address Update	2
+07AM, DOF Parking - Tax Exemption	2
+07AM, DPR Literature Request	2
+07AM, Fire Alarm - Addition	2
+07AM, Illegal Animal Sold	2
+07AM, Literature Request	2
+07AM, Radioactive Material	2
+07AM, Trans Fat	2
+07AM, Water Maintenance	2
+07PM, DOF Parking - Request Copy	2
+07PM, DOF Property - City Rebate	2
+07PM, Foam Ban Enforcement	2
+07PM, Legal Services Provider Complaint	2
+07PM, Lifeguard	2
+07PM, LinkNYC	2
+07PM, Literature Request	2
+07PM, Overflowing Recycling Baskets	2
+08AM, Advocate - Other	2
+08AM, Advocate-Personal Exemptions	2
+08AM, Calorie Labeling	2
+08AM, DFTA Literature Request	2
+08AM, DOR Literature Request	2
+08AM, Fire Alarm - Replacement	2
+08AM, Radioactive Material	2
+08AM, Research Questions	2
+08AM, Sprinkler - Mechanical	2
+08AM, Transportation Provider Complaint	2
+08PM, Bottled Water	2
+08PM, DHS Advantage - Tenant	2
+08PM, Lifeguard	2
+08PM, Open Flame Permit	2
+08PM, Radioactive Material	2
+09AM, Advocate-Co-opCondo Abatement	2
+09AM, Advocate-Property Value	2
+09AM, Advocate-SCRIE/DRIE	2
+09AM, Foam Ban Enforcement	2
+09AM, LinkNYC	2
+09AM, Parent Leadership	2
+09AM, Taxpayer Advocate Inquiry	2
+09PM, Fire Alarm - Modification	2
+09PM, Highway Sign - Dangling	2
+09PM, Home Care Provider Complaint	2
+09PM, Literature Request	2
+09PM, Lost Property	2
+09PM, Overflowing Recycling Baskets	2
+09PM, Parent Leadership	2
+09PM, Portable Toilet	2
+09PM, Public Assembly	2
+09PM, Research Questions	2
+09PM, Sprinkler - Mechanical	2
+09PM, Squeegee	2
+10AM, Advocate-Property Value	2
+10AM, Hazmat Storage/Use	2
+10AM, Research Questions	2
+10AM, Tanning	2
+10PM, Bereavement Support Group	2
+10PM, Case Management Agency Complaint	2
+10PM, DOF Property - Payment Issue	2
+10PM, HEATING	2
+10PM, Hazmat Storage/Use	2
+10PM, Highway Sign - Dangling	2
+10PM, Overflowing Recycling Baskets	2
+10PM, Radioactive Material	2
+10PM, Research Questions	2
+10PM, Special Natural Area District (SNAD)	2
+10PM, Tanning	2
+10PM, Trans Fat	2
+10PM, Tunnel Condition	2
+11AM, Advocate-Property Value	2
+11AM, DOR Literature Request	2
+11AM, Parent Leadership	2
+11AM, Public Assembly - Temporary	2
+11AM, Research Questions	2
+11PM, Bereavement Support Group	2
+11PM, Calorie Labeling	2
+11PM, Case Management Agency Complaint	2
+11PM, DOF Parking - Request Status	2
+11PM, Fire Alarm - Modification	2
+11PM, HEATING	2
+11PM, Home Delivered Meal - Missed Delivery	2
+11PM, Literature Request	2
+11PM, Open Flame Permit	2
+11PM, Parent Leadership	2
+11PM, Research Questions	2
+11PM, Weatherization	2
+12AM, AGENCY	2
+12AM, DOF Parking - Payment Issue	2
+12AM, DOF Parking - Request Status	2
+12AM, DOF Property - State Rebate	2
+12AM, DRIE	2
+12AM, Fire Alarm - Addition	2
+12AM, Illegal Animal Sold	2
+12AM, Public Assembly	2
+12AM, Stalled Sites	2
+12AM, Summer Camp	2
+12AM, Weatherization	2
+12PM, Advocate-Property Value	2
+12PM, Advocate-SCRIE/DRIE	2
+12PM, Healthcare Facilities	2
+12PM, Registration and Transfers	2
+12PM, Research Questions	2
+12PM, SRDE	2
+12PM, Water Maintenance	2
+01AM, Animal Facility - No Permit	1
+01AM, Calorie Labeling	1
+01AM, Case Management Agency Complaint	1
+01AM, Comment	1
+01AM, DEP Literature Request	1
+01AM, DFTA Literature Request	1
+01AM, DOF Parking - Tax Exemption	1
+01AM, DRIE	1
+01AM, Health	1
+01AM, Highway Sign - Dangling	1
+01AM, Home Care Provider Complaint	1
+01AM, Illegal Animal Sold	1
+01AM, Invitation	1
+01AM, LinkNYC	1
+01AM, Miscellaneous Categories	1
+01AM, NORC Complaint	1
+01AM, Overflowing Recycling Baskets	1
+01AM, Parent Leadership	1
+01AM, Parking Card	1
+01AM, Poison Ivy	1
+01AM, Portable Toilet	1
+01AM, Public Assembly	1
+01AM, Public Assembly - Temporary	1
+01AM, Sweeping/Inadequate	1
+01AM, Sweeping/Missed-Inadequate	1
+01AM, Transportation Provider Complaint	1
+01AM, Utility Program	1
+01AM, Weatherization	1
+01PM, Advocate - RPIE	1
+01PM, Advocate-Prop Class Incorrect	1
+01PM, Advocate-Prop Refunds/Credits	1
+01PM, Advocate-Property Value	1
+01PM, Foam Ban Enforcement	1
+01PM, Gas Station Discharge Lines	1
+01PM, Hazardous Material	1
+01PM, Healthcare Facilities	1
+01PM, Interior Demo	1
+01PM, Lost Property	1
+01PM, Micro Switch	1
+01PM, NORC Complaint	1
+01PM, Portable Toilet	1
+01PM, Public Assembly - Temporary	1
+01PM, Research Questions	1
+01PM, Standpipe - Mechanical	1
+01PM, Trans Fat	1
+02AM, Bike Rack Condition	1
+02AM, DOF Parking - Payment Issue	1
+02AM, EAP Inspection - F59	1
+02AM, Fire Alarm - Replacement	1
+02AM, HEAP Assistance	1
+02AM, Home Care Provider Complaint	1
+02AM, Home Delivered Meal - Missed Delivery	1
+02AM, Home Delivered Meal Complaint	1
+02AM, Illegal Animal Sold	1
+02AM, Legal Services Provider Complaint	1
+02AM, Overflowing Recycling Baskets	1
+02AM, Parent Leadership	1
+02AM, Public Assembly	1
+02AM, Public Toilet	1
+02AM, Radioactive Material	1
+02AM, Registration and Transfers	1
+02AM, Safety	1
+02AM, Special Natural Area District (SNAD)	1
+02AM, Tunnel Condition	1
+02AM, Utility Program	1
+02AM, Weatherization	1
+02PM, Advocate-Business Tax	1
+02PM, Advocate-SCRIE/DRIE	1
+02PM, DOF Property - State Rebate	1
+02PM, Hazmat Storage/Use	1
+02PM, Laboratory	1
+02PM, Portable Toilet	1
+02PM, Public Assembly - Temporary	1
+02PM, Tanning	1
+02PM, Trans Fat	1
+03AM, Adopt-A-Basket	1
+03AM, Bereavement Support Group	1
+03AM, Case Management Agency Complaint	1
+03AM, DOF Property - Owner Issue	1
+03AM, DOF Property - Reduction Issue	1
+03AM, Day Care	1
+03AM, Discipline and Suspension	1
+03AM, Drinking Water	1
+03AM, EAP Inspection - F59	1
+03AM, Ferry Permit	1
+03AM, Harboring Bees/Wasps	1
+03AM, Highway Sign - Dangling	1
+03AM, Highway Sign - Missing	1
+03AM, No Child Left Behind	1
+03AM, OEM Literature Request	1
+03AM, Open Flame Permit	1
+03AM, Poison Ivy	1
+03AM, Registration and Transfers	1
+03AM, Unsanitary Animal Facility	1
+03AM, VACANT APARTMENT	1
+03PM, Advocate-Commercial Exemptions	1
+03PM, Advocate-SCRIE/DRIE	1
+03PM, Asbestos/Garbage Nuisance	1
+03PM, DOF Property - State Rebate	1
+03PM, Foam Ban Enforcement	1
+03PM, Gas Station Discharge Lines	1
+03PM, Hazmat Storage/Use	1
+03PM, Lost Property	1
+03PM, Meals Home Delivery Required	1
+03PM, Research Questions	1
+03PM, SRDE	1
+03PM, Squeegee	1
+03PM, VACANT APARTMENT	1
+04AM, BEST/Site Safety	1
+04AM, Bike Rack Condition	1
+04AM, Bottled Water	1
+04AM, Calorie Labeling	1
+04AM, Comment	1
+04AM, Cranes and Derricks	1
+04AM, DRIE	1
+04AM, Eviction	1
+04AM, Fire Alarm - Replacement	1
+04AM, Highway Sign - Missing	1
+04AM, NONCONST	1
+04AM, Parent Leadership	1
+04AM, Scaffold Safety	1
+04AM, Sweeping/Missed	1
+04AM, Tunnel Condition	1
+04AM, Unsanitary Pigeon Condition	1
+04PM, ATF	1
+04PM, Advocate-Commercial Exemptions	1
+04PM, Advocate-Prop Class Incorrect	1
+04PM, Advocate-SCRIE/DRIE	1
+04PM, Building Condition	1
+04PM, HEATING	1
+04PM, Laboratory	1
+04PM, Lost Property	1
+04PM, NONCONST	1
+04PM, No Child Left Behind	1
+04PM, Parent Leadership	1
+04PM, Trapping Pigeon	1
+05AM, Bike Rack Condition	1
+05AM, DFTA Literature Request	1
+05AM, DHS Advantage - Tenant	1
+05AM, DOF Property - Owner Issue	1
+05AM, DOF Property - Request Copy	1
+05AM, Fire Alarm - Addition	1
+05AM, Gas Station Discharge Lines	1
+05AM, HEAP Assistance	1
+05AM, Highway Sign - Dangling	1
+05AM, Home Delivered Meal - Missed Delivery	1
+05AM, Illegal Animal Sold	1
+05AM, Lifeguard	1
+05AM, LinkNYC	1
+05AM, Overflowing Recycling Baskets	1
+05AM, Parent Leadership	1
+05AM, Parking Card	1
+05AM, Registration and Transfers	1
+05AM, Request Xmas Tree Collection	1
+05AM, Research Questions	1
+05AM, Teaching/Learning/Instruction	1
+05AM, Tunnel Condition	1
+05AM, Utility Program	1
+05AM, Weatherization	1
+05PM, ATF	1
+05PM, Advocate - Other	1
+05PM, Advocate-Co-opCondo Abatement	1
+05PM, Advocate-SCRIE/DRIE	1
+05PM, CONSTRUCTION	1
+05PM, DHS Income Savings Requirement	1
+05PM, Foam Ban Enforcement	1
+05PM, Hazardous Material	1
+05PM, Hazmat Storage/Use	1
+05PM, NORC Complaint	1
+05PM, Public Assembly - Temporary	1
+05PM, Squeegee	1
+06AM, Case Management Agency Complaint	1
+06AM, DOF Parking - Request Status	1
+06AM, DRIE	1
+06AM, Fire Alarm - Modification	1
+06AM, Fire Alarm - Replacement	1
+06AM, Interior Demo	1
+06AM, No Child Left Behind	1
+06AM, Overflowing Recycling Baskets	1
+06AM, Parent Leadership	1
+06AM, SG-99	1
+06AM, Special Natural Area District (SNAD)	1
+06AM, Utility Program	1
+06PM, Advocate - Other	1
+06PM, Building Condition	1
+06PM, DHS Income Savings Requirement	1
+06PM, DOF Parking - Tax Exemption	1
+06PM, DOR Literature Request	1
+06PM, Fire Alarm - Replacement	1
+06PM, HEATING	1
+06PM, Interior Demo	1
+06PM, Public Assembly - Temporary	1
+06PM, Rangehood	1
+06PM, Research Questions	1
+06PM, Taxpayer Advocate Inquiry	1
+06PM, Water Maintenance	1
+06PM, X-Ray Machine/Equipment	1
+07AM, Building Condition	1
+07AM, DOF Parking - DMV Clearance	1
+07AM, HEATING	1
+07AM, Open Flame Permit	1
+07AM, Portable Toilet	1
+07AM, Public Assembly	1
+07AM, Research Questions	1
+07AM, SNW	1
+07AM, SRDE	1
+07AM, Sprinkler - Mechanical	1
+07AM, Standpipe - Mechanical	1
+07PM, DOF Parking - Address Update	1
+07PM, DOF Property - RPIE Issue	1
+07PM, DOR Literature Request	1
+07PM, Fire Alarm - Addition	1
+07PM, Public Assembly - Temporary	1
+07PM, Rangehood	1
+07PM, Research Questions	1
+07PM, Sprinkler - Mechanical	1
+07PM, Stalled Sites	1
+07PM, Trans Fat	1
+08AM, Building Condition	1
+08AM, DHS Advantage -Landlord/Broker	1
+08AM, DHS Income Savings Requirement	1
+08AM, LinkNYC	1
+08AM, No Child Left Behind	1
+08AM, Sewer Maintenance	1
+08AM, Water Maintenance	1
+08AM, X-Ray Machine/Equipment	1
+08PM, Case Management Agency Complaint	1
+08PM, DHS Advantage - Third Party	1
+08PM, DHS Advantage -Landlord/Broker	1
+08PM, DOF Parking - DMV Clearance	1
+08PM, DOF Parking - Request Status	1
+08PM, DOF Property - City Rebate	1
+08PM, Fire Alarm - Addition	1
+08PM, Hazardous Material	1
+08PM, Hazmat Storage/Use	1
+08PM, Home Care Provider Complaint	1
+08PM, NORC Complaint	1
+08PM, No Child Left Behind	1
+08PM, Overflowing Recycling Baskets	1
+08PM, Public Assembly - Temporary	1
+08PM, Rangehood	1
+08PM, Research Questions	1
+08PM, Special Natural Area District (SNAD)	1
+08PM, Sprinkler - Mechanical	1
+08PM, Squeegee	1
+08PM, Standpipe - Mechanical	1
+08PM, Tanning	1
+08PM, Taxpayer Advocate Inquiry	1
+08PM, Transportation Provider Complaint	1
+08PM, X-Ray Machine/Equipment	1
+09AM, Advocate-Prop Refunds/Credits	1
+09AM, Advocate-UBT	1
+09AM, DOF Property - State Rebate	1
+09AM, HEATING	1
+09AM, LEAD	1
+09AM, Portable Toilet	1
+09AM, Research Questions	1
+09AM, Standpipe - Mechanical	1
+09AM, Trans Fat	1
+09PM, DFTA Literature Request	1
+09PM, DHS Income Savings Requirement	1
+09PM, DOF Parking - DMV Clearance	1
+09PM, DOF Parking - Tax Exemption	1
+09PM, DOF Property - Update Account	1
+09PM, Fire Alarm - Addition	1
+09PM, Foam Ban Enforcement	1
+09PM, Home Delivered Meal - Missed Delivery	1
+09PM, Interior Demo	1
+09PM, LinkNYC	1
+09PM, NONCONST	1
+09PM, Rangehood	1
+09PM, SRDE	1
+09PM, Tanning	1
+09PM, Taxpayer Advocate Inquiry	1
+09PM, Trans Fat	1
+09PM, Transportation Provider Complaint	1
+09PM, Tunnel Condition	1
+10AM, Advocate - Other	1
+10AM, Advocate - RPIE	1
+10AM, Advocate-Co-opCondo Abatement	1
+10AM, Advocate-Commercial Exemptions	1
+10AM, DOF Property - State Rebate	1
+10AM, Healthcare Facilities	1
+10AM, Interior Demo	1
+10AM, NORC Complaint	1
+10AM, No Child Left Behind	1
+10AM, Portable Toilet	1
+10AM, SRDE	1
+10AM, Trans Fat	1
+10AM, Trapping Pigeon	1
+10PM, Bottled Water	1
+10PM, Calorie Labeling	1
+10PM, DHS Advantage - Tenant	1
+10PM, DOF Parking - Request Status	1
+10PM, DOF Property - Request Copy	1
+10PM, DPR Literature Request	1
+10PM, Fire Alarm - Addition	1
+10PM, Fire Alarm - Modification	1
+10PM, Foam Ban Enforcement	1
+10PM, Gas Station Discharge Lines	1
+10PM, Legal Services Provider Complaint	1
+10PM, LinkNYC	1
+10PM, No Child Left Behind	1
+10PM, Public Assembly	1
+10PM, Rangehood	1
+10PM, Special Enforcement	1
+10PM, Squeegee	1
+10PM, Taxpayer Advocate Inquiry	1
+10PM, X-Ray Machine/Equipment	1
+11AM, AGENCY	1
+11AM, Advocate-Business Tax	1
+11AM, Advocate-Commercial Exemptions	1
+11AM, Advocate-Prop Refunds/Credits	1
+11AM, Advocate-SCRIE/DRIE	1
+11AM, Advocate-UBT	1
+11AM, Foam Ban Enforcement	1
+11AM, Hazardous Material	1
+11AM, Healthcare Facilities	1
+11AM, Laboratory	1
+11AM, Lost Property	1
+11AM, Tanning	1
+11AM, Unspecified	1
+11AM, Water Maintenance	1
+11PM, DEP Literature Request	1
+11PM, DHS Income Savings Requirement	1
+11PM, DOF Property - City Rebate	1
+11PM, DOF Property - Update Account	1
+11PM, Fire Alarm - Addition	1
+11PM, Home Care Provider Complaint	1
+11PM, Legal Services Provider Complaint	1
+11PM, No Child Left Behind	1
+11PM, Overflowing Recycling Baskets	1
+11PM, Parking Card	1
+11PM, Special Enforcement	1
+11PM, Squeegee	1
+11PM, Trans Fat	1
+11PM, X-Ray Machine/Equipment	1
+12AM, Case Management Agency Complaint	1
+12AM, DOF Parking - Request Copy	1
+12AM, Hazmat Storage/Use	1
+12AM, Home Care Provider Complaint	1
+12AM, Home Delivered Meal Complaint	1
+12AM, Invitation	1
+12AM, MOLD	1
+12AM, NORC Complaint	1
+12AM, Squeegee	1
+12AM, Tunnel Condition	1
+12AM, Unlicensed Dog	1
+12AM, Utility Program	1
+12PM, Advocate - RPIE	1
+12PM, Comment	1
+12PM, DOF Property - State Rebate	1
+12PM, Foam Ban Enforcement	1
+12PM, Lost Property	1
+12PM, Portable Toilet	1
+12PM, Tanning	1
