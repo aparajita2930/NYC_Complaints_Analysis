@@ -31,6 +31,7 @@ if __name__ == "__main__":
 	if len(sys.argv) != 2:
 		print("Usage: 3_closed_date.py <file>",  file=sys.stderr)
 		exit(-1)
+	sc = SparkContext()
 	sc.addFile("src/helper/assign_basetype.py")
 	sc.addFile("src/helper/date_common.py")
 	from assign_basetype import *
