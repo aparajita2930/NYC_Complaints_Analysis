@@ -14,7 +14,7 @@ def get_label(value, basetype, before_date_range, after_date_range):
 	elif basetype == "DATETIME":
 		if value == "01/01/1900 12:00:00 AM":
 			return "NULL"
-		elif date_in_valid_time_range(value) and date_more_than(value,before_date_range) and date_less_than(before_date_range):
+		elif date_in_valid_time_range(value) and date_more_than(value,before_date_range) and date_less_than(value,before_date_range):
 			return "VALID"
 		else:
 			return "INVALID"
