@@ -1,0 +1,4 @@
+TEXT school_number NULL	3
+INT None INVALID	6
+INT school_number VALID	687
+TEXT None INVALID	1246

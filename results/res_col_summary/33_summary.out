@@ -1,0 +1,2 @@
+TEXT school_phone_number NULL	2
+INT school_phone_number VALID	1176
