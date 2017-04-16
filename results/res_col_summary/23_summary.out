@@ -1,0 +1,3 @@
+TEXT community_board VALID	59
+TEXT None INVALID	12
+TEXT community_board NULL	6

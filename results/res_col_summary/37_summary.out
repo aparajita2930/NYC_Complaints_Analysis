@@ -1,0 +1,4 @@
+INT school_zip VALID	174
+TEXT None INVALID	1
+TEXT school_zip NULL	1
+INT school_zip INVALID	5

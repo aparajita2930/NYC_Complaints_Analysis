@@ -1,0 +1,3 @@
+TEXT school_region NULL	2
+TEXT None INVALID	1
+TEXT school_region VALID	11
