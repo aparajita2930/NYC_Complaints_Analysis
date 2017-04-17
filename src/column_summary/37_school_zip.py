@@ -34,7 +34,7 @@ def check_zip(val):
 	else:
 		return 'INVALID'
 
-def get_semantictype(val0, val1, basetype):
+def get_semantictype(val0, basetype):
 	pattern=re.compile('^(\-?[\d+]{5}(-[\d+]{4})?)$')
 	if (basetype == 'INT' and len(str(val0)) == 5) or (pattern.match(val0)):
 		return 'school_zip'
@@ -43,20 +43,18 @@ def get_semantictype(val0, val1, basetype):
 	else:
 		return 'None'
 
-def col_details(val0, val1):
+def col_details(val0):
 	basetype = get_basetype(val0)
-	semantictype = get_semantictype(val0, val1, basetype)
+	semantictype = get_semantictype(val0, basetype)
 	validity = check_zip(val0)
-	return (val0, basetype, semantictype, validity)
+	return "%s %s %s" % (basetype, semantictype, validity)
 
 if len(sys.argv) != 2:
 	print("Usage: 37_school_zip <file>",  file=sys.stderr)
 	exit(-1)
 lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 lines = lines.mapPartitions(lambda x: reader(x))
-
-details = lines.map(lambda line : (line[36].encode('utf-8').strip(), 1))
-
-details.map(lambda x: "%s\t%s %s %s" % (x[0], x[1], x[2], x[3])).saveAsTextFile("37_details.out")
+details = lines.map(lambda line : ("%s\t%s" % (line[36].encode('utf-8').strip(), col_details(line[36].encode('utf-8').strip()))))
+details.saveAsTextFile("37_details.out")
 
 sc.stop()
