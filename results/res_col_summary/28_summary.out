@@ -1,2 +1,6 @@
-TEXT park_borough NULL	1
-TEXT park_borough VALID	5
+('BROOKLYN', 'TEXT', 'park_borough', 'VALID')	4316101
+('STATEN ISLAND', 'TEXT', 'park_borough', 'VALID')	721477
+('QUEENS', 'TEXT', 'park_borough', 'VALID')	3301660
+('MANHATTAN', 'TEXT', 'park_borough', 'VALID')	2940488
+('BRONX', 'TEXT', 'park_borough', 'VALID')	2606457
+('Unspecified', 'TEXT', 'park_borough', 'NULL')	1519056
