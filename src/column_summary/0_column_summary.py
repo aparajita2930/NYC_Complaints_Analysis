@@ -15,7 +15,7 @@ idx = sys.argv[1]
 filename = idx + "_details.out"
 lines = sc.textFile(filename, 1, use_unicode=False)
 lines = lines.mapPartitions(lambda x: reader(x, delimiter='\t')) \
-		.map(lambda x: x[1])
+		.map(lambda x: x[-1])
 		
 values = lines.mapPartitions(lambda x: reader(x, delimiter=' '))
 
