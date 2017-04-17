@@ -1,4 +1,4 @@
-INT school_zip VALID	174
+INT school_zip VALID	93387
 TEXT None INVALID	1
-TEXT school_zip NULL	1
-INT school_zip INVALID	5
+TEXT school_zip NULL	15311751
+INT school_zip INVALID	100
