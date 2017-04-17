@@ -35,7 +35,7 @@ def col_details(val0):
 	basetype = get_basetype(val0)
 	semantictype = get_semantictype(val0, basetype)
 	validity = check_borough(val0)
-	return (val0, basetype, semantictype, validity)
+	return "%s %s %s" % (basetype, semantictype, validity)
 
 if len(sys.argv) != 2:
 	print("Usage: 28_park_borough <file>",  file=sys.stderr)

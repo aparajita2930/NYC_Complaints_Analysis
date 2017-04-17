@@ -47,7 +47,9 @@ if len(sys.argv) != 2:
 lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 lines = lines.mapPartitions(lambda x: reader(x))
 
-details_unique_key = lines.map(lambda line : (line[0].encode('utf-8').strip(), 1))
+details_unique_key = lines.map(lambda line : (line[0].encode('utf-8').strip(), 1)) \
+					.reduceByKey(add) \
+					.map(lambda x: col_details(x[0], x[1]))
 
 details_unique_key.map(lambda x: "%s\t%s %s %s" % (x[0], x[1], x[2], x[3])).saveAsTextFile("1_details.out")
 
