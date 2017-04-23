@@ -15,5 +15,6 @@ lines = lines.mapPartitions(lambda x: reader(x))
 date_zip_complaint_type_dist = lines.map(lambda line : ((line[1].strip().encode('utf-8'),line[8].encode('utf-8'), line[5].encode('utf-8')), 1)) \
 				.reduceByKey(add) \
 				.sortBy(lambda x: (-x[1], x[0][0], x[0][1],x[0][2])) \
+				.take(2000) \
 				.map(lambda x: "%s, %s, %s\t%s" % (x[0][0], x[0][1], x[0][2], x[1]))
 date_zip_complaint_type_dist.saveAsTextFile("date_zip_complaint_type_dist.out")
