@@ -47,7 +47,7 @@ df_weather.registerTempTable("df_weather")
 
 df_joined = df_heating.join(df_weather, df_heating.created_date == df_weather.date) 
 
-df_joined.map(lambda x: (x[0], x[1], x[3], 'unexpected' if ((float(x[1]) > ub) or (float(x[1]) < lb)) else 'expected')).sortBy(lambda x: (x[0])).map(lambda x: "%s\t%s, %s, %s" % (x[0], x[1], x[2], x[3])).saveAsTextFile("heating_complaints_temp.out")
+df_joined.map(lambda x: (x[0], x[1], x[3], 'unexpected' if ((float(x[1]) > ub) or (float(x[1]) < lb)) else 'expected')).sortBy(lambda x: (x[0])).map(lambda x: "%s,%s,%s,%s" % (x[0].strftime("%Y%m%d"), x[1], x[2], x[3])).saveAsTextFile("heating_complaints_temp.out")
 
 
 sc.stop()
