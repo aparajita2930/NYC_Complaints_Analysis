@@ -1,0 +1,6 @@
+min_num_complaints: 0.00
+quartile_1_num_complaints: 86.00
+median_num_complaints: 399.00
+quartile_3_num_complaints: 909.50
+max_num_complaints: 5847.00
+correlation_score_num_complaints_temp: -0.78
