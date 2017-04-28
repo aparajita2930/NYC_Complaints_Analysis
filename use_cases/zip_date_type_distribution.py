@@ -12,7 +12,7 @@ if len(sys.argv) != 2:
 sc = SparkContext()
 lines = sc.textFile(sys.argv[1], 1, use_unicode=False)
 lines = lines.mapPartitions(lambda x: reader(x)) 
-date_zip_complaint_type_dist = lines.map(lambda line : ((line[1].strip().encode('utf-8'),line[8].encode('utf-8'), line[5].encode('utf-8')), 1)) \
+date_zip_complaint_type_dist = lines.map(lambda line : ((line[1][:10].strip().encode('utf-8'),line[8].encode('utf-8'), line[5].encode('utf-8')), 1)) \
 				.filter(lambda ((d,z,t),c) : z and 'HEAT' not in t) \
 				.reduceByKey(lambda x,y: x + y) \
 				.sortBy(lambda x:x[1], False) \
