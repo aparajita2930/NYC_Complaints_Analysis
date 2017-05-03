@@ -21,7 +21,7 @@ crash = crash.filter(lambda line: "DATE" not in line)
 crash = crash.mapPartitions(lambda x: reader(x))
 
 noise_comp_dist = lines.map(lambda line: (datetime.strptime(line[1][0:10].encode('utf-8').strip(), "%m/%d/%Y"),
-					  1 if line[5].encode('utf-8').strip().upper() == ""NOISE - RESIDENTIAL"  else 0)) \
+					  1 if line[5].encode('utf-8').strip().upper() == "NOISE - STREET/SIDEWALK"  else 0)) \
 				.reduceByKey(add)
 
 
@@ -44,7 +44,7 @@ df_joined = df_noise.join(df_crash, df_noise.created_date == df_crash.date)
 df_joined.map(lambda x: (x[0], x[1], x[3], 'unexpected' if ((float(x[1]) > ub) or (float(x[1]) < lb)) else 'expected')) \
 	.sortBy(lambda x: (x[0])) \
 	.map(lambda x: "%s,%s,%s,%s" % (x[0].strftime("%Y%m%d"), x[1], x[2], x[3])) \
-	.saveAsTextFile("noise_complaints_crash.out")
+	.saveAsTextFile("noise_complaints_crash_sw.out")
 
 corr_coeff = df_joined.stat.corr("comp_freq", "crash_freq")
 
@@ -56,4 +56,4 @@ mean = noise_comp_dist.values().sum()/float(noise_comp_dist.count())
 l = [("min_num_complaints", minval), ("quartile_1_num_complaints", quartile_1), ("median_num_complaints", median), ("quartile_3_num_complaints", quartile_3), ("max_num_complaints",maxval), ("correlation_score_num_complaints_crash", corr_coeff)]
 sc.parallelize(l) \
 	.map(lambda x: "%s: %.2f" % (x[0], x[1])) \
-	.saveAsTextFile("noise_complaints_crash_summary.out")
+	.saveAsTextFile("noise_complaints_crash_sw_summary.out")
