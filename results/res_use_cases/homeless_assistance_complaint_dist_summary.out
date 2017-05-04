@@ -1,6 +1,6 @@
-min_num_complaints: 0.00
-quartile_1_num_complaints: 34.25
-median_num_complaints: 254.50
-quartile_3_num_complaints: 841.00
-max_num_complaints: 42744.00
-correlation_score_num_homeless_income: 0.67
+min_num_complaints: 12.00
+quartile_1_num_complaints: 135.25
+median_num_complaints: 266.00
+quartile_3_num_complaints: 1036.75
+max_num_complaints: 39365.00
+correlation_score_num_homeless_income: 0.64
