@@ -1,0 +1,7 @@
+min_num_complaints: 0.00
+quartile_1_num_complaints: 0.00
+median_num_complaints: 0.00
+quartile_3_num_complaints: 0.00
+max_num_complaints: 30.00
+correlation_score_num_noise_collisions: 0.07
+correlation_score_fringe_num_noise_collisions: 0.01
