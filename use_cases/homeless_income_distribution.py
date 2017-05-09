@@ -7,6 +7,10 @@ from csv import reader
 from datetime import datetime
 from pyspark.sql import HiveContext
 
+def split_key(key):
+	arr = key.split(',')
+	return arr[0], arr[1]
+
 if len(sys.argv) != 2:
 	print("Usage: homeless_income_distribution <file>",  file=sys.stderr)
 	exit(-1)
@@ -35,6 +39,11 @@ quartile_3 = sqlContext.sql("SELECT percentile(frequency, 0.75) FROM df_homeless
 		
 df_joined = df_homeless_combined.join(df_income, df_homeless_combined.key == df_income.key) 
 
+df_joined.map(lambda x: (x[0], x[1], x[3])) \
+	.sortBy(lambda x: (x[0])) \
+	.map(lambda x: "%s,%s,%s" % (x[0], x[1], x[2])) \
+	.saveAsTextFile("homeless_complaints_combined_with_income_gap.out")
+
 corr_coeff = df_joined.stat.corr("frequency", "income_ratio")
 
 minval = homeless_complaint_dist.values().min()
@@ -60,6 +69,10 @@ quartile_1 = sqlContext.sql("SELECT percentile(frequency, 0.25) FROM df_homeless
 quartile_3 = sqlContext.sql("SELECT percentile(frequency, 0.75) FROM df_homeless_assistance").map(lambda x: x._c0).collect()[0]
 		
 df_joined = df_homeless_assistance.join(df_income, df_homeless_assistance.key == df_income.key) 
+df_joined.map(lambda x: (x[0], x[1], x[3])) \
+	.sortBy(lambda x: (x[0])) \
+	.map(lambda x: "%s,%s,%s" % (x[0], x[1], x[2])) \
+	.saveAsTextFile("homeless_assistance_complaints_with_income_gap.out")
 
 corr_coeff = df_joined.stat.corr("frequency", "income_ratio")
 
@@ -87,6 +100,11 @@ quartile_3 = sqlContext.sql("SELECT percentile(frequency, 0.75) FROM df_homeless
 		
 df_joined = df_homeless_encampment.join(df_income, df_homeless_encampment.key == df_income.key) 
 
+df_joined.map(lambda x: (x[0], x[1], x[3])) \
+	.sortBy(lambda x: (x[0])) \
+	.map(lambda x: "%s,%s,%s" % (x[0], x[1], x[2])) \
+	.saveAsTextFile("homeless_encampment_complaints_with_income_gap.out")
+
 corr_coeff = df_joined.stat.corr("frequency", "income_ratio")
 
 minval = homeless_complaint_dist.values().min()
@@ -101,3 +119,4 @@ sc.parallelize(l) \
 
 
 sc.stop()
+
