@@ -28,7 +28,7 @@ def get_time(val, timestamp):
 	if timestamp == "A" and val == "12":
 		return "00"
 	elif timestamp == "P":
-		return str(int(val) + 12)
+		return val == "12" ? val : str(int(val) + 12)
 	else:
 		return val
 
