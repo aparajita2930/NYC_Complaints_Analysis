@@ -28,8 +28,7 @@ df_income.registerTempTable("df_income")
 # Complaint types Combined
 
 homeless_complaint_dist = lines.map(lambda line: (line[1][6:10].encode('utf-8').strip() + "," + line[23].encode('utf-8').strip().upper(), 1 if ('HOMELESS' in line[5].encode('utf-8').strip().upper() and line[23].encode('utf-8').strip().upper() != "Unspecified".upper()) else 0)) \
-				.reduceByKey(add) \
-				.filter(lambda (k,v) : v > 0)
+				.reduceByKey(add)
 
 df_homeless_combined = homeless_complaint_dist.toDF(["key", "frequency"])
 df_homeless_combined.registerTempTable("df_homeless_combined")
@@ -59,8 +58,7 @@ sc.parallelize(l) \
 # only complaint types Homeless Person Assistance
 
 homeless_complaint_dist = lines.map(lambda line: (line[1][6:10].encode('utf-8').strip() + "," + line[23].encode('utf-8').strip().upper(), 1 if (line[5].encode('utf-8').strip().upper() == "Homeless Person Assistance".upper() and line[23].encode('utf-8').strip().upper() != "Unspecified".upper()) else 0)) \
-				.reduceByKey(add) \
-				.filter(lambda (k,v) : v > 0)
+				.reduceByKey(add)
 
 df_homeless_assistance = homeless_complaint_dist.toDF(["key", "frequency"])
 df_homeless_assistance.registerTempTable("df_homeless_assistance")
@@ -89,8 +87,7 @@ sc.parallelize(l) \
 # only complaint types Homeless Encampment
 
 homeless_complaint_dist = lines.map(lambda line: (line[1][6:10].encode('utf-8').strip() + "," + line[23].encode('utf-8').strip().upper(), 1 if (line[5].encode('utf-8').strip().upper() == "Homeless Encampment".upper() and line[23].encode('utf-8').strip().upper() != "Unspecified".upper()) else 0)) \
-				.reduceByKey(add) \
-				.filter(lambda (k,v) : v > 0)
+				.reduceByKey(add)
 
 df_homeless_encampment = homeless_complaint_dist.toDF(["key", "frequency"])
 df_homeless_encampment.registerTempTable("df_homeless_encampment")
