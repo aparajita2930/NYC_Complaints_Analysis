@@ -59,11 +59,18 @@ pip install jupyter -- There are times when this does not work on Python 2, in t
 
 Then execute the following command:
 cd results/plots
+For Part I, run the following command:
 jupyter notebook results/plots/visualizations.ipynb
+
+For Part II, run the following command:
+jupyter notebook results/plots/Part 2 Visualizations.ipynb
 
 You can run all the cells in the notebook by clicking on the menu Cell -> Run All.
 
-You can view all the plots in the notebook hosted at https://github.com/aparajita2930/NYC_Complaints_Analysis/blob/master/results/plots/visualizations.ipynb 
+You can view all the plots in the notebook hosted at 
 
+Part I
+https://github.com/aparajita2930/NYC_Complaints_Analysis/blob/master/results/plots/visualizations.ipynb 
 
-
+Part II
+https://github.com/aparajita2930/NYC_Complaints_Analysis/blob/master/results/plots/Part%202%20Visualizations.ipynb
